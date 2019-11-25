@@ -1,0 +1,142 @@
+Graphics Software EngineerDuration: 6-month contract with possibility of extension/conversionResponsibilitiesBasic RequirementsPreferred Professional Knowledge & SkillsbYlOzSiVqg
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Seattle, WA Technology jobs in Seattle, WA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Help create a next generation graphics engine on Android devices.Drive subsystems and new features.Work on prototype graphics apps for AR/Graphics/Vision applications.Collaborate with other team members to design interfaces between graphics sub-system and others.Implement graphics relates techniques, such as lighting models, physics simulations.Optimize graphics, Android components for power efficiencies.Debug and fix bugs.Bachelor’s degree or higher; majors in Computer Science or other related engineering disciplines.2+ years working in C/C++.Experience with real-time graphics in shipping products.Excellent understanding of graphics rendering pipeline and the workflow from API calls to pixels rendered on screenGood experience in OpenGL, OpenGL ES, Vulkan or DirectX 12 technologies.1+ years working experience in game development, or related 3d graphics applications.Good communication skills.Experience developing render systems, engines or tools.Practical experience with Unity 3D, Unreal or similar game engines.Practical experience with performance tuning.Work experience with Linux and Android.Hands on experience with OpenGL ES3/Vulkan on Android.Experienced in AR/VR technologies.Experience with rendering engines and rendering pipelines.Experience mentoring jr engineers.

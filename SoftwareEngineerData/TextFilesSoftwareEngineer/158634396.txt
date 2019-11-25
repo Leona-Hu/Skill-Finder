@@ -1,0 +1,142 @@
+Created after 9-11-2001, the Department of Homeland Security consolidated numerous agencies' data centers for central management. CSRA plays a key role in the Department's IT integration strategy through its Data Center-1 program.  CSRA's DC-1 program is committed to delivering an efficient, responsive, and mature data center operation through excellence in service delivery, performance, and continual service improvement.We are seeking a Design Engineering Manager to manage a team of engineers responsible for DC1 Engineering (Platforms, Tools, Network, and Infrastructure.)Education/Experience DetailsGDIT is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status, or any other protected class.Education/Experience Details
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Falls Church, VA Technology jobs in Falls Church, VA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Develops the information technology (IT) system architecture across the DC1 enterprise.Determines and refines requirements based on inputs from Design Strategy, customer inputs, and operations.Determines systems specifications, input/output processes, and working parameters for hardware/software compatibility and maintenance of system security.Coordinates design of subsystems and integration of total system.Identifies, analyzes, and resolves program support deficiencies.Oversight of Engineering projectsLeads the development and deployment of cloud-based servicesMonitors individual employees' performance and provide leadership and guidance to coach, motivate, and lead team members to their optimum   performance levels and career developmentExtensive experience in Data Center Operations/Design (5+ years) and providing services in and ITIL based framework ( as a Service)Must have deep knowledge and experience in all parts (build, integration, operations and maintenance) of Infrastructure and the Design and Monitoring of that Infrastructure (Network , Servers , Storage)BS or equivalent + 15 yrs related experience, or MS + 10 yrs related experience in IT, Computer Science, Engineering, or other technical discipline.Hands on Experience with design and execution of Private/Public and Hybrid cloud technologies. Certs desired but not required. (PMP, ITIL, SCRUM, Cloud Certs) Applies extensive technical expertise and has full knowledge of other related disciplines.Develops technical solutions to complex problems which require the regular use of ingenuity and creativity.

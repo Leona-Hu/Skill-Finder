@@ -1,0 +1,142 @@
+Position Summary:Software Engineer III will develop software for medium to large-sized projects by studying information needs; conferring with clients; studying systems flow, data usage, and work processes; investigating problem areas; following the software development lifecycle. Determines operational feasibility by evaluating analysis, problem definition, requirements, solution development, and proposed solutions. Documents and demonstrates solutions by developing documentation, flowcharts, layouts, diagrams, charts, code comments and clear code. Improves operations by conducting systems analysis; recommending changes in policies and procedures.Performs technical planning, system integration, verification and validation, cost and risk, and supportability and effectiveness analyses for total systems. Analyses of all levels of total system product which may include: concept, design, fabrication, test, installation, operation, maintenance and disposal.Minimum Job Requirements:
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Washington, DC Technology jobs in Washington, DC Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Degree Requirement: Bachelor's Degree in Computer Information Systems or related field.May substitute equivalent combination of education and experience.Years of Experience: 7+ years in software engineering.5+ years of experience developing J2EE applications including J2EE/Java performance testing and tuning.Experience with Junit or other unit testing frameworks such as TestNG, JMock, or DBUnit J2EE/Java erfromance testing and tuning experience.Advanced experience with the following software languages: PL/SQL, C++, Java, JavaScript, Java Framework (ie Strut 2 and Spring), Apache Tomcat, Linux (Red Hat), GenEdit, SVN (Subversion).Advanced Java programming and Object Oriented Analysis and Design skills.Proficiency Level Required with MS Office Products: advanced.Full lifecycle experience with requirements analysis, design, development, testing, deployment and support.Experience with Web Services.3+ years of MVC framework experience; STRUTS, SPRING MVC, JSF. AngularJSSQL experience on Oracle or other relational database.3+ years of PL/SQL experience.Advanced experience working with Oracle databases.Extensive experience in developing enterprise Java solutions following standard/best practices including SDLC, OOAD, and design patterns.In-depth knowledge of Relational Database Management Systems including knowledge of dat modeling concepts, ERD design and development.Strong experience in developing enterprise Java solutions following standard/best practices including SDLC, OOAD and design patterns.Experience in the design, development and implementation of batch applications.5+ years of experience working with Software Development methodologies (Waterfall, RUP, AGILE/SCRUM).Demonstrated analytical and problem solving skills.Experience with Maven, Ant, or other build tools.Experience with SVN (Subversion) or other source code control system.Proven experience building Java-based solutions for highly available and scale systems on Red Hat Linux.Applicants selected will be subject to a government security investigation and must meet eligibility requirements for a public trust clearance or higher.U. S. Citizenship required per government contract.Some travel may be required, up to 10% of the time.

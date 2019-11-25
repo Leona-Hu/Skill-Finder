@@ -1,0 +1,142 @@
+You + enovLABAre you passionate about the sports, music and entertainment industry? Do you want to join a startup? Do you thrive in a fast-paced and innovative work environment? If so, you’ve come to the right place!At enovLAB, we’re looking for people willing to disrupt an entire industry and challenge the rules of the game. If you are are a self-starter who does their best work with teammates and demands excellence from yourself and those around you, then we want to talk to you.As a Backend Developer, you will be part of a highly talented and experienced team that is building an innovative technology and solving meaningful challenges. We are a small but growing team and expect you to put your spin on our exciting projects. This is a unique opportunity for someone looking to have an impact and to shape the future of a business. Grow with us, learn from the best and create a product that will be used by many! EnovLAB offers competitive salaries plus medical, dental, vision, and life insurance.ResponsibilitiesQualifications
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in New York, NY Technology jobs in New York, NY Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Utilize your Java skills to implement APIs for our new platformDesign and build elegant solutions using modern lightweight technologiesLeverage your knowledge of Java, J2EE and Spring to deliver industry-leading, well-structured, well-documented and fully-tested codeCommunicate effectively with product managers, UI/UX engineers, and other members of the development teamInterface with various front-end technologies and frameworksBe responsible for daily code reviews2+ years of experienceExperience with lightweight Java and J2EEExperience in the Spring Framework (3., 4.x, Spring MVC, Spring Boot, Spring Data, Annotations)Experience in designing scalable & flexible backend systemsMastery in developing RESTful web services with JSONExperience with NoSQL (e.g., MongoDB, DynamoDB, Cassandra) a plusExperience with SQL/RDBMS (e.g., mySQL, Postgres, Oracle, Aurora, RDA), DB Modeling, DB Queries, ORM (e.g., Hibernate, JDBI, Ibatis)Vast understanding of object oriented design patterns and principlesProficiency in test-driven development (e.g., JUnit, Mockito)Experience with source-code management tools (e.g., Git, SVN)Experience with build tools (e.g., Maven, Gradle, ANT, CodeBuild)Experience with Continuous Integration and Delivery (e.g., CodeDeploy, CodePipeline)Works well independently and with a teamComfortable delivering high quality work with a quick turnaround rateCan code review team membersExperience with Web Based Systems and Node JS a plusExperience with Content Management Systems a plusMasters in Computer Science a plus

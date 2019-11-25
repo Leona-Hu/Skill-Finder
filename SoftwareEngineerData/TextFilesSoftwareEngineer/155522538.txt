@@ -1,0 +1,142 @@
+HBUS is an advanced digital currency trading platform and the exclusive U.S. partner of Huobi, one of the world's largest digital currency marketplaces. HBUS offers a wider variety of token options and giveaways to American audiences, with 24/7 personal customer support and unparalleled security.Located in San Francisco, HBUS is founded by a team of proven technology executives and disruptive founders. HBUS operates under the highest of ethical standards and is committed to full U.S. legal compliance.Both a technology start-up and a fully regulated financial institution, HBUS takes the best of Silicon Valley creative minds, relentless innovation, and unconventional thinking and combines it with proven execution from seasoned technology and finance executives. The company is guided by a mission to democratize the global financial system and reduce the barrier to access financial services through a block-chain-enabled future.What You Will Do What You Might Look Like What We Offer
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in San Francisco, CA Technology jobs in San Francisco, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Design and build applications for the iOS platformEnsure the performance, quality, and responsiveness of applicationsHelp maintain code quality, organization, and automatizationDesigning and building advanced applications for the iOS platformCollaborating with cross-functional teams to define, design, and ship new featuresUnit-testing code for robustness, including edge cases, usability, and general reliabilityDesign and build advanced applications for the iOS platformWork on bug fixing and improving application performanceContinuously discover, evaluate, and implement new technologies to maximize development efficiencyDesign, code, analyze, and test systems for iOS applicationsHandle software updates, patches, and bug fixesDevelop applications for time-sensitive projects while considering business/system requirementsCommunicate with a team of developers, designers, project managers, and other personnel to ship new features4 years’ experience developing native iOS applications5 years of experience in mobile or web application developmentExpert in designing and building iOS applications on top of RESTful servicesStrong fluency in Objective-CStrong experience in using related tools: XCode, Instruments to troubleshoot and profile iOS native appsHave at least one app published in the App StoreExperience with one or more general purpose programming languages including but not limited to: Java, Go, ScalaExperience with test frameworks such as KIF and Espresso, etc.Experience working as part of an agile software development team including interaction with a source code repository (GitHub or SVN)Continuous integration considered a plusExpert in design/implementation for user experience and performanceConfidence in advocating for and implementing iOS design patternsAbility to work with multiple partners/teams and lead projects to deliveryWrite unit tests not because you have to, but because you know it makes your code better.Familiarity with continuous integration (Jenkins), application monitoring (Crashlytics and fabric.io), mocking tools (Appium and Apiary) and Cucumber for functional testsOpen to work on both iOS and Android code baseExperience with Cocoa Pods and creating independent frameworks is a plusB.S. or equivalent degree in Computer Science is desiredCompetitive salary100% paid medical, dental & vision insurance for employees and immediate familyCommuter reimbursement benefitsFree daily lunches and stocked kitchen with snacks and beveragesA friendly work environment where you can do your best work and thrive

@@ -1,0 +1,142 @@
+Where good people build rewarding careers.Think that working in the insurance field can’t be exciting, rewarding and challenging? Think again. You’ll help us reinvent protection and retirement to improve customers’ lives. We’ll help you make an impact with our training and mentoring offerings. Here, you’ll have the opportunity to expand and apply your skills in ways you never thought possible. And you’ll have fun doing it. Join a company of individuals with hopes, plans and passions, all using and developing our talents for good, at work and in life.Allstate is currently seeking a Service Engineer - Enterprise Software Environment Support. The position will reside in Allstate Technology and Strategic Ventures (ATSV) Information Services Group (ISG) as part of the UVC Operations Excellence Team. It will provide environment production and non-production support for the Unified Customer View platform (UCV).  UCV is a mission-critical data platform providing the business with a 360 degree view of customer information across all channels.  The role is responsible for monitoring and managing the availability of the UCV environment.   Essential criteria  Desirable Criteria  The candidate(s) offered this position will be required to submit to a background investigation, which includes a drug screen.Good Work. Good Life. Good Hands®. As a Fortune 100 company and industry leader, we provide a competitive salary – but that’s just the beginning. Our Total Rewards package also offers benefits like tuition assistance, medical and dental insurance, as well as a robust pension and 401(k). Plus, you’ll have access to a wide variety of programs to help you balance your work and personal life -- including a generous paid time off policy.Learn more about life at Allstate. Connect with us on Twitter, Facebook, Instagram and LinkedIn or watch a video.Allstate generally does not sponsor individuals for employment-based visas for this position.Effective July 1, 2014, under Indiana House Enrolled Act (HEA) 1242, it is against public policy of the State of Indiana and a discriminatory practice for an employer to discriminate against a prospective employee on the basis of status as a veteran by refusing to employ an applicant on the basis that they are a veteran of the armed forces of the United States, a member of the Indiana National Guard or a member of a reserve component. For jobs in San Francisco, please click "here" for information regarding the San Francisco Fair Chance Ordinance. For jobs in Los Angeles, please click "here" for information regarding the Los Angeles Fair Chance Initiative for Hiring Ordinance.It is the policy of Allstate to employ the best qualified individuals available for all jobs without regard to race, color, religion, sex, age, national origin, sexual orientation, gender identity/gender expression, disability, and citizenship status as a veteran with a disability or veteran of the Vietnam Era.Job DescriptionKey ResponsibilitiesJob Qualifications
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+TwitterFacebookInstagramLinkedInvideo"here""here"Software Engineer jobs in Irving, TX Technology jobs in Irving, TX Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Monitor both production and non-production software environments to ensure availability of UCV services.Respond to major incidents with a view to move from red to green as quickly as possible.Provide support and automated solutions for UCV technologies including consulting, configuring, deploying, monitoring, and self-healing/recovery for applications.Collaborate with others to ensure that any modified hardware and software components interact appropriately, that data conversion impacts are considered, environments are setup and maintained and areas of impact are identified and addressed.Execute service requests, perform routine administration to support both hardware and software components.Analyse hardware and system software to identify and recommend minor or routine changes for purposes of incident avoidance.Monitor daily use of the technical components to identify and address expected capacity pitfalls and diagnose deviations or substandard security performance.Perform root cause analysis on complex incidents and problems to provide future hardware and/or software resiliency.Contributes to team Technology Roadmap.Minimum of 3 years’ experience in an IT environment in a software development, support or configuration management role in production and non-production environments.Proven experience in Unix/Linux and/or Windows operating systems, platforms, and scripting languages.Experience of managing and supporting enterprise software applications in complex and highly available environments.High level appreciation of software development best practices including SDLC, Software Configuration and Change Management, Agile, Scrum etc.Good stakeholder management and communication skills.Good Problem-Solving Skills.Ability to self-learn and self-manage.Results focused with a strong ability to multi task.Knowledge of vended applications with Pitney Bowes Spectrum and IBM InfoSphere MDMKnowledge of other technologies Layer 7, TIBCO, F5/networking, OracleKnowledge of CICD and monitoring scripting and support tools including GitHub, Jenkins, Puppet, Octopus, Splunk, DynatracePrevious experience in working to SLA agreementsITIL certification or experience

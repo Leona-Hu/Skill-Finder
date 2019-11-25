@@ -1,0 +1,142 @@
+RESPONSIBILITIES:REQUIREMENTS:
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Overland Park, KS Technology jobs in Overland Park, KS Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+ Designs, codes, tests, debugs and documents software according to internal systems quality standards, policies and procedures Prepares test data for unit, string and parallel testing Evaluates and recommends software and hardware solutions to meet user needs Resolves customer issues with software solutions and responds to suggestions for improvements and enhancements Works with business and development teams to clarify requirements to ensure testability Drafts, revises, and maintains test plans, test cases, automated test scripts and design documentation Executes test procedures according to software requirements specifications Logs defects and makes recommendations to address defects for retesting Documents evolution of testing procedures for future replication Plans, conducts and manages assignments generally involving large, high budgets (cross- functional) projects or more than one project Assists in creating the strategic technical and architectural direction to the programming function Serves as point of contact between IT and key business users senior leadership in defining IT solution based on business needs Drives changes in architecture, methodology or programming procedures Performs estimation efforts on the most complex projects and tracks progress Serves as the testing consultant to leader in the IT organization and functional user groups Mentors team members on all aspects of testing concepts .NET* Microservices experience AWS (Amazon Web Services) experience Cloud Technology experience is ideal

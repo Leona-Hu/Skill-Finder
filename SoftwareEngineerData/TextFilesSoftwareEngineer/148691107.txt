@@ -1,0 +1,142 @@
+SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars.DYNAMICS SOFTWARE ENGINEERAs a member of the Integrated Dynamics Analysis group, you will design, develop, and maintain analytical and data management tools associated with structural dynamics analysis. These analyses involve complex and recurring processes that can be computationally expensive. You will be responsible for the complete lifecycle of the software you create, from development to testing to deployment to the dynamics engineering team. Be prepared to join a challenging and exciting work environment where your work will directly contribute to SpaceX’s commercial, manned, and Mars missions.RESPONSIBILITIES: BASIC QUALIFICATIONS:PREFERRED SKILLS AND EXPERIENCE:ADDITIONAL REQUIREMENTS:ITAR REQUIREMENTS:SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.Applicants wishing to view a copy of SpaceX’s Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the application/interview process should notify the Human Resources Department at (310) 363-6000.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Hawthorne, CA Technology jobs in Hawthorne, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Collaborate with dynamics engineers to build analytical tools for structural dynamics and physics simulation.Develop software to automate recurring processes and analyses.Accelerate computationally expensive processes through algorithmic optimization and parallel/distributed computing.Build data management solutions for storing, accessing, and manipulating flight, test, and analysis data.Develop intuitive and flexible front-ends.Bachelor’s degree in computer science, aerospace engineering or mechanical engineering.1+ years of experience working on software applications deployed in a production setting (including internships).Master’s degree in computer science, aerospace engineering or mechanical engineering.Experience with data analysis and signal processing in Python.Experience with SQL and NoSQL databases.Experience with user interface or web front-end design.Interest and training in mechanical engineering, physics, and/or mathematics.Ability to work effectively in a fast-paced environment with changing needs and requirements.Ability to identify customer needs, gather requirements, and execute with high in-dependency.Ability to take on projects that require taking initiative and developing new expertise.Must be willing to work long hours and weekends as needed.To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here. 

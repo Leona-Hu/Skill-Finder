@@ -1,0 +1,142 @@
+Our direct client is a fast-growing technology company building highly secure infrastructure/network data security products and systems. This position will have a significant role in supporting current and future products within our security product landscape. Successful candidates will learn to build Linux systems with a focus on utilizing system and security best practices. Must code in C.You will work on:Additional areas of learning:Qualifications:• College degree in a relevant field of study. i.e. engineering, computer science, physics, etc.• Limited travel may be requiredOverall experience with systems design, function and loading platforms, a must!For immediate consideration, please reply with your updated resume today!! Excellent work environment!!#ZR
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Danbury, CT Technology jobs in Danbury, CT Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Creating custom installations of Red Hat Enterprise / CentOS / Fedora Linux Operating Systems for turn-key solutionsSetup and Testing new hardware platforms for turn-key solutionsEvaluate applications for use within turn-key solutionsConfigure software and solutions to meet security best practicesOperating System and application performance tuningWrite product and project design documentsConfigure applications and assist in defining tests plans to match system requirementsScripting using Python and/or BashWrite RPM spec files and building of RPMsAssist with the building of user interfacesAbility to work with product management and / or customers to understand problems and define solutionsWork effectively within a team environmentOther duties as management may so directExperience building and configuring Red Hat Enterprise / CentOS (6 and 7) or Fedora for custom hardware platformsx86 and ARM architecturesKickstart / anacondaappliance-creatorx86 and ARM architecturesKickstart / anacondaappliance-creatorSystems administration backgroundSoftware installation / configuration / integrationRHCSA or RHCE certification is a plusSoftware installation / configuration / integrationRHCSA or RHCE certification is a plusStrong Networking skills (TCP/UDP)Bash and Python scriptingAuditing and remediation of systems for security assessmentsDebugging operating system level issues Version control software (Git) Software development and testingOverall coordination, development and execution of product developmentAble to work in a fast paced environmentAble to work independently and collaboratively DPDKVPN ConfigurationNiFiJVM tuningClustering / High AvailabilityAnsible / SatelliteDPDKVPN ConfigurationNiFiJVM tuningClustering / High AvailabilityAnsible / Satellite

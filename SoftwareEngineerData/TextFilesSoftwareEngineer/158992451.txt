@@ -1,0 +1,142 @@
+Are you an engineer who’d be thrilled to help create top-notch entertainment experiences alongside a team of talented artists and designers? Are you passionate about Blizzard franchises? Then we’d love to hear from you! Our team is working on an unannounced mobile project at Blizzard, and we’re looking for a tools engineer to help our designers and artists realize our vision. Everyone on our team is empowered to influence all aspects of the project, from the overall design to its artistic vision and technology. This is a great opportunity to get in on the ground floor.Responsibilities:Requirements:Pluses:Blizzard Entertainment is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, gender expression, national origin, protected veteran status, or any other basis protected by applicable law, and will not be discriminated against on the basis of disability.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Irvine, CA Technology jobs in Irvine, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Collaborate with art, design, localization, and sound to streamline workflows.Build and maintain content creation tools.Identify areas where new tools or improvements can increase team productivity.Coordinate with the automation team and with shared services groups across Blizzard to facilitate content distribution and streaming.Fluency in C++ or C#.Effective communication skills with developers of all technical skill levels.Excited by improving iteration times & reducing friction.An extensive background in debugging & troubleshooting.Knowledge of game content pipelines.3DS Studio Max or Maya plugin development.Experience shipping titles using your tools.Experience with Unity development.Experience with IMGUI or other rapid GUI development frameworks.Familiarity with git, perforce, or subversion.Familiarity with Python or other interpreted languages.User interface design experience.

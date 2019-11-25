@@ -1,0 +1,142 @@
+About Amobee:The world’s leading independent advertising platform, Amobee unifies all advertising channels—including TV, programmatic and social—across all formats and devices. We provide marketers with streamlined, advanced media planning capabilities powered by in-depth analytics and proprietary audience data. Our platform and technology, provides the most advanced advertising solutions for the convergence of digital and advanced TV— including linear TV, over the top, connected TV, and premium digital video. Enabling advertisers to plan and activate across more than 150 integrated partners, including Facebook, Instagram, Pinterest, Snapchat and Twitter.Amobee has been named to Fortune’s Top 10 Best Workplaces in Advertising and Marketing. Amobee’s platforms have been widely recognized amongst our industry winning numerous awards in technology innovation, see all Amobee Awards. We are a wholly owned subsidiary of Singtel, one of the largest telco companies in the world, reaching over 700 million mobile subscribers in 21 countries. Amobee operates across North America, Europe, Middle East, Asia and Australia. For more information, visit amobee.com or follow @amobee.Position Summary:We are looking for kick-ass UI/UX software engineers to join our rapidly growing Applications team, responsible for all of the client-facing frontend components at Amobee. You should be motivated by building high performance, web-based, enterprise applications that are used to manage hundreds of millions of dollars in digital marketing spend around the globe.The Applications team work closely with the Product Management and User Experience teams to help design our client facing platform. Our work process is a nice blend of agile and design-oriented development which puts the customer experience first and foremost.The UI/UX applications team are mostly frontend UI/UX software engineers with exposure to lots of frontend technologies. You help connect the dots from customer feedback, to collaborating with our User Experience team, to working closely with other engineers on design and implementation.    In either case, the collaborative nature of the team allows you to constantly learn new things and mentor others.At Amobee, what you build has impact on millions and works to better the Internet. You’ll do this in one of the fastest growing companies in the Silicon Valley, with a culture that promotes innovation, freedom, growth, and humor. You’ll work with people who are as passionate about web applications as you are, along with leading experts in computing, -mining, and machine learning who build our backend platform. We are very passionate about what we do here, and at the same time have fun doing what we love. Misc. company and team events provide a good mix of work and play.  We all need to chill out every once in a while and have fun with our fellow team members.Responsibilities:Required Qualifications:Location: Redwood CityIn addition to our great environment, we offer a competitive base salary, bonus program, stock options, employee development programs and other comprehensive benefits. Please send a cover letter along with your resume when applying to the position of interest located at Amobee.com. We are an Equal Opportunity Employer. No phone calls and no recruiting agencies, please. #GD
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Redwood City, CA Technology jobs in Redwood City, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Work on high touch, high visibility, high performance, highly scalable enterprise web applications - client facing apps involving lots of data, highly complex UI workflows, actionable insights /analytics, data visualizations,..etc.Experiment with new ways of visualizing large amounts of data in a scalable fashion.Build and maintain a Design System with common UI/UX components shared by all technology platforms at Amobee.Build and maintain a wide variety of modular and extensible set of frontend micro servicesResearch on new web technologiesDegree in Computer Science from a top tier schoolAnywhere from 0 – 5+ years of experienceHigh degree of comfort in Javascript, CSS and HTML.Experience with javascript frameworks like React or Angular.Experience with enterprise/saas web application developmentFamiliarity with Java development is beneficialPassionate about web based applicationsKeen sense of information architecture and visual designMotivated by writing fast, scalable code with testability in mindExcited by working in a fast-paced environment

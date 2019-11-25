@@ -1,0 +1,142 @@
+Responsible for the development and documentation of complex Windows applications embedded in state-of-art ophthalmic surgical devices. These devices incorporate multiple real time and non-real time processors communicating over a common bus. Windows is used to implement functionality including GUI, database, business logic, and external networking. You will participate in all phases of the software lifecycle, including concept development, requirements, design, implementation, and testing. In this position you will gain an in-depth understanding of the anatomy, physiology, and pathology of the eye.Minimum requirementsPreferred 
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Lake Forest, CA Technology jobs in Lake Forest, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Develops and applies complex concepts and proposes new and unique approaches, methods, procedures and designs with regular use of ingenuity, creativity and originality to researching technical issues. Applies advanced level software development principles to the research and development of Windows applications.Assures continuity of products and processes through feasibility assessment, research, design, development and compliance to requirements. Leads design reviews.Ensures regulatory / statutory / legislative compliance for all project workBS Computer Science, or related discipline and 6 years work experience. Excellent written and verbal English communication skills are required. 10 + years hands-on Windows development experience. Experience with .NET, C# and C++. Familiarity with hardware design constraints as applied to software interfaces. Demonstrated ability to independently research technical issues and generate creative/innovative solutions. Fluent verbal and written English communication skills.5 years Medical Device work experience and MS + 8 years' experience or BS + 10 years' work experience.Development of medical device software in an FDA-regulated environment. Development of Graphic User Interfaces using Windows Presentation Foundation (WPF) for embedded applications. Experience with multi-threading, and interprocess communication. Familiarity with Windows 7 Embedded or Windows 10 IoT. Strong working knowledge of advanced design principles that facilitate maintainability, reuse, and clarity of design.

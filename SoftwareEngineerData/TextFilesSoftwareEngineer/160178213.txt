@@ -1,0 +1,142 @@
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Nashville, TN Technology jobs in Nashville, TN Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Planning, configuration and installation of corporate information systems running Microsoft Windows Server operating systemsPlanning, configuration and tier 3/4 support of Microsoft Office 365, Exchange Server, Unified Messaging, Scripting, SCCM, Active Directory/LDAP, Azure, DNS, ADFS, and Internet Information Server (IIS) systems in a distributed environmentPlanning, configuration, administration and tier 3/4 support of Cisco UCS, NetApp, EMC, and Tintri storage, Vmware ESXi and CitrixEngineering of Systems related solutions for various project and operational needsExperience with performing support and administrative tasks within Amazon Web Services AWS, VM Ware, OpenStack, or other cloud infrastructure technologiesProficient in scripting and one or more programming languages Python, Ruby, Perl, PowerShell, Bash Experience with Infrastructure provisioning tools such as Docker, Chef, Puppet, Ansible, CloudFormationPerforms structured and documented problem-solving activities including root cause analysis, corrective action identification and validation of action effectivenessImplementation of software upgrades, including firmware revisions, operating systems, production software upgrades and other enhancements as requiredAssist in the integration of acquired companies and technologies impacting infrastructureResearch new technologies and make recommendations for hardware, software, network and process/procedure improvementsCreates and maintains documentation such as hardware inventories, floor plans, and technology roadmaps as well as operational policies and proceduresWorks directly with business units to ensure appropriate service levels are maintainedProvide on call support on a rotating basis to resolve system/application issues after normal business hoursProficient in monitoring and logging tools such as Splunk, ELK Stack Elasticsearch, Logstash, and KibanaVaried working hours may be required to accomplish technical solutionsSome travel requiredAdhere to all company policies and proceduresPerform other duties as assigned

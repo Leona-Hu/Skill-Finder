@@ -1,0 +1,142 @@
+689- Guidance Navigation & Control Software EngineerFull TimeFairmont, West VirginiaPosted 2 weeks agoOVERVIEWAt the NASA Katherine Johnson IV&V Facility, we support NASAs IV&V Program, delivering analysis and verification & validation of safety-critical and mission-critical software for a number of important NASA programs, including both human and robotic exploration as well as earth and space science collection platforms.This position is to perform as a NASA Software IV&V analyst within the Guidance, Navigation and Control (GN&C) domains, and will make use of domain-specific GN&C knowledge and experience to perform IV&V analysis, while also depending on understanding of software systems and software development. As a senior member of the IV&V technical staff, this position may include task leadership and mentoring of more junior engineers.GENERAL DUTIESPerform full-lifecycle (i.e., Concept to Deployment) Independent Validation and Verification (IV&V) analyses to ensure the logical and systematic conversion of customer or product requirements into total systems solutions that acknowledge technical constraintsPerform IV&V analysis of system and software architecture, system and software requirements, software design, source code, and the developers software integration, interface, formal verification and qualification, systems and software integration, and certification test productsPerform functional analysis, timeline analysis, detail trade studies, and requirements allocation and interface definition studies to evaluate compliance of software specifications with customer requirements. Conducts software hazard analysis and risk assessmentDevelop independent test plans, cases, procedures, and scripts and performs independent testing of safety-critical and mission-critical software systemsAnalyze the definition, design, implementation, and test of GN&C algorithms and the associated performance parameters represented in the spacecraft flight software to support the specific mission objectivesAnalyze effectiveness/efficiency of NASA program procedures and processes and develops/recommends improvementsPrepare presentations, reports, research, and other contract deliverables related to IV&V analyses performedParticipate in Risk Management process as it relates to execution of the IV&V Project and to the software development project being evaluated by the IV&V teamWork is performed on-site in Government facilitiesOccasional travel may be requiredMay occasionally be assigned IV&V tasks outside of the GN&C domain in accordance with capabilities and program needsMay provide mentorship of other, more junior team members; may lead small teams of analysts performing verification and validation analysesQUALIFICATIONS2 years of experienceBachelors Degree or may be substituted with the following;No Degree and 6 years of experienceCLEARANCEFullUS Citizenshipwith the ability to obtain a Public Trust Security Clearance
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Fairmont, WV Technology jobs in Fairmont, WV Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Full TimeFairmont, West VirginiaPosted 2 weeks agoPerform full-lifecycle (i.e., Concept to Deployment) Independent Validation and Verification (IV&V) analyses to ensure the logical and systematic conversion of customer or product requirements into total systems solutions that acknowledge technical constraintsPerform IV&V analysis of system and software architecture, system and software requirements, software design, source code, and the developers software integration, interface, formal verification and qualification, systems and software integration, and certification test productsPerform functional analysis, timeline analysis, detail trade studies, and requirements allocation and interface definition studies to evaluate compliance of software specifications with customer requirements. Conducts software hazard analysis and risk assessmentDevelop independent test plans, cases, procedures, and scripts and performs independent testing of safety-critical and mission-critical software systemsAnalyze the definition, design, implementation, and test of GN&C algorithms and the associated performance parameters represented in the spacecraft flight software to support the specific mission objectivesAnalyze effectiveness/efficiency of NASA program procedures and processes and develops/recommends improvementsPrepare presentations, reports, research, and other contract deliverables related to IV&V analyses performedParticipate in Risk Management process as it relates to execution of the IV&V Project and to the software development project being evaluated by the IV&V teamWork is performed on-site in Government facilitiesOccasional travel may be requiredMay occasionally be assigned IV&V tasks outside of the GN&C domain in accordance with capabilities and program needsMay provide mentorship of other, more junior team members; may lead small teams of analysts performing verification and validation analyses2 years of experienceBachelors Degree or may be substituted with the following;No Degree and 6 years of experience

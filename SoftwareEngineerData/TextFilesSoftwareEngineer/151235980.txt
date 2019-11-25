@@ -1,0 +1,141 @@
+DESCRIPTION:Were looking for a software engineer to start by January 2020. This role would help expand our existing platforms and develop new features and products. Our small, fast-paced teams are responsible for creating innovative software that enhances the experiences of both our internal and external clients. In Boston, our teams build apps that enable the application of the tools of modern data science to commercial real estate in order to analyze and forecast market fundamentals across geographies and property types. These forecasts provide insight as clients evaluate the risks and opportunities that market changes may represent for their investment portfolios. At CBRE Digital & Tech, youll be able to learn from the most brilliant software engineers while tackling tough problems that will drive our technology forward.RESPONSIBILITIES:1. As part of a 5-9 person team, develop, maintain, and upgrade presentation, data-access, and/or database application tiers for client-facing web applications according to design and/or functional specification. Environments: MS SQL Server, C#/.NET Framework, TFS, Azure PaaS, AWS Technologies: T-SQL, ADO.NET, Entity Framework, Web API, XML, JSON, ASP.NET, JavaScript, Angular, CSS2. Obtain and maintain familiarity (systems, classes, code) with all of CBRE EAs databases and middle-tier applications to contribute ad-hoc programming support and bug fixes. Environments: MS SQL Server, C#/.NET Framework, TFS Technologies: T-SQL, SSIS, WCF, Web API, ADO.NET, Entity Framework, XML, JSON3. Implement and maintain unit tests for new codebases and contribute to the maturation of DevOps processes. Technologies: XUnit, C#/.NET Framework, JavaScript, TFS, SonarQubeQUALIFICATIONS:  EDUCATION: Bachelors degree (or higher) in Computer Science, Information Systems, Data Science, or related.EXPERIENCE: 0-5 YearsTECHNICAL REQUIREMENTS:JavaScript / Angular / HTML / CSSASP.NET MVCASP.NET / Web Forms / C#Web API / WCF/ XML Web ServicesEntity Framework / ADO.NET / ODBCStructured Query Language / T-SQLStored ProceduresRelational database design dexterityData structures expertiseSoftware design pattern fluencyAlgorithm analysis and designSoftware architecture & modular developmentExperience with SQL Server geo-spatial techniques a plusExperience with Telerik Kendo UI, Sitefinity, and/or Test Studio a plusMachine learning interest a plusData visualization experience a plusUI/UX skills a plusPRACTICAL REQUIREMENTS:Creative problem solverStrong mathematical abilityAttention to detailExcellent written and verbal communication skillsComfortable with complex data processing methodologiesInterest in database designAbility to adhere to CBRE database and coding conventionsCURRENT & UPCOMING PROJECTS:Extending a world class forecasting system to enable clients to custom-castDeveloping a data discovery visualization platform that interoperates across appsImplementing an automated valuation modelling product for hotel ownersIntegrating and modernizing international data aggregation centersArchitecting software systems that reduce dependencies on underlying data modelsQUALIFICATIONS:  
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Boston, MA Technology jobs in Boston, MA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+

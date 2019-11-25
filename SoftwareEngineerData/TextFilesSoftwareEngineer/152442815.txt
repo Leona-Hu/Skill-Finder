@@ -1,0 +1,142 @@
+Intermediate Software EngineerAt LogDNA you’ll help us build a fast and modern log management platform that offers the flexibility of an amazing developer experience with the trust of enterprise-grade infrastructure. Today, LogDNA is used by over 3,000 teams including IBM, OpenAI, Instacart, and Lime Bike. We’re building a future where developers don’t have to dread the tools they use at work, starting with log management. We've achieved 300% year-over-year revenue growth in the last year, and we're just getting started.We're YCombinator alumni, venture-backed by Emergence Capital (Salesforce, Box, and Zoom) and Initialized Capital (Reddit, Coinbase, and Patreon). Our team comes from a wide variety of backgrounds and experiences, having worked on products at Heroku, Facebook, WhatsApp, Udacity, Ripple, among others.We're looking for a passionate and motivated Intermediate Backend Engineer to help us build our fast-growing world-class log management system. You’ll work on every part of the data pipeline, from integration with external systems, data ingestion and processing, search, and API design, while dealing with all of the challenges of handling big data - petabytes of data a day and growing. The ideal candidate is self-motivated and focused on impact, comfortable with the velocity of a fast-paced startup and excited to tackle the scaling challenges of big data.Responsibilities:Qualifications:Bonus Points for Prior Experience:Benefits:This is a full-time opportunity based in Mountain View. Apply with confidence - fortune favors the bold.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Mountain View, CA Technology jobs in Mountain View, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Design, implement, and launch critical product features in a fast-paced environmentProvide ongoing maintenance, support and enhancements of our platformsCollaborate in cross-functional teams and with partner companiesInvestigate and improve overall system performanceResearch and development on technical solutions for the next generation of our product3+ years of relevant industry experienceStrong computer science fundamentals: data structures, algorithms, distributed systems, databases and information retrievalStrong understanding of web technologiesStrong communication skills with the ability to lead technical discussionsSelf-motivation and a passion to build great productsKeen attention to detail, particularly as it pertains to securityServer-side JavaScript (Node.js)KubernetesCloud Platforms such as Amazon Web Services, Google Cloud Platform, or Microsoft AzureREST APIsRedis, MongoDB or ElasticSearchMessage Queue systems like RabbitMQ or KafkaData mining and machine learningWorking in a nimble startup environmentWorking in a fun, energetic, agile team environmentFree snacks, lunch, drinks, and coffeeLots of exciting new projectsCompetitive compensation planCompetitive benefits100% Full health premium coverage for you and your dependents (yes... everyone)Dental and Vision coverageUnlimited Vacation

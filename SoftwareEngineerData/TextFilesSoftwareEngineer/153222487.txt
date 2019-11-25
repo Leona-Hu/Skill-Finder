@@ -1,0 +1,152 @@
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Vernon Hills, IL Technology jobs in Vernon Hills, IL Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Analyze software requirements documentation and consult with the author as needed.Formulate a software design using industry best practices and document it appropriately.Implement the software design by coding.Design and execute the unit test plan to verify the coded software.Coordinate communication with vendors related to project materials.Contribute in the creation of software requirements and specifications.Contributes to corporate IP portfolio.
+Experience/Skills Preferred
+
+Understanding of computer architecture principles.
+Experience in embedded systems design with preemptive, multitasking real-time operating systems (RTOS).
+Familiarity with software configuration management tools, defect tracking tools, and peer review.
+Knowledge or experience in GPU programing experience helpful.
+Knowledge of Linux kernel programming and device driver development.
+Experience with embedded Linux build systems such as Yocto
+
+Understanding of computer architecture principles.Experience in embedded systems design with preemptive, multitasking real-time operating systems (RTOS).Familiarity with software configuration management tools, defect tracking tools, and peer review.Knowledge or experience in GPU programing experience helpful.Knowledge of Linux kernel programming and device driver development.Experience with embedded Linux build systems such as YoctoBachelor’s degree in computer science, electrical engineering, or related technical discipline.3+ years of industry C/C++ development experience.Experience designing software for multi-threaded and/or multi-processing environments, including parallel processing.Capable of understanding mathematics and scientific algorithm to design and implement image processing applications.

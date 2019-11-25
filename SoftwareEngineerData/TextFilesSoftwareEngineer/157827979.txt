@@ -1,0 +1,142 @@
+Every day, SmartNews analyzes millions of URLs to deliver the top articles that matter in near-real time to millions of users around the world. Our backend engineers ensure that we can respond to volumes exceeding >1M requests/minwith content that is dynamically personalized for each user. ResponsibilitiesRequirementsMinimum QualificationsPreferred QualificationsBenefits
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in San Francisco, CA Technology jobs in San Francisco, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Design and implement core backend systemsAnalyze and improve stability, efficiency, and scalability of various systemsIntegrate with machine learning system/infrastructure to deliver high quality information to end usersDevelop content crawling and indexing pipelines with large scaleOver 2 years of experience in backend developmentExperience and good understanding of building scalable and fault-tolerant web servicesStrong coding skills in Java, C++ or PythonAble to troubleshoot system problems involving system failure, latency or efficiency issuesExperience with AWSExperience developing and operating a high-traffic web-based applicationGood understanding of JVM internalsStrong interest in news media and our mission to deliver high quality information to the worldEquity included100% medical, dental and vision insurance coverage (60% coverage for dependents)Monthly housing, commute, mobile phone and gym allowances401k matching programFree lunch, snacks, drinks, etc.Pet friendly office

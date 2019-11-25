@@ -1,0 +1,141 @@
+Quicken Loans, Inc. has multiple openings for the position of Software Engineer II (Ref# SEII1030ST).Work Location:  1050 Woodward Ave., Detroit, MI 48226.Job Duties:  Software Engineer for credit services team.  Gather and analyze project requirements and participate in daily standup meetings.  Design, develop, analyze, test, debug, validate, execute, and deploy web-based applications.  Design code level solutions and follow proper code structure and solution configuration.  Develop and deploy applications in both on premise and AWS cloud.  Develop and implement automation and regression tests.  Implement software features.  Maintain and update testing and code libraries.  Provide development support during the software development life-cycle (SDLC).  Prepare test scenarios and map each requirement to the test cases.  Perform post-production application testing.  Assist in continuous improvement efforts to enhance applications.  Collaborate with performance testing team on stability, scalability, and response times of applications.  Use of .Net Framework, C#, ASP.Net, ASP.Net Web API, SQL Server, Amazon Web Services (AWS), GitHub, Team Foundation Server (TFS), MuleSoft ESB, Universal Messaging Queue, Visual Studio, Anypoint Studio, NUnit, Splunk, Java, JavaScript, jQuery, HTML, CSS, and Windows.Requirements:  This position requires a Bachelor’s degree or foreign academic equivalent in Computer Science, Computer Engineering, Information Technology, Computer Information Systems (CIS), or a related field.  Plus 3 years of experience in the job offered or 3 years in a related occupation including Programmer Analyst, Systems Analyst, or related experience.  Position requires 3 years of experience with the following tools/technologies/skills:  participating in daily standup meetings; analyzing requirements; writing & executing automated tests; working with relational databases (SQL Server or Oracle); preparing test scenarios & mapping requirements; and writing code in .NET or Java.  40hrs/week.Application Instructions:  To apply, please MAIL resume to referenced address, ensuring to indicate the position reference code (Ref# SEII1030ST) for which you are applying.  Mail to:  Quicken Loans, Inc., Attn:  Jordyn Gibson, Team Relations Specialist, 1050 Woodward Ave. Detroit, MI  48226.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Detroit, MI Technology jobs in Detroit, MI Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+

@@ -1,0 +1,142 @@
+Were looking for a talented back-end software engineer at Cache Ventures to help develop and manage our growing products. As we grow, we want to continue hiring dedicated and passionate people who share the same beliefs we have about building the best tech products. Familiarity with Ruby on Rails is essential, as it is the main language we use.What Were Looking ForWhat You'll Be DoingRequirementsLanguages & FrameworksOur InfrastructureBenefits
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Santa Monica, CA Technology jobs in Santa Monica, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Well versed in Ruby on Rails and NoSQL database technologies, like MongoDB and RedisAn interest in taking a key role in a growing startupPassion for building quality products that are second to noneFamiliar with the languages, frameworks, and stack behind our productsThe ability to write highly readable, maintainable, and efficient back-end codeThe skills to account for database efficiency when writing back-end codeComfortable with dipping into the front-end when necessary, e.g. to connect controller actions with forms and tablesComfortable working with third-party APIs, both with those that provide Ruby bindings and those that do not, and connecting them with existing codeA high standard for creating robust and reliable softwareReady for handling multiple responsibilities and changing requirements for applicationsCan work efficiently in-house or in a remote environmentAdding new features and bug fixes for our productsDiagnosing issues, simplifying, and refactoring for efficiency in our existing back-end codeAdding functionality to our Stripe integrationsWriting code for collecting, manipulating, and displaying data from our products, including statistics and analyticsRuby on Rails (Rails 4)RSpecMongoDB, including Mongoid ODMRedisStripe Ruby APIGit (specifically, a multi-branch workflow)HAML, SLIM & ERBHerokuMongoDBRedisSidekiqSCM with GitCI with WerckerPM with RedmineAmazon Web Services for assetsBase Salary + Cache RewardsCompetitive Health, Dental and Vision benefitsWork from our Los Angeles, CA based officeLoose vacation policyFlexible work hoursFree Daily Lunch + Coffee + SnacksFrequent company happy hours, get togethers and good times!

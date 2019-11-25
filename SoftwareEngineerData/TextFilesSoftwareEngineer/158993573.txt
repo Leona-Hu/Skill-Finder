@@ -1,0 +1,142 @@
+2020 SUMMER INTERNSHIPSSOFTWARE ENGINEER INTERN, CONTENT PLATFORM Greetings, students! We’re geared up here to offer another round of epic internship experiences in 2020. The internship program offers the opportunity to pause your studies for one summer and work side-by-side with Blizzard Entertainment employees in your area of interest, doing real work that oftentimes ends up in production. As such, we hold you to the same high standards as anybody else in the company.  Just like our gameplay experiences, Blizzard internships are a fully immersive experience. We want interns who are passionate about what they want to do for a living and excited to come in every single day to learn and contribute in this hyper-creative atmosphere. Being fully engaged with our team also means communicating effectively and maintaining an open mind - one that is receptive to feedback and able to adapt and grow. Your hobbies and interests can also play in your favor. Passion for technology, gaming, game development, and an in-depth knowledge of Blizzard games, products, and services will always be a plus with us, regardless of the position you’re applying for. Be passionate about who you are, be into our industry, and be willing to go all-in and embrace this opportunity to the fullest! Quest objectives The Content & Developer Services organization of Battle.net & Online Products was formed to build high value services and experiences for our Developer Community, Esports Partners, and Game franchises utilizing Java, Spring, and client-side JavaScript frameworks to benefit our players and partners. This role on the Content Platform team develops and manages the Forums, Enterprise Content Management System, and a series of value added services that enhance the integration experience with the products that we create.  As a Software Engineer Intern on the team, you will:Eligibility RequirementsLevel Requirements Recommended Talents Quest items WARNING! Applications that do not include all of the required materials will not be considered. We’re serious about this – due to the volume of applications we receive, we only have time to consider complete submittals. Blizzard Entertainment is a global company committed to growing our employees. We offer generous benefits and perks with an eye on providing true work / life balance. We’ve worked hard to champion an intensely collaborative and creative environment, a diverse and inclusive employee culture, and training and opportunity for professional growth. Our people are everything. Our core values are real, and our mission has never changed.We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We are dedicated to creating the most epic entertainment experiences...ever. Join us!Please submit your application no later than December 2, 2019.SOFTWARE ENGINEER INTERN, CONTENT PLATFORMQuest objectivesWARNING! Applications that do not include all of the required materials will not be considered. We’re serious about this – due to the volume of applications we receive, we only have time to consider complete submittals.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Irvine, CA Technology jobs in Irvine, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Complete a feature development project end-to-end as a full-stack software engineerParticipate in an agile development process with product managers, designers, and other engineersContribute to code reviews for a variety of different projects that our team is working onReceive guidance from a Software Engineer mentorCurrently enrolled in a college or universityReturning for at least one more semester or quarter following the summer 2020 internshipAble to work fulltime hours for 11 – 12 weeks at the Blizzard office indicated in this job posting between May 2020 – August 2020 or June 2020 – September 2020 (group dates depend on when you get out of school)Authorized to work in the USExperience with an object-oriented language such as Java, C#, or C++Experience with a JavaScript framework such as Angular, Vue.js, or ReactCurrently pursuing a Bachelor's or Master’s degree in Computer Science, Information Management, Computer Information Systems, or a related disciplineExperience using the APIs at develop.battle.net as a community developer (even just to tinker!)Have pursued one of Blizzard’s game franchise sitesHas a desire to learn about back end services operating at high scale.ResumeCover Letter

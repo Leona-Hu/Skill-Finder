@@ -1,0 +1,141 @@
+.Net Software Engineer- Backend and Infrastructure Company overviewT2 Tech Group is a premier provider of technology consulting and management advisory services for healthcare and a wide range of other industries. We are a fast-growing, vendor neutral company with a culture focused on agility, transparency and delivering value to clients and the communities they serve. Our employees work in a dynamic work environment that serves some of the largest health systems and commercial organizations in the United States.We are looking for positive, driven team members with a wealth of experience and connections in the technology industry. We are IT and business professionals with a successful track record and trusting client base. We know that our services are only as good as our people. If you think you can contribute to our growing company, we want to hear from you!Position overviewT2 Tech Group is looking for an innovative software engineer to take software defined infrastructure to the next level. This Software Engineer will develop cloud-based software solutions to automate and manage a broad range of virtual infrastructure technologies such as virtual networks, Active Directory, VMs, firewalls, telephony and VDI.ResponsibilitiesTechnical· Design and build fully automated software-defined infrastructure (SDI) solutions using cloud APIs in AWS and/or Azure· Build unit tests in Visual Studio· Design and build workflows for tracking tasks with varying levels of automation, from fully-automated API execution through entirely-manual processes· Build tools for managing VDI configurations via API· Work with Windows API to capture and log user-level activities· Play key role in developing and executing DevOps strategy, including CI/CD, test automation and securityOther· Performance testing and troubleshooting· Administer critical analysis of test results, and deliver solutions to problem areas· Assist in the development and maintenance of requirements and user documentation· Liaise with network administrators, systems analysts and software engineers to assist in resolving problems with software systems RequirementsFormal Education and Certification· Bachelor’s degree in Computer Science or Information Systems and/or 10+ years equivalent work experienceKnowledge and Experience· 5+ years full-stack experience in implementing highly scalable, secure, data intensive web and backend systems in .Net· Working understanding of infrastructure services such as Active Directory, firewalls, virtual networks, VPN· Technical Expertise in .Net Core, C#, ASP.Net, WCF architecture· Experience with unit testing in Visual Studio· Solid understanding of secure programming best practices· Expert implementing and consuming REST based APIs· Experience with programming SQL, NoSQL Databases· Knowledge of one cloud platform (AWS, Azure)· Hands-on knowledge of Configuration Management and Deployment tools like – Puppet, Ansible, Chef, Terraform etc.· Hands-on experience with distributed source control systems like Git or Hg· 2+ years’ experience in Agile development methodologies Nice to Haves· Working knowledge of Jira· Knowledge of Microservices development best practices· Experience with VDI platforms and environments· Native Windows app development using Windows SDK· Knowledge of container technologies (e.g., VMware, Docker, Kubernetes, etc.)· Experience with scripting languages: e.g., Python Personal Attributes· A trailblazer: Flexible and adaptable in learning and applying new technologies· Strong written and oral communication skills· Strong interpersonal skills· Highly self-motivated and directed· Adept at handling and reducing ambiguity in system design and requirements· Keen attention to detail· Proven analytical and problem-solving abilities· Ability to effectively prioritize and execute tasks in a high-pressure environment· Ability to work both independently and in a team-oriented, collaborative environmentWork Conditions· Overtime hours may be required to meet project deadlines· Some travel may be required
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Irvine, CA Technology jobs in Irvine, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+

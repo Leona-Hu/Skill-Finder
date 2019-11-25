@@ -1,0 +1,142 @@
+General Job Overview:The MSS&A Engineer will provide modeling, simulation, software and analysis support for the Army Program Executive Office (PEO) Missiles and Space (M&S) Integrated Air and Missile Defense (IAMD) Accelerated Integration to Counter Emerging Threats (AICET) program. The candidate will work in a collaborative team environment consisting of government, industry contractors and Federally Funded Research and Development Centers (FFRDC) personnel in support of the program goals. The ideal candidate will have MSS&A SoS experience within the battle management, sensors and weapons components associated with two or more of the following:Army IAMD Battle Command System (IBCS), Command and Control Battle Management and Communications (C2BMC), Terminal High Altitude Area Defense (THAAD), Indirect Fire Protection Capability (IFPC), Mobile Short Range Air Defense (MSHORAD), Patriot Advanced Capability 3 (PAC-3), AEGIS Combat System. A preference exists for candidates that have algorithm design experience in the areas of; track management, engagement processing, counter artillery, rocket and mortar (ARM), non-cooperative target recognition, sensor fusion, sensor tasking, and system composite track formation for tactical net-centric Air and Missile Defense (AMD) applications.Experience Requirements:Education Requirements: • Bachelors degree in Engineering or Physics (Electrical or Mechanical Engineering preferred)Kord Technologies offers a positive and friendly atmosphere with opportunities for advancement and personal growth. Salary is commensurate with experience. Benefits include 401(k), medical, dental, life, vision, tuition reimbursement, STD and LTD insurance. Kord Technologies is an equal opportunity employer including but not limited to EOE/Minorities/Females/Vet/Disabled employer.Disability Accessibility Accommodation:  If you require an accommodation to navigate or apply to our careers site, please send your request to:  kordHR@kordtechnologies.com or call: (256) 489-2346
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Huntsville, AL Technology jobs in Huntsville, AL Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+1-5 years relevant experience  Experience in programming in C or C++ or other object oriented language Familiarity with RF test engineering (radar, communications) Experience with Matlab and Simulink developmentMust be a U.S. CitizenAn active DoD Secret clearance is required to perform this work. Candidates are required to have an active Secret clearance upon hire, and the ability to maintain this level of clearance during their employment.

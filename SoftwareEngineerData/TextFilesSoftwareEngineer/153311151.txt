@@ -1,0 +1,142 @@
+The Software Engineer, designs, develops and tests software applications of varying size and complexity. Follows software through the software development life cycle from analysis, design, and coding through testing and deployment in various cloud hosting systems. This position is focused on troubleshooting code, data, cloud hosting and configuration issues for the Tyler applications according to technical specifications and system designs. LocationLatham, New YorkTravel25%ResponsibilitiesQualifications
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Latham, NY Technology jobs in Latham, NY Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Maintain existing application programs by fixing bugs or clearing up operational deficiencies in both previously released software and software slated for future release.Collaborate to refine requirements, design and create solutions which target defined business needs.Contribute to and validate software design scheme and modelsFollow coding standards and best practicesWrite and maintain application code for functionalityParticipate in and conduct code reviewsAssure program, module and system integrity through thorough testing and adherence to company standards and procedures.Work through all phases of the software development life cycle, including research, design, analysis, requirements, implementation, test automation, and maintenance.Utilize new technologies and tools to modify products and provide integration with applications developed internally and externally.Up-to 25 % Travel anticipated.Bachelor’s Degree in Computer Science, Computer Engineering, or comparable work experience.High proficiency coding in C# with two or more years experience.Knowledge of Cloud computing platforms such as Azure or AWSExperience in developing and working with REST APIsExperience in systems integration through the use of APIs and Services Oriented ArchitectureKnowledge of container services such as Docker and Kubernetes.Experience in the following technologies a plus: MS SQL Server 2016, ASP.NET MVC 5 and Web API 2, JavaScript, Angular JS, jQuery, XamarinExperience with native app development preferredWell-developed logical thinking and reasoning skills.Ability to prioritize and complete multiple tasks in a fast-paced, technical environment.Good interpersonal and communication skills.Ability to work in a team environment using Agile-based development methodologies

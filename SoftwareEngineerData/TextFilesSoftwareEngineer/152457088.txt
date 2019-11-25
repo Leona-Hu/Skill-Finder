@@ -1,0 +1,142 @@
+Titan Robotics has several open positions for Perception Software Engineers in the growing Pittsburgh office.We are seeking candidates capable of helping develop and test algorithms for processing sensor data that lead to optimal decisions by an autonomous robotic system.Employee will participate as a Perception Software Engineer within a fast-paced and evolving environment as a member of a multidisciplinary engineering development team adapting to on-demand schedules and requirements.Estimated yearly travel is 20% or less.Responsibilities:Basic Requirements:Top Candidates will also have:Certifications/Clearances:U.S. Citizen able to obtain security and employment clearances as required in the performance of company business. Must possess a valid U.S. driver’s license.Titan Robotics, Inc. is an Equal Opportunity Employer
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Pittsburgh, PA Technology jobs in Pittsburgh, PA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Develop and test algorithms for object property detection, tracking, and classificationDesign effective and safe techniques to improve existing processesResearch and implement latest sensor technologyPerform testing on real world problems in the on-site labUnderstanding of modern robotic systems and their practical implementationBS/MS or PhD in Computer Science, Robotics, Electrical Engineering, or a related fieldExcellent C/C++ programming and software design skills to support high performance perception systemsExperience with perception sensors including lasers, optics, and camerasExperience in computer vision techniques such as localization and image reconstructionExperience in machine learning techniquesExperience in developing multi-threaded and real-time systemsWorking knowledge of version control systemsStrong communication and documentation skills

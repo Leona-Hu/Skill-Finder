@@ -1,0 +1,142 @@
+Job Overview:Minimum Qualifications:Preferred Qualifications:Education:
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in San Diego, CA Technology jobs in San Diego, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Linux Android and Linux Vehicles Software / Platform Engineer Opportunities include cutting edge Wireless, Multimedia and Embedded technologies and integration into a new market vertical. As a key player in the connected car programs of the worlds leading automakers for more than a decade, we are transforming the relationship between your car and your digital lifestyle. Connectivity integrated with the latest infotainment systems makes travel more safer, enjoyable and efficient. With 4G LTE Advanced Wi-Fi hotspots, wireless multimedia streaming, real-time 3D navigation with traffic and available parking spot finder, both passengers and drivers gets rich user experience. This candidate will serve a hands-on technical platform position, with specific efforts including software development, hardware bring-up, issue triaging and fixing, platform/framework development, performance analysis and improvements, and upstream asset integration, upgrades and community participation. 1+ Years experience in C/C++ programming and debugging, one or more Real-Time Operating Systems is preferred. 1+ Years Experience in high level embedding operating systems: Android, Linux, Open Embedded. 1+ Years Experience with ARM assembly language and low level ARM debugging preferred. 1+ Years Experience with low level software/hardware interface design and debugging. 1+ Years Experience with industry standard software development tools: HSW/HE debuggers, code revision control systems (GIT, Perforce), IDEs and build tools.Knowledge in Linux embedded systems and/or AndroidRequired: Bachelor's, Computer Engineering and/or Computer Science

@@ -1,0 +1,142 @@
+The Space & Component Technology Division of Comtech Command & Control Technologies is a multifaceted business specializing in supply of high reliability electronic components and engineering services for use in satellites and launch vehicles; design, construction, operation & maintenance of ground systems for launch tracking, command and control; as well as supply of satellite tracking antennas for low earth orbit (LEO) and medium earth orbit (MEO). We work with many of the industry’s key companies and space agencies, delivering unparalleled levels of service in design and manufacturing support, program management, procurement, and quality assurance. We are seeking a highly qualified and motivated individual to expand our successful team as we penetrate new markets.About the Opportunity:Entry level Systems Engineer candidate to support design and development of new ground station architecture as well as provide support for ground station operations and maintenance programs to insure the operability of remotely located tracking stations.Primary Duties:Skills Required:Education/ Experience Requirements:Comtech Telecommunication Systems, Inc. is an equal opportunity employer  
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Cypress, CA Technology jobs in Cypress, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Responsible for operation, design, development, modification and maintenance of existing and new ground station softwareTask planning, scheduling and coordination with local station managersOrganize data and records to prepare periodic maintenance reports and white papersLead and support on-site operations as needed.Implement constant process improvement for task handling and station performance, as well as overall software configuration managementExperience in multi-threaded real time programming with C++, Java, Python in Windows/VxWorks/Linux/Qt environmentExcellent interpersonal skills including interfacing with international customers as well as senior consult sub-contractorsBachelor’s Degree or higher from an accredited college/university in Electrical/Electronic Engineering, Aerospace, Civil, System Engineering or Computer Science5+ years work experience in aerospace industry handling CMD/TLM processing (ground segment experience as well as familiarity with web-based interface is a plus)Must be flexible and able to handle occasional heavy workloadExcellent communication and technical writing skillsMust be willing to travel domestically and internationally, sometimes for weeks at a timeWilling to learn and expand system knowledgeFamiliar with proposal activitiesUS citizenship required

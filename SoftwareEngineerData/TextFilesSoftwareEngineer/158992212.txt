@@ -1,0 +1,142 @@
+We, the engineers of Battle.net& Online Products, are looking for a passionate software engineer to join our Developer Portal team. Our team is responsible for developer support both inside and outside the walls of Blizzard.  We are the authors of the Developer Portal at develop.battle.net, where community developers discover and consume Blizzard APIs.  Internally, we maintain a portal which supports the operation of games on Battle.net, from initial integration through testing and release.  Our portal is used by development teams across Blizzard to manage game title configuration, perform mass grants for beta tests or campaigns, and even to configure the accounts that are used on demo machines at Blizzcon. Our ideal candidate enjoys teaming up with designers, program managers, and fellow engineers to build intuitive, efficient, maintainable and highly polished experiences. We have ambitious plans to evolve our applications and news sites, and everyone on the team can help shape the future of the tech, features, and design. Our web applications are built using Java, Spring, Angular, and Vue.js. The Battle.net & Online Products organization is home to 300+ superpowered engineers, program managers, and designers focused on the technology that powers Blizzard Entertainment’s games. Whether you’re playing one of our titles, chatting with friends, browsing our web content or just shopping online, B&OP ensures that our players are immersed in engaging, exciting, and secure experiences.  Requirements Pluses
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Battle.netdevelop.battle.netSoftware Engineer jobs in Irvine, CA Technology jobs in Irvine, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+3+ years of experience working in web developmentExperience with JavaScript frameworks such as Angular, Vue.js, ReactStrong knowledge of HTML, CSS and DOMFamiliarity with security standardsStrong verbal and written communications skillsBachelor's degree in Computer Science, Mathematics, or equivalent experienceExperience creating and operating high scale web sitesExperience with mobile-first responsive designFamiliarity with Java and SpringFamiliarity with Docker, Jenkins, Spinnaker or KubernetesFamiliarity developing, deploying and operating a service in Cloud centric environments such as AWS or OpenStack

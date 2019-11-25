@@ -1,0 +1,142 @@
+ Koi Trading is an OTC trading desk that offers a private, efficient, and compliant pathway for institutional investors and high net-worth individuals to start engaging with blockchain assets. Brokerages, exchanges, miners and funds worldwide trust Koi Trading for its professional, high-touch services and deep cryptocurrency liquidity.We are looking for an entry-level (T1) Staff Software Engineer in the Compliance Department that is ready to take on more responsibilities in the exciting cryptocurrency industry. The position will be based in San Francisco and will work directly with CCO and Head of Product. You will help with the building Koi Compliance program.Duties include, but are not limited to:Requirements Koi Trading is an equal opportunity employer. All employees of Koi must undergo customary background checks.Perks· 100% company-paid health insurance premiums (medical, dental, vision, life, and STD) for you and your family· Paid vacation and company holidays· Fully stocked kitchens with drinks, snacks, and candy· A new laptop and the option of an adjustable standing desk· Great ocean view of Bay Bridge and city view of Financial District 
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in San Francisco, CA Technology jobs in San Francisco, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Work closely with the Chief Compliance Officer and Head of Product to design KOI TRADING’s internal compliance system, which ensures KOI TRADING meet all the AML/CFT requirementsIntegrate various sanctions screening databases and blockchain enhanced due diligence tools into the KOI TRADING’s compliance systemDevelop mathematical models and analytical methods and apply them to existing and developing products to improve the project performance of new product designs and developmentsBuild customized heuristics that operate upon such inputs to produce valuable and actionable AML/CFT intelligence, and store, retrieve, and manipulate data for analysis of system capabilities and requirementsDevelop and direct software system testing and validation procedure, programming, and documentation to evaluate the efficacy, efficiency, functionsTechnical understanding of C, Python and MATLAB,General engineering knowledge about front end coding and API documentsLogical thinking and effective organizational skills to elaborate step by step instructionEffective communication skills to facilitate any technical or non-technical challenges or questions our compliance team may face while using our compliance systemBachelor Degree in the field of  Electrical Engineering, Computer Science, or in a related field.

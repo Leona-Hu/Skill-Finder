@@ -1,0 +1,142 @@
+Corizon Health is the pioneer provider of correctional healthcare in the United States. We are a company built on more than 40 years of innovation and expertise in the industry. Our people, our practices, and our commitment to success are the traits that make us the ideal employer as you begin or continue to advance your correctional healthcare career. The Opportunity As the Senior Network Engineer, you will develop the network architectural strategy, including technology standardization and modernization of enterprise, data center and disaster recovery network, voice and video infrastructures.  You will lead the technical planning, design, development and deployment of local area networks (LANs) and wide area networks (WANs) across the organization. With our collaborative team, you will provide technical guidance to more junior team members. Because patients need round the clock care, working hours include days, nights, weekends, holidays and rotating on-call.This hands-on role is based in Brentwood, TN with 15% travel to correctional facilities and regional offices. As a technical subject matter expert within a highly diversified network, you willBenefitsCorizon offers a comprehensive benefits package that includes health insurance, a generous PTO plan, 401k with matching funds, tuition assistance, continuing education reimbursement, and more!
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Network Engineer jobs in Hermitage, TN Technology jobs in Hermitage, TN Network Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Develop the design, configuration and deployment of voice, video and data infrastructure to ensure their smooth and reliable operation for fulfilling business objectives and processes. Provide technology roadmaps governed by strategic direction, business requirements as well as resourcing and financial constraints. Communicate with executive management and department leaders to make them aware of any issues that may arise that can be included in any strategic planning. Make recommendations for resolution. Monitor performance; troubleshoot highly complex issues, resolving problems as needed.Ensure voice connectivity of all servers, workstations, telephony equipment, fax servers, and other network appliances.Participate in and lead new and existing equipment, hardware, and software upgrades.Write programs and scripts to support Production Operations and ensure high availability and notification of outages and performance issues. Support change management process in applying approved change requests. This includes updating documentation and configuration management supporting our ITSM solution.At least 5 years of networking experience. Expert knowledge of technical telecommunications systems, video conferencing, computer LAN systems, network protocols (TCP/IP, EIGRP, BGP, MPLS, etc.) and bridging, network monitoring system (such as SolarWinds Orion), load balancers, routers, Cisco Unified Communications applications (Communications Manager, MeetingPlace, Unity), F5, and telecommunications test equipment.Related degree, CCNA and CCNP certifications preferred.Ability to read, analyze and interpret general technical procedures, network diagrams, professional journals and general business periodicals. Ability to effectively present information and respond to questions from groups of managers, clients, customers and the general public.

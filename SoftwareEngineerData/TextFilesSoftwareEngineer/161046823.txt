@@ -1,0 +1,141 @@
+SoftwareEngineer / SRE - Communication ChannelsLocation: NewYork, NY - USA Our Team:Join a High-Tech firm located in New York City working asa SRE Software Engineer on the Communication Channels team, where you will bebuilding products used by the community for real-time communication such asexchanging information, messaging communications and data. The firm's email(MSG) and instant message (IB) products deliver more than a billion messagesacross millions of chat rooms per day, and have a broad user-base unlike anyother in the company. This team's users rely on these products because of theirreal-time performance, massive scale, ironclad security, tight integration withdata and applications, and, most importantly, singular access to the firm'snetwork of 350,000 professionals. To make sure the group satisfies their clients’ need forspeed as well as stability, the team has very high standards for reliabilityand scalability. And that’s where the team of SREs come in! The mission is toensure that IB and MSG are up 24/7. You'll be involved from design todeployment to ensure the firm's infrastructure is reliable, performant andscalable. What’s in it for you:Given the criticality of these products in the dailyworkflow of the community, and the scale at which these products are used, theSRE team is one of the most visible teams across the firm. These products arecontinuously evolving and have experienced more than 100% growth in usage overthe last year, which means the team has to have a very sharp focus on stabilityand scalability. As a member of the SRE team, you’ll build and standardizetheir performance and capacity planning environment to allow the team to easilyanswer questions around the health and capacity of the system, as the team addsmore features and users. We’ll trust you to define best practices and standardsfor testing/monitoring/logging/alarming across 90+ developers and build toolsto automate the release processes. The team will expect you to be passionateabout using the right tool for the job, and research new tools to figure outhow the firm can best use them for our systems. You’ll have the opportunity tocreate sophisticated dashboards for our engineers as well as our businesspartners. You’ll have a lot of flexibility in forging your own pathas an SRE and driving the SRE culture forward. Making the infrastructurebest–in-class will be your main mission, so you’ll have many opportunities tocreate and implement your own improvements. You’ll be sent to conferences andmeetups to keep up with the SRE space outside the firm and apply that knowledgeto building and improving processes at the firm. You’ll need to have:• Strong skills with one or more object orientedlanguages (C++ or Java preferred)• Solid experience with a scripting language (preferablyPython)• UNIX networking skills• Familiarity with design and implementation of largescale distributed systems• Experience with one or more of: production monitoring,capacity management, deployment and rollback, provisioning, configuration andorchestration We’d love to see:• A track record of creating and implementing newprocesses and workflows related to SDLC pipelines• Exposure to monitoring tools such as Graphite andSplunk• Exposure to containers and orchestration frameworksSoftwareEngineer / SRE - Communication ChannelsLocation: NewYork, NY - USA
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in New York, NY Technology jobs in New York, NY Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+

@@ -1,0 +1,142 @@
+Our client was created to transform teaching and learning at one of the most distinguished University's' around the globe through the innovative use of digital technologiesTheir Engineering Department at is looking for a software engineer to join a small but team with big ambitions to redefine the use of technology in teaching and learning throughout the world.Responsibilities:Requirements:Desired:Our clients are equal employment opportunity employers. All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, veteran status, or disability.ONLY CANDIDATES CURRENTLY LIVING IN OR WILLING TO RELOCATE TO BOSTON PLEASE. , SPONSORSHIP OF ANY KIND IS NOT AVAILABLE AT THIS TIME.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Cambridge, MA Technology jobs in Cambridge, MA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Develop scalable tools and applications with flexible APIsAdvance best practices with the engineering team through participation in architecture, technical design, and code reviewsWrite code in Python, Javascript (React), HTML/CSS and other languages as necessaryPart of a team responsible for enhancing and maintaining their current applications while creating the next generation of solutions.Develop enhancements for MITx, the MIT instance of Open edX used for residential teaching and learning.Work closely with, brainstorm ideas and incorporate feedback from, the engineering team, a top-tier community of developers, teachers learners, Open edX community and open source community at large.Fix bugs and solve problems, write documentation and automated testsB.S. or higher in Computer Science or related technical field (or equivalent work experience)Solid understanding of the full web technology stackProficiency in at least one programming language: Python, Javascript, Ruby, Java, PHPProficiency in creating web applications in one or more frameworks: Django, Rails, NodeJS, etc.Strong knowledge of relational databases and SQLComfortable with Unix/Linux as a development environment.Experience with NoSQL databasesFamiliarity with source code control systems like GIT, Subversion, Mercurial.Familiarity with modern DevOps tools, like Vagrant, Puppet, Ansible, Docker etc.Github profile or link to open source workExperience in Software Development Life Cycle and interactive methodologies.Excellent communication skills

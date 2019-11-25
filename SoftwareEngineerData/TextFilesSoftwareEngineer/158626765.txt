@@ -1,0 +1,158 @@
+You are a software engineer with an interest in low-level Windows OS programming. You are experienced programming in C/C++ or C#, and have a desire to work with low-level structures and interfaces within Windows. Additionally, seek the chance to add malware/security and/or machine learning to your repertoire.  At Webroot, in San Diego, CA, we are seeking to empower a talented software engineer with the opportunity to truly contribute in development while working alongside dynamic teammates in Colorado, California, Austria, and England.  The scope of your work will be broad and will include development on various layers of the OS ranging from kernel to UI, as well as debugging, and reverse engineering.  Background in malware analysis, antivirus, and vulnerability analysis will be gained as you master the entire Webroot Anywhere product umbrella. This is a chance to work on global products for one of the largest international companies in the online and computer security world. Apply today!You bring to the table: 3+ years of software engineering background	 Proficiency in C and C++ on Windows BS in Computer Science or equivalent experience   Multi-threading application development experience Windows Debugging experience is a plus Knowledge of Wireshark or other Network Sniffing tools is a plus Ability to collect and analyze crash dumps is a plus Familiarity with WinDbg, UISpy, or other debugging tools is a plus Familiarity with Assembly language is a plusOther beneficial experience/knowledge Experience with rootkit analysis Vulnerability analysis Malware mitigation analysis Experience and/or familiarity with Minifilter driver development Familiarity with the underlying structures of the registry and NTFS/FAT file systemsCarbonite was launched with a clear goal: Provide easy-to-use, secure and affordable online backup to the consumer market. Today we are a leading provider of data protection, with a comprehensive portfolio of solutions purpose-built for consumers, small and midsized businesses with a global network of partners including VARs, MSPs and OEMs.Together with Webroot—acquired by Carbonite in 2019—we provide end-to-end data resilience. Our company vision is to safeguard people and businesses from the cost and consequences of data loss and cyber threats. We deliver on that vision with powerful antivirus protection plus easy-to-use backup and recovery services.Our business requires top talent. We foster a thriving, dynamic environment rich with inventive minds and entrepreneurial spirit. From engineering to sales and marketing, operations and customer support, our 1600 employees are empowered and encouraged to build their careers at Carbonite.We pride ourselves on hiring standout candidates who shine in a workplace that encourages collaboration and teamwork.  Carbonite is growing fast, and we’re currently looking for talented candidates around the globe.  Are you ready to grow with us?You bring to the table: 3+ years of software engineering background  Proficiency in C and C++ on Windows BS in Computer Science or equivalent experience   Multi-threading application development experience Windows Debugging experience is a plus Knowledge of Wireshark or other Network Sniffing tools is a plus Ability to collect and analyze crash dumps is a plus Familiarity with WinDbg, UISpy, or other debugging tools is a plus Familiarity with Assembly language is a plusOther beneficial experience/knowledge Experience with rootkit analysis Vulnerability analysis Malware mitigation analysis Experience and/or familiarity with Minifilter driver development Familiarity with the underlying structures of the registry and NTFS/FAT file systemsRelated Keywords: Windows, driver development, kernel, Windows API, NT API, NTFS, FAT, C, C++, Minifilter, callbacks, hooks, hypervisors, low-level OS, C#, malware, debugging, assembly
+
+            Location/Region: San Diego, CA
+        
+You are a software engineer with an interest in low-level Windows OS programming. You are experienced programming in C/C++ or C#, and have a desire to work with low-level structures and interfaces within Windows. Additionally, seek the chance to add malware/security and/or machine learning to your repertoire.  At Webroot, in San Diego, CA, we are seeking to empower a talented software engineer with the opportunity to truly contribute in development while working alongside dynamic teammates in Colorado, California, Austria, and England.  The scope of your work will be broad and will include development on various layers of the OS ranging from kernel to UI, as well as debugging, and reverse engineering.  Background in malware analysis, antivirus, and vulnerability analysis will be gained as you master the entire Webroot Anywhere product umbrella. This is a chance to work on global products for one of the largest international companies in the online and computer security world. Apply today!You bring to the table: 3+ years of software engineering background	 Proficiency in C and C++ on Windows BS in Computer Science or equivalent experience   Multi-threading application development experience Windows Debugging experience is a plus Knowledge of Wireshark or other Network Sniffing tools is a plus Ability to collect and analyze crash dumps is a plus Familiarity with WinDbg, UISpy, or other debugging tools is a plus Familiarity with Assembly language is a plusOther beneficial experience/knowledge Experience with rootkit analysis Vulnerability analysis Malware mitigation analysis Experience and/or familiarity with Minifilter driver development Familiarity with the underlying structures of the registry and NTFS/FAT file systemsCarbonite was launched with a clear goal: Provide easy-to-use, secure and affordable online backup to the consumer market. Today we are a leading provider of data protection, with a comprehensive portfolio of solutions purpose-built for consumers, small and midsized businesses with a global network of partners including VARs, MSPs and OEMs.Together with Webroot—acquired by Carbonite in 2019—we provide end-to-end data resilience. Our company vision is to safeguard people and businesses from the cost and consequences of data loss and cyber threats. We deliver on that vision with powerful antivirus protection plus easy-to-use backup and recovery services.Our business requires top talent. We foster a thriving, dynamic environment rich with inventive minds and entrepreneurial spirit. From engineering to sales and marketing, operations and customer support, our 1600 employees are empowered and encouraged to build their careers at Carbonite.We pride ourselves on hiring standout candidates who shine in a workplace that encourages collaboration and teamwork.  Carbonite is growing fast, and we’re currently looking for talented candidates around the globe.  Are you ready to grow with us?You bring to the table: 3+ years of software engineering background  Proficiency in C and C++ on Windows BS in Computer Science or equivalent experience   Multi-threading application development experience Windows Debugging experience is a plus Knowledge of Wireshark or other Network Sniffing tools is a plus Ability to collect and analyze crash dumps is a plus Familiarity with WinDbg, UISpy, or other debugging tools is a plus Familiarity with Assembly language is a plusOther beneficial experience/knowledge Experience with rootkit analysis Vulnerability analysis Malware mitigation analysis Experience and/or familiarity with Minifilter driver development Familiarity with the underlying structures of the registry and NTFS/FAT file systemsRelated Keywords: Windows, driver development, kernel, Windows API, NT API, NTFS, FAT, C, C++, Minifilter, callbacks, hooks, hypervisors, low-level OS, C#, malware, debugging, assembly
+
+            Location/Region: San Diego, CA
+        
+You bring to the table:Other beneficial experience/knowledgeCarbonite was launched with a clear goal: Provide easy-to-use, secure and affordable online backup to the consumer market. Today we are a leading provider of data protection, with a comprehensive portfolio of solutions purpose-built for consumers, small and midsized businesses with a global network of partners including VARs, MSPs and OEMs.Together with Webroot—acquired by Carbonite in 2019—we provide end-to-end data resilience. Our company vision is to safeguard people and businesses from the cost and consequences of data loss and cyber threats. We deliver on that vision with powerful antivirus protection plus easy-to-use backup and recovery services.Our business requires top talent. We foster a thriving, dynamic environment rich with inventive minds and entrepreneurial spirit. From engineering to sales and marketing, operations and customer support, our 1600 employees are empowered and encouraged to build their careers at Carbonite.We pride ourselves on hiring standout candidates who shine in a workplace that encourages collaboration and teamwork.  Carbonite is growing fast, and we’re currently looking for talented candidates around the globe.  Are you ready to grow with us?You bring to the table: 3+ years of software engineering background  Proficiency in C and C++ on Windows BS in Computer Science or equivalent experience   Multi-threading application development experience Windows Debugging experience is a plus Knowledge of Wireshark or other Network Sniffing tools is a plus Ability to collect and analyze crash dumps is a plus Familiarity with WinDbg, UISpy, or other debugging tools is a plus Familiarity with Assembly language is a plusOther beneficial experience/knowledge Experience with rootkit analysis Vulnerability analysis Malware mitigation analysis Experience and/or familiarity with Minifilter driver development Familiarity with the underlying structures of the registry and NTFS/FAT file systemsRelated Keywords: Windows, driver development, kernel, Windows API, NT API, NTFS, FAT, C, C++, Minifilter, callbacks, hooks, hypervisors, low-level OS, C#, malware, debugging, assembly
+
+            Location/Region: San Diego, CA
+        
+Carbonite was launched with a clear goal: Provide easy-to-use, secure and affordable online backup to the consumer market. Today we are a leading provider of data protection, with a comprehensive portfolio of solutions purpose-built for consumers, small and midsized businesses with a global network of partners including VARs, MSPs and OEMs.Together with Webroot—acquired by Carbonite in 2019—we provide end-to-end data resilience. Our company vision is to safeguard people and businesses from the cost and consequences of data loss and cyber threats. We deliver on that vision with powerful antivirus protection plus easy-to-use backup and recovery services.Our business requires top talent. We foster a thriving, dynamic environment rich with inventive minds and entrepreneurial spirit. From engineering to sales and marketing, operations and customer support, our 1600 employees are empowered and encouraged to build their careers at Carbonite.We pride ourselves on hiring standout candidates who shine in a workplace that encourages collaboration and teamwork.  Carbonite is growing fast, and we’re currently looking for talented candidates around the globe.  Are you ready to grow with us?You bring to the table: 3+ years of software engineering background  Proficiency in C and C++ on Windows BS in Computer Science or equivalent experience   Multi-threading application development experience Windows Debugging experience is a plus Knowledge of Wireshark or other Network Sniffing tools is a plus Ability to collect and analyze crash dumps is a plus Familiarity with WinDbg, UISpy, or other debugging tools is a plus Familiarity with Assembly language is a plusOther beneficial experience/knowledge Experience with rootkit analysis Vulnerability analysis Malware mitigation analysis Experience and/or familiarity with Minifilter driver development Familiarity with the underlying structures of the registry and NTFS/FAT file systemsRelated Keywords: Windows, driver development, kernel, Windows API, NT API, NTFS, FAT, C, C++, Minifilter, callbacks, hooks, hypervisors, low-level OS, C#, malware, debugging, assembly
+
+            Location/Region: San Diego, CA
+        
+You bring to the table:Other beneficial experience/knowledgeRelated Keywords: Windows, driver development, kernel, Windows API, NT API, NTFS, FAT, C, C++, Minifilter, callbacks, hooks, hypervisors, low-level OS, C#, malware, debugging, assemblySoftware Engineer, Windows OSRelated Keywords: 
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in San Diego, CA Technology jobs in San Diego, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+3+ years of software engineering background	 Proficiency in C and C++ on Windows BS in Computer Science or equivalent experience  Proficiency in C and C++ on WindowsBS in Computer Science or equivalent experienceMulti-threading application development experienceWindows Debugging experience is a plusKnowledge of Wireshark or other Network Sniffing tools is a plusAbility to collect and analyze crash dumps is a plusFamiliarity with WinDbg, UISpy, or other debugging tools is a plusFamiliarity with Assembly language is a plusExperience with rootkit analysisVulnerability analysisMalware mitigation analysisExperience and/or familiarity with Minifilter driver developmentFamiliarity with the underlying structures of the registry and NTFS/FAT file systems3+ years of software engineering background  Proficiency in C and C++ on Windows BS in Computer Science or equivalent experience  Proficiency in C and C++ on WindowsBS in Computer Science or equivalent experienceMulti-threading application development experienceWindows Debugging experience is a plusKnowledge of Wireshark or other Network Sniffing tools is a plusAbility to collect and analyze crash dumps is a plusFamiliarity with WinDbg, UISpy, or other debugging tools is a plusFamiliarity with Assembly language is a plusExperience with rootkit analysisVulnerability analysisMalware mitigation analysisExperience and/or familiarity with Minifilter driver developmentFamiliarity with the underlying structures of the registry and NTFS/FAT file systems

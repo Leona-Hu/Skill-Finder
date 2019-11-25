@@ -1,0 +1,142 @@
+“Dedicated to creating the most epic entertainment experiences…ever.”That’s our mission statement here at Blizzard Entertainment, and for a tools engineer on the World of Warcraft (WoW) team, it’s a way of life.For this role, we are seeking someone with a 3D rendering background to help us render and visualize in our proprietary tools. We share quite a bit of rendering code with WoW, so you’ll improve existing tools and create new tools that will enable some of the most talented designers and artists in the world to ply their craft freely and directly.The WoW team is built on a culture of collaboration, intense creativity, and problem-solving. As a group, we are committed to pushing our exploration of Azeroth to the fullest, and in doing so creating a gaming experience like no other. As an engineer on the tools team, the work you do will live at the very heart of this philosophy. We’re looking for an engineer with qualities above and beyond engineering. We want a person that enjoys working in a group setting; who speaks artist, designer, and geek with equal fluency, and whose experience in creative environments has reinforced the value of communications, empathy, and collaboration.ResponsibilitiesRequirementsPlusesBlizzard Entertainment is a global company committed to growing our employees along with the business. We offer generous benefits and perks with an eye on providing true work/life balance. We’ve worked hard to foster a deeply collaborative and creative environment, a diverse and inclusive employee culture, and training and opportunity for professional growth. Our people are everything. Our core values are real, and our mission has never changed. We are dedicated to creating the most epic entertainment experiences…ever. Join us!
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Irvine, CA Technology jobs in Irvine, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Design and implement development tools for all disciplines.Communicate with other departments within the team to improve our current tools and determine new solutions.Maintain tools for performance, stability, and error-free operation.Identify and resolve pipeline issues and discover opportunities for improvement.Passion for tool development -- enabling others to have the best tools availableAdvanced understanding of C++A minimum of 3 years’ experience in application programmingAble to communicate and collaborate well with non-technical users, including artists and designersExperience working in a collaborative team environmentService-oriented attitude with an eye for efficiencyStrong C++ debugging skillsDetailed knowledge of 3D graphics and math, animation, camera control, lighting,  and shaders authoring/debuggingExperience with a rendering debugger such as RenderDocExperience developing GUI applications for WindowsExperience with SQL databases -- database design, query design, and programming language bindingsExperience with modern source control systems, such as Subversion, Git, or PerforceUser interface (UI) design experience

@@ -1,0 +1,211 @@
+Hi there, welcome to Hana. Backed by CBREs decades
+of real estate experience, were leading the way in creating spaces where
+companies and individuals, like yourself, can collaborate and thrive. Were
+building a world-class product and team that is redefining the flexible work
+space and beyond.  At Hana, we focus on the details that drive success  a
+professional environment, thoughtful designs and courteous service  just to
+name a few. We believe in fostering a culture that drives accomplishment through
+adaptability, professionalism and thoughtfulness. And, we like to have a bit of
+fun too. If you are a detail-oriented, curious, self-starter interested in
+joining a fun and fast-paced team, we hope you will applyUnder broad
+direction, the Principal DevOps Software Engineer will be responsible for developing,
+maintaining, and enhancing DevOps, CI/CD, and Cloud technology for Hana. This
+role requires a hands-on technologist with the ability to support Hanas DevOps
+and cloud infrastructure and applications, collaborate with cross-functional
+teams, and drive strategy.
+CBRE Hana, LLC is a wholly-owned
+subsidiary of CBRE Group, Inc., the worlds largest commercial real estate
+services and investment firm (based on 2017 revenue). Hana partners with real
+estate owners to develop and operate integrated, scalable, flexible workspaces.
+Each unit contains office suites (Hana Team), conference rooms and event space
+(Hana Meet) and co-working (Hana Share). Hana provides property owners
+increased transparency, control over their asset environment, and a valuable
+offering for companies that desire to maintain their culture and brand while
+leveraging the benefits of a flexible space offering. More information is
+available at www.yourhana.comResponsibilities:Skills Required:Certifications & EducationAbout Hana
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+www.yourhana.comSoftware Engineer jobs in Dallas, TX Technology jobs in Dallas, TX Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Collaborate with the Hana
+development teams to drive an agile DevOps environment focused
+on efficient operation of daily activities, developer productivity, and continuous
+improvement of the framework.Principally
+     responsible for the development, implementation, and maintenance of CICD
+     frameworks and tools with a vison to achieve CICD objectives to reduce
+     manual build and deploy efforts.Serves
+     as primary technical point of contact responsible for supporting Hanas AWS
+     cloud applications, strategy, and break-fix (this is a hands-on role).Keep
+     abreast of emerging technologies and utilize scalable open source projects.  Make suggestions to upper
+     management to properly align technology with business goals.Collaborate
+     with development and project management team members to deploy
+     enhancements in an agile environment.Define
+     and drive adherence to security and compliance directives/best-practices.Performs
+     the investigation and resolution of complex and critical data, system, and
+     software issues in the production environment.Performs
+     the evaluation of new platforms, tools, and technologies.Performs
+     other duties as assigned.May
+     have formal supervisory responsibilities. 5-7
+     years of development experience and production DevOps management.Ability
+     to create DevOps pipeline as code.Experience
+     with DevOps/Agile operations process and tools (test automation, code
+     coverage, build and release automation, blue-green and canary deployment
+     methodologies, ITIL framework).Deep understanding of source code control
+     and versioning methodologies and GIT system.Experience
+     with configuration management tools such as Chef and/or Ansible.Experience
+     with containers and container management such as Docker/Kubernetes.Strong
+     understanding of the Software Development Life Cycle.Scripting
+     experience with technologies such as AWS CLI, Go, Python.Ability/Experience
+     managing the DevOps (CICD) pipeline for Web Applications, iOS and Android
+     Mobile phones (Native Code/React Native/Hybrid).Working
+     knowledge of mobile build systems (Xcode, Fastlane, Mint, Carthage etc.)
+     and experience distributing mobile apps to the Apple AppStore and Google
+     PlayStore.4+
+     years of experience with Amazon AWS.Ability to solve
+     advanced problems and deal with a variety of options in complex
+     situations. Excellent
+     written and verbal communication skills. Strong organizational and
+     analytical skills. Ability to provide efficient, timely, reliable and
+     courteous service to customers. Ability to effectively present
+     information.Ability
+     to comprehend, analyze, and interpret complex documents. Ability to solve
+     problems involving several options in situations. Requires advanced
+     analytical and quantitative skills.Bachelors degree
+in relevant field of studyAWS Certified
+Solutions Architect certification preferred

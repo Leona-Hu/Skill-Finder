@@ -1,0 +1,142 @@
+Snell & Wilmer L.L.P. is the largest law firm serving the Southwest with 450 lawyers throughout ten offices. The Firm is currently looking for an experienced Systems Engineer to be part of a team that manages the technical and operational aspects of the Firm’s server infrastructure including provisioning, installation, configuration, operation, and maintenance of systems hardware, software, and related infrastructure. Expertise in Microsoft Servers and related technologies is necessary. ESSENTIAL FUNCTIONS:ESSENTIAL SKILLS AND EXPERIENCE:Education:Experience:Certifications:Snell & Wilmer offers a competitive performance-based compensation and benefits package, including health and life insurance, 401K, profit sharing, tuition reimbursement, employee assistance program. Snell & Wilmer is an Equal Employment Opportunity employer. To explore this opportunity, send your resume, in confidence, to Human Resources via email at jobsphx@swlaw.com.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Phoenix, AZ Technology jobs in Phoenix, AZ Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Provide our Attorneys and Support Staff with expert-level service deliveryDeploy, maintain, and troubleshoot Windows Server environments, including 2012 and 2016Proactively insure that systems are monitored and highly availableResolve escalated issues from the Help Desk and Remote Office supportMonitor and Maintain backups and perform Disaster Recovery testingKeep updated documentation of systems and infrastructureFollow change management proceduresProvide on-call support as neededInteract with IT personnel on all levels to resolve issues and provide solutions in a timely mannerCapable of prioritizing and managing assignments and tasks to completion with minimal supervisionExcellent written and verbal communication skillsAbility to maintain a detail-oriented approach while multitasking in a fast-paced environmentBachelor’s degree in Computer Science, Computer Information Systems, or equivalent experience.Minimum of 5 years’ experience as a Systems AdministratorMinimum of 5 years’ experience with Windows Server technologiesMinimum of 5 years’ experience years with an Active Directory environmentExperience using Hyper-V or VMware vSphereSQL Server Experience, managing the servers and back-end componentsExperience with Windows scripting technologies such as PowerShellExperience with Microsoft System Center componentsExperience with Cisco UCS Servers and UCS ManagerExperience with professional services accounting systems a plusSystem Administrator experience at a law firm is a plusMicrosoft Certifications MCSE/MCSA (Preferred)

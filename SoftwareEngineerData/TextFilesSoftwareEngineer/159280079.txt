@@ -1,0 +1,141 @@
+ Job candidates must be able to trace through mixed development environment of:- Networked Windows and Linux operating systems- CPP code- Python scripts- JSON data formats- ROS (Robot Operating System) nodes and packages- Docker images- Azure services and application fabric- GitHub code repositories- public facing and allows software developers in open source-Linux-C++ In preparation for release as a publicly available resource targeting the academic robotics research community; for an existing repository of working software code, scripts, and compiled tools:- Refine code- Add in-line comments to code- Test applications as a tool-chain- Edit existing and create new descriptive system documentation and illustrations- Edit existing and create new installation and operational instruction manuals
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Redmond, WA Technology jobs in Redmond, WA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+

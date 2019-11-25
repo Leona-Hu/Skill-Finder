@@ -1,0 +1,142 @@
+RESPONSIBILITIES:REQUIREMENTS:
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Columbus, OH Technology jobs in Columbus, OH Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+ BS/BA degree or equivalent experience Advanced knowledge of application, data and infrastructure architecture disciplines Understanding of architecture and design across all systems Working proficiency in developmental toolsets Knowledge of industry wide technology strategies and best practices Ability to work in large, collaborative teams to achieve organizational goals, and passionate about building an innovative culture Utilize multiple programming languages and software technologies to ensure applications are suitably fit for use and admissible for maintenance/upgrades Test, modify, and implement application codes; Make standard modifications to existing software applications and modules in accordance with high-level specifications, application support and industry standards Java/Web Services (SOAP/REST), JavaScript, Microservices, event streaming (MQ, KAFKA) based architecture; NoSQL databases (Cassandra and Hadoop Stack) Knowledge and experience in public or private Cloud applications development Experience in integration of CI tools such as Jenkins/Bamboo Translate functional and technical Stories Tech/Use Cases/Acceptance Criteria (corresponding to requirements) into Gherkin Test Scenarios and re-factor the same as needed Ability to adapt and learn new emerging technologies Proficient in Core Java development skills as well as multiple design techniques Working proficiency in Core Java development toolset to design, develop, test, deploy, maintain and improve software Strong understanding of Agile methodologies with ability to work in at least one of the common frameworks

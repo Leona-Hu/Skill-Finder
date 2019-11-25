@@ -1,0 +1,142 @@
+Kernel/Hypervisor DeveloperVultr.com is a rapidly growing cloud hosting provider with 16 points of presence worldwide. Our company works with cutting edge technology to power some of the most popular web applications in the world. We are seeking experienced software developers to join our team of technology professionals located in Matawan, New Jersey or our brand new office in West Palm Beach, Florida.As part of the development team at Vultr, you will be working closely with our systems engineers to improve our worldwide platform and play a critical role in developing tomorrow's cloud products. Our team's software powers the platform behind everything our customers see and use diverse skill sets to solve issues ranging from web design to infrastructure automation.We are seeking detail oriented linux kernel developers looking to solve unique challenges with elegant, reliable and scalable solutions.RequirementsResponsibilitiesQualificationsEducationBenefitsWork out of our Corporate Office in Matawan, NJ -- there's no need to commute to/from NYC! Are you a Floridian? You may also work from our office in West Palm Beach! We are staffed 24/7/365 so flexible working hours are available. Coffee and beverages are always fully stocked. Once eligible, your employment includes Medical insurance (individual) and a 401k plan with matching of up to 3% of your contribution!
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Matawan, NJ Technology jobs in Matawan, NJ Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Optimize kernel and hypervisor configurations for best performance and lead reliability testing across varied server workloadsTroubleshoot reliability issues, debug kernel crashes, and identify necessary patchesEvaluate and propose new performance and security enhancementsMaintain and roll out packages for our core technologiesStrong understanding of virtualization technologies, including KVM, QEMU, and libvirtComprehension of the linux kernel at the lowest levels and/or previous kernel development historyStrong foundation with C/C++Expert linux system administrator with good grasp of security concepts, package managers, automation toolsets (puppet, ansible, etc) and the open source ecosystemGood understanding of networking concept and experience with software based networking (Quagga/FRRouting/BIRD)Excellent communication skills, with the ability to clearly convey technical ideas to individuals with varying levels of technical understandingBachelor's degree, or equivalent related work experience and skills

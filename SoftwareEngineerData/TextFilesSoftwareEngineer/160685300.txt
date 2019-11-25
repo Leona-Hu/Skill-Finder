@@ -1,0 +1,142 @@
+POSITION: Systems EngineerLOCATION: Milwaukee, WIRELOCATION ASSISTANCE AVAILABLE: YesSTRATTEC Security Corporation is one of the world's largest suppliers providing access and security systems to the automotive market. This drives us to be an innovative company with the latest technology. As a result, there are several initiatives to move those systems from mechanical to electronic type systems. These initiatives create exciting opportunities to those people who like to work in an environment that challenges them to be creative, deal with multiple customers and projects, and research the latest technology. You will help STRATTEC to be a pioneer in implementing this technology by working closely with the largest automotive customers in the world along with the largest electronic partners.Let us know who you are. We want to know what motivate you and why you are the ideal candidate for our growing electronic and innovation team. The ideal candidate will possess a team-oriented attitude, strong HW/SW/Testing skills, and have a multidiscipline background and a passion for innovation. We are looking for leadership skills to development a new group internally, develop internal electronics competency.If you are one of those people who like to build a team and strong electronic competency in addition to seeing your own ideas to come to life, apply quickly!EDUCATION & EXPERIENCE:DESIRED SKILLS AND EXPERIENCE: ESSENTIAL DUTIES AND RESPONSIBILITIES: STRATTEC SECURITY CORPORATION is an equal opportunity employer and practices affirmative action to recruit, hire, train, upgrade, transfer and promote persons in all job titles without regard to race, color, creed, religion, sex, age, national origin, disability or protected veteran status. 
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Boston, MA Technology jobs in Boston, MA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+3333 West Good Hope Rd. Milwaukee, Wisconsin 53209BSEE required. Masters Degree preferredMinimum 8 years experience required in some combination of the following areas:Automotive electronics product developmentPower Electronics circuits design, Wireless technology, Modeling, simulating, and testing of electronic Modules and SystemsAutomotive electronics product developmentPower Electronics circuits design, Wireless technology, Modeling, simulating, and testing of electronic Modules and SystemsDemonstrated experience in leading an engineering team.An Electronic skilled Engineer that is experienced in Power Electronics circuits design and Wireless technologyCandidate must demonstrate expertise using Schematic Capture, simulation and Circuit layout tools such as PSpice, OrCAD, PADS, Altium, Mentor, Matlab/Simulink, Stateflow, etc.Knowledge of ISO 26262 Safety Standards and Requirements is preferredDevelop technical documentation including product specifications, layout instructions, test procedures, etc…;Motor and solenoid drive circuits (BJTs, MOSFETS, H-bridges, etc.)Expertise in connection technologies, actuators, sensor technologyKnowledge in diagnostics and communication systems (CAN LIN/K-Bus, flashing via bus, …) and Software tools (Vector CANape/CANalyzer)Coach and mentor other engineers on understanding and utilizing new design practices and methods such as schematic capturing, PCB layout, and SW implementationsMake recommendations and implement courses of action commensurate with operational needs.Participate in the system and lead the electronic component DFMEAsProficiency in using lab equipment including Network Analyzer, Signal generator Oscilloscope, etcExcellent communication skills and ability to work in a team environment required.Ability to research and develop new technologiesThe ideal candidate will possess a team oriented attitude, skilled at prototype and production development; have a multidiscipline background and a passion for innovation.Perform the electrical design, simulation and analysis of power electronics circuits and systems to meet technical product requirementsleads the strategic management of the engineering tools, licenses and tool support and optimization to STARTTEC needsLooking for leadership skills to develop STRATTEC’s capability in electronic hardware design and system developments such as wireless, low power applications, battery operated devices, and motor/solenoids type products.Focal point for electrical design technical discussions with cross-competency team, management and customers using highly effective communication and facilitation skills and techniquesWork with other engineering competencies, suppliers, and partners to ensure proper development, execution and verification of systems and productsDefine the electronic controller architecture, allocate hardware and software requirements (Preferred knowledge with Renesas, NXP, TI processors)Work closely with mechanical and software teams to enable manufacturable unique solutionsPotentially to organize and lead team member activities according to priorities established by senior managementLead assignments with remote team members across the globe such as China, India, and EuropeResearch, explore & prove out new technologies, chipsets, and processes for inclusion in future projects

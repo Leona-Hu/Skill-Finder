@@ -1,0 +1,142 @@
+SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars.Software Engineer (Starlink User Terminals)As a software engineer on the Starlink User Terminals team, you will be creating software that is used to design, develop, launch and operate SpaceX’s satellite-based internet connectivity systems. The user terminals are essential in connecting customers to the internet via our satellite constellation. You will engage with other SpaceX engineers to discover the needs of the mission and write highly reliable software that turns the mission into a reality. You will be responsible for the complete lifecycle of the software you create, from development to testing to operation during a mission.Responsibilities:Basic Qualifications:Preferred Skills and Experience:Additional Requirements:ITAR REQUIREMENTS:SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.Applicants wishing to view a copy of SpaceX’s Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the application/interview process should notify the Human Resources Department at (310) 363-6000.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Hawthorne, CA Technology jobs in Hawthorne, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Develop highly reliable and available software systemsBoard bring-up of next-generation avionics computersDevelop prototypes to prove out key design concepts and quantify technical constraintsOwn all aspects of software development, including design, testing, and mission integrationWrite high quality structured bare metal and Linux-based software for embedded processors (e.g. ARM, PowerPC, x86, etc.)Develop solutions to bridge the gap between OS platform software, flight software, antenna software, and modem softwareBachelor’s degree in computer science, engineering, math, or science discipline OR 2+ years of experience in software development without a degreeDevelopment experience in C++Strong software design and development skillsExperience developing software for RF communications systems such as phased arrays, antennas, and wireless networkingKnowledge of digital communication systems, single and multi-carrier techniques and modulation types such as QPSK, APSK and QAMUnderstanding of RF concepts such as AGC, noise figure, power amplifier, phase noise, PLL, oscillators/mixersExperience in systems-level C (Linux kernel, device drivers)Have shipped embedded software in high volume products or real-time products that require high reliability and fault toleranceThorough knowledge of systems, computer architecture, software development, networks, and electronicsStrong skills in debugging, performance optimization and unit testingEffectively worked as a team member and in large code basesCreative approach to problem solving and exceptional analytical skillsAbility to work effectively in a dynamic environment with changing needs and requirementsAbility to work independently and in a team, take initiative, and communicate effectivelyWilling to work extended hours and weekends when neededTo conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here. 

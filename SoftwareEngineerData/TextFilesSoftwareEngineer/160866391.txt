@@ -1,0 +1,142 @@
+Trustwave is a leading cybersecurity and managed security services provider that helps businesses fight cybercrime, protect data and reduce security risk. Offering a comprehensive portfolio of managed security services, security testing, consulting, technology solutions and cybersecurity education, Trustwave helps businesses embrace digital transformation securely. Trustwave is a Singtel company and the global security arm of Singtel, Optus and NCS, with customers in 96 countries. For more information about Trustwave, visit https://www.trustwave.com.Trustwave, a leader in cloud-based compliance and information security solutions, is seeking a highly talented and motivated Software Engineer with established professional experience to join Trustwave's Big Data Product Engineering team.Responsibilities:Technical Requirements:General Requirements: Education:We prefer college-educated applicants, but at minimum, high school diploma or equivalent is required for employment.Trustwave is an Equal Opportunity Employer of Minorities, Females, Protected Veterans, and Individuals with Disabilities.To All Agencies:Please, no phone calls or emails to any employee of Trustwave outside of the Talent Acquisition team. Trustwave’s policy is to only accept resumes from agencies via the Trustwave Agency Portal. Agencies must have a valid fee agreement in place and they must have been assigned the specific requisition to which they submit resumes, by the Talent Acquisition team. Any resume submitted outside of this process will be deemed the sole property of Trustwave and in the event a candidate is submitted outside of this policy is hired, no fee or payment of any kind will be paid.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+https://www.trustwave.com.Trustwave, a leader in cloud-based compliance and information security solutions, is seeking a highly talented and motivated Software Engineer with established professional experience to join Trustwave's Big Data Product Engineering team.Responsibilities:https://www.trustwave.comSoftware Engineer jobs in Riverside, IL Technology jobs in Riverside, IL Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Work in small, agile teams to design, prototype and build new product offerings and enhance existing products and toolsCollaborate with Product Management to identify, prioritize and document detailed product requirementsDesign, develop and document application and framework code in Java, Flex and other object-oriented programming languagesCreate robust automated unit/functional test suites and deployment scriptsWork with internal QA team on system, performance and acceptance testingFamiliarity with building cloud-native applications on different cloud platforms.Strong object-oriented design and Java programming skills, including experience with leading open source frameworks such as Spring. Familiarity with Scala/C++ or other object-oriented languages is also acceptableExperience in the development of high-speed  streaming applications using platforms such as Flink/Spark/Storm/KafkaFamiliarity with Machine Learning techniquesSolid relational and non-relational database skills using MySQL/Maria, PostgreSQL, Mongo, etc.Real-world experience building very large scale, high availability applicationsExperience with big data technologies such as Hadoop/ElasticSearch/BookKeeper/OzoneAbility to work with distributed teams in a dynamic, iterative development processOccasional overnight travel to other Trustwave offices in the U.S. may be requiredExcellent oral and written communication skillsFamiliarity with the security industry is desirable but not required

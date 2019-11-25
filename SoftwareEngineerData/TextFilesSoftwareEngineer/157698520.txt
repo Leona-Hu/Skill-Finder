@@ -1,0 +1,142 @@
+A Full Stack Engineer is the core of the Platform Team and is responsible for designing and building both the UI and APIs to serve our web applications and mobile products as well as other internal systems. Engineers on the Platform Team must work cross-functionally and touch nearly every part of the codebase to ensure the platform is scalable, robust, and easy-to-use.We're a brand new team, and we're bringing the company out of its comfort zone to fundamentally change the public safety industry. There are still many unanswered questions, and we're looking for talented engineers to solve these challenges with us.RequirementsBenefits
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Tampa, FL Technology jobs in Tampa, FL Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+We built the first, truly cloud-based public safety application suite that can be seamlessly deployed in any public or private cloud changing how agencies, law enforcement and first responders service communities.We architected a scalable open platform for data exchange to facilitate sharing of critical criminal data allowing law enforcement to solve crime faster, anticipate crime with data analysis and save lives.We developed an extensible and completely configurable records management system to handle the nuances and differences between federal, state and local agencies for quick deployments and implementation of new data applications.Frontend engineering experience, with strong system fundamentalsExperience with javascript frameworks (ReactJS, Angular)Exposure to architectural patterns of large, high-scale web applicationsExperience developing APIs and SDKs a plusFamiliarity with all aspects of SPA web applications (especially those built on Angular)Demonstrated design and UX sensibilitiesAbility to work in a cross-functional team that touches many parts of the core systems at SOMACompetitive salariesPaid time offMedical, dental, & vision insuranceLife insurance and disability benefits401KLong term incentive planApple equipmentCompany sponsored tech talks and happy hoursMuch more...

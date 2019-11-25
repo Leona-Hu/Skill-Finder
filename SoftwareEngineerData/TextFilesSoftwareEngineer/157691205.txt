@@ -1,0 +1,142 @@
+DataVisor is a next generation security company that utilizes industry leading unsupervised machine learning to detect fraudulent activity for financial transactions, mobile user acquisition, social networks, commerce and money laundering. Our solution is used by some of the largest internet properties in the world, including Yelp, Pinterest, Momo, and IGG, to protect them from the ever-increasing risk of fraud. Our award-winning software is powered by a team of world-class experts in big data, security, and scalable infrastructure. Our culture is open, positive, collaborative, and results driven. Come join us!The Infrastructure team is the backbone of DataVisor. Without our distributed and highly robust systems, business would stop. We tackle important challenges; clients require sub-second response times while we find relationships in petabytes of data. Weve created, and continually improve, our massive cluster infrastructure, allowing highly computationally expensive jobs to run smoothly. We love using and learning about the latest technologies such as Spark, NoSQL database, Kafka, and Kubernetes. Were excellent software engineers building infrastructure for our clients as well as other engineering teams within DataVisor.If you love building robust and scalable systems, enjoy learning about new technologies, and want to work on a high-caliber team whose performance positively impacts every other engineer in the company, wed love to talk to you.RequirementsBenefitsWe offer a flexible schedule with competitive pay, equity participation and health benefits, along with catered lunch, company off-sites, and game nights, as well as the opportunity to work with a world class team.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Mountain View, CA Technology jobs in Mountain View, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+BS degree in computer science (or equivalent) major required. Solid background of computer system: operating system, networking, database. Nice to have: distributed system, cloud computing.Excellent in coding and algorithm. Preferred: past experience with cloud platform such as AWS, GCP, Azure, or Alibaba Cloud.Preferred: past experience with core infrastructure component implementation and development, e.g. Spark, Flink, HBase, Cassandra, Kafka.

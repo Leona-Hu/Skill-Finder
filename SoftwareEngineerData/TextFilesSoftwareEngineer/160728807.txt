@@ -1,0 +1,142 @@
+TherapyNotes is the national leader in web-based behavioral health practice management and electronic health records software for private practices, psychologists, therapists, counselors, social workers and psychiatrists. Our software-as-a-service solution integrates patient scheduling, medical records, billing and electronic claims to streamline the way mental health professionals manage their practice. Our growing team is located at our brand new, 30,000 square foot corporate headquarters in Horsham, PA.TherapyNotes is seeking a Software Engineer to join our growing team. We are looking for a passionate engineer who wants to work in a highly collaborative, team environment. The right candidate will have experience building highly scalable, responsive web applications and web services using technologies such as C#, Web API, TypeScript, and JavaScript. They will have demonstrated expertise with modern web technologies such as web sockets and service workers.Most of all, we're passionate about delivering awesome software that our customers love.RequirementsBenefitsTherapyNotes offers careers that provide you with the freedom to do amazing work, interact with great people, and offer fantastic learning and growth opportunities. Our team empowers and challenges each other to learn and solve complex problems. We build and manage web applications with a strong emphasis in healthcare. If you are looking to join a supportive team, use your leadership experience, and build great products, please submit your application.TherapyNotes, LLC is an Equal Employment Opportunity Employer. All candidates whom have been given a conditional offer of employment with TherapyNotes, LLC must also undergo a criminal background check.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Horsham, PA Technology jobs in Horsham, PA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Clean codeBeing AgileSOLID principlesDevOps CultureThe best idea winsFull-stack web development including front end, business logic, and data access layers.Technology stack consists of C#, JavaScript, TypeScript, CSS, HTML, ASP.NET, AJAX, PL/SQL, and WCFResponsible for full development life cycle from planning through successful release and supportParticipate in decision making concerning software architecture and designParticipate in code reviewsMentor and assist in the training and onboarding of other team membersWork closely with other members of the development team and stakeholdersMaintain high standards, attention to detail, accuracy and completeness3 or more years experience developing software in an Agile, team-based environment1 or more years experience developing responsive web applicationsBS and/or MS in a technical discipline (Computer Science or Software Engineering preferred)Strong understanding of OOP concepts and design patternsExpertise with C#, JavaScript, TypeScript, CSS, and HTMLFamiliarity with web and browser technologies such as web sockets, service workers, LocalStorage, SessionStorage, and W3C manifestsExperience with CSS preprocessors such as SASS or LESS is a plusExperience building RESTful web services using Web APIExperience working with PostgreSQL, or other relational databasesExcellent problem solving and communication skillsCompetitive salaryComp time and flexible work hoursRetirement plan with company contributionFull health, life, disability, and dental insurancePersonal development/training budgetOpen, collaborative work environmentCompany provided refreshments

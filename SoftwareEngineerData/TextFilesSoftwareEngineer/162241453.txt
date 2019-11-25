@@ -1,0 +1,142 @@
+Software Engineer – Global Trading Technology Baltimore MD – Asset ManagementJ Harlan Group is currently conducting a search for a Trading Software Engineer – Global Trading Technology at a prominent Asset Manager in Baltimore MD.if you're looking for challenging work experiences and the ability to learn in a collaborative culture, we invite you to explore this opportunity.The Global Trading Technology team is looking for a hands-on Senior Developer to be a part of our Charles River Order Management team. This team supports our four global trading desks and builds applications and integrations to enable our Traders to achieve Best Execution for our clients effectively and efficiently. You will be part of a high-performing group of engineers setting, mentoring and evolving the technology direction of our next-generation n-tier, native cloud enabled products, as well as integrating with off-the-shelf vendor products like Charles River. You need to be passionate about all aspects of software engineering – performance, security, usability, reusability and maintainability. You also need to be equally passionate about teaching and inspiring members of your team. They are employing new technology paradigms such as cloud computing, lightweight microservices, and distributed and non-relational databases to deliver elastically scalable, globally distributed and highly resilient software services. In addition, we are utilizing capabilities such as low-touch and high-touch workflows intelligently augmented with data-driven algorithms to compound on the creativity and ingenuity of our investors.This is a “hands-on”, full development lifecycle role that provides an opportunity to solve complex business, data and technical challenges. As a key contributor throughout the entire development cycle, you will be required to think outside the box and bring cutting edge technology in-house. The ideal candidate would have a background: Required Education:An individual who loves solving deep and complex technical and business problems and wants to have an outsized impact with the services/ products they deliver. An individual with a passion for application development, high level of intellectual curiosity, a commitment to excellence and an unparalleled drive to deliver world-class services. About the Client:The firm is a publicly owned global asset management firm with $800 billion dollars of AUM. The firm offers funds, advisory services, account management, and retirement plans and services for individuals, institutions, and financial intermediaries.The talent and dedication of their people is critical to their success. They offer an opportunity for developing one's professional career while working with individuals trained in a variety of disciplines in a collegial and dynamic environment. They offer a broad range of competitive benefits on a global basis. They seek candidates who are high-energy self-starters who want to join an investment management firm on the leading edge of the global markets. The management team needs individuals of the highest professional caliber who are leaders, problem solvers, analytic, detail-oriented, and entrepreneurial. Everyone at the firm works side-by-side with the firm's senior management in a highly collaborative and charged environment.Successful candidates are:The firm's employees maintain the highest professional and ethical standards. The firm has earned a reputation for honesty, fair dealing, and transparency in a competitive industry. They believe that these standards are the foundation for superior investment performance and are critical to delivering performance to clients
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Baltimore, MD Technology jobs in Baltimore, MD Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Experience with Order Management and Charles River productsExperience in front office software development with an Asset Manager, Hedge Fund or Investment BankA solid understanding of tradable financial instruments (securities, derivatives) and capital markets“Hands-On” experience in one or more programming language(s) – C#/Python/JavaProficient on Linux platforms with knowledge of various scripting languagesFamiliarity with a variety of programming styles (e.g. OO, functional) and in-depth knowledge of design patternsStrong Test-Driven Development and desire to write simple, adaptive and iterative codeEnthusiastic embrace of DevOps culture and collaborative software engineeringExperience working in a dynamic, fast-paced, Agile team environmentStrong interpersonal skills; able to establish and maintain a close working relationship with Portfolio Managers, Traders, Support Personnel, other engineers, and senior business people alike Required Education:Strong academic record and a BA/BS degree with high mathematical and computing content (e.g. Computer Science or Engineering)Analytic and relentless in pursuit of the right answer Strong communicators who excel at rapid synthesis Able to demonstrate sound business judgment Able to digest complexity while maintaining an understanding of the “big picture” of business needs Team players who are energized by a collaborative enterprise

@@ -1,0 +1,142 @@
+Where good people build rewarding careers.Think that working in the insurance field can’t be exciting, rewarding and challenging? Think again. You’ll help us reinvent protection and retirement to improve customers’ lives. We’ll help you make an impact with our training and mentoring offerings. Here, you’ll have the opportunity to expand and apply your skills in ways you never thought possible. And you’ll have fun doing it. Join a company of individuals with hopes, plans and passions, all using and developing our talents for good, at work and in life.The OpportunityConsumer connectivity is growing every day—across our cars, smartphones, homes, and in virtually every aspect of our lives. We recognized this trend when we launched Drivewise in 2010, and we haven’t stopped accelerating since. When you join our technology team, you’ll have the freedom to dream up amazing innovations and explore new technologies. We’re looking for technology visionaries who aren’t afraid to rethink the way things work.Today, our telematics sensors now connect more than 1,000,000 consumers, and our mobile user experiences are helping to make our customers’ driving experiences more informative, engaging, and fun. So we’re not overpromising when we say that at Allstate, you can make an impact on the future of the driving experience and in how consumers connect across the Internet of Things.The JobThe CompoZed Full Stack Software Engineers work as part of agile eXtreme Programming teams who own the inception, development and full lifecycle of digital products. The team practices methodologies and adheres to principles put forth by the lean startup and lean enterprise movements. The team puts the system user at the center of everything they do; ensuring that users receive the most value out of the products being developed.  The CompoZed Full Stack Software Engineers qualify through a screening and suitability assessment (Opportunity Assessment of Developers).  They work in a highly structured paired environment.  They architect and design their own systems to deliver their products using modern tools, technologies, frameworks, and systems. They develop test driven code all day and every day. They are highly focused on test driven development, continuous delivery and innovation. They own and manage running their application in production, and ultimately becomes accountable for the success of their digital products through achieving the KPIs. The RoleThe CompoZed Full Stack Software Engineer Consultant |I serves as a member of a product team. They practice and are the champions of the CompoZed methodology, eXtreme Programming (XP) and a product mindset within each product team.CompoZed Full Stack Software Engineer Consultant develops applications following 12-factor principles to build out the product through iterative enhancements.  He/she owns the full stack of software products; developing and implementing frontends (web or mobile), and backend services.  He/she leverages test driven development and continuous integration to ensure agility and quality of products. He/she actively participates in the decision making process of the team ensuring that the simplest appropriate technology and design is chosen to meet user needs. QualificationsThe candidate(s) offered this position will be required to submit to a background investigation, which includes a drug screen.Good Work. Good Life. Good Hands®. As a Fortune 100 company and industry leader, we provide a competitive salary – but that’s just the beginning. Our Total Rewards package also offers benefits like tuition assistance, medical and dental insurance, as well as a robust pension and 401(k). Plus, you’ll have access to a wide variety of programs to help you balance your work and personal life -- including a generous paid time off policy.Learn more about life at Allstate. Connect with us on Twitter, Facebook, Instagram and LinkedIn or watch a video.Allstate generally does not sponsor individuals for employment-based visas for this position.Effective July 1, 2014, under Indiana House Enrolled Act (HEA) 1242, it is against public policy of the State of Indiana and a discriminatory practice for an employer to discriminate against a prospective employee on the basis of status as a veteran by refusing to employ an applicant on the basis that they are a veteran of the armed forces of the United States, a member of the Indiana National Guard or a member of a reserve component. For jobs in San Francisco, please click "here" for information regarding the San Francisco Fair Chance Ordinance. For jobs in Los Angeles, please click "here" for information regarding the Los Angeles Fair Chance Initiative for Hiring Ordinance.It is the Company’s policy to employ the best qualified individuals available for all jobs. Therefore, any discriminatory action taken on account of an employee’s ancestry, age, color, disability, genetic information, gender, gender identity, gender expression, sexual and reproductive health decision, marital status, medical condition, military or veteran status, national origin, race, religion (including religious dress), sex, or sexual orientation that adversely affects an employee's terms or conditions of employment is prohibited. This policy applies to all aspects of the employment relationship, including, but not limited to, hiring, training, salary administration, promotion, job assignment, benefits, discipline, and separation of employmentThe OpportunityThe JobThe RoleQualifications
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+TwitterFacebookInstagramLinkedInvideo"here""here"Software Engineer jobs in Charlotte, NC Technology jobs in Charlotte, NC Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Target Start Date: May/June 2020A college degree or equivalent experience in Computer Science or similar field, including a solid understanding of Computer Science fundamentalsStrong understanding of computer science concepts, object oriented design principlesKnowledge of developing software in different programming languages, and demonstrated ability to quickly learn new languagesKnowledge and experience on approaches and tools for automated testing and monitoring

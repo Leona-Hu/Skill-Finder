@@ -1,0 +1,142 @@
+Overview:The .NET Software Engineer will work closely with the Development Manager in implementing projects and enhancements to our client's platform.Responsibilities:Qualifications:Required Experience Bonus Experience
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Cumming, GA Technology jobs in Cumming, GA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Software development with the .NET stack (ASP.NET Core / C#, Windows Server 2012 R2, MySQL).Write and maintain clean, well-written C# code (SOLID principles).Write unit / integration tests and participate in code reviews (xUnit).Collaborate with peers on feature and architecture implementation plans.Focus on writing optimized and scalable code where needed.Eager to learn new technologies and techniques.Desire to share knowledge with the rest of the team.Advanced knowledge of C# (use of design patterns for writing testable code, use of generics where appropriate, write fast code, minimize allocations, write multi-threaded code, etc.)Strong knowledge of LINQ, how it gets transformed into SQL, its plusses and minuses.Minimum two (2) years of hands-on experience with ASP.NET MVC. Experience with ASP.NET Core MVC is a plus.Advanced experience and knowledge of working with a relational database (MySQL is preferred, but experience with other databases is welcomed).Experience working with 3rd party APIs and writing APIs to be used by other applications (REST).Understand and use design principles that mitigate the issues that come with working and writing distributed system.Experience with GIT or some other VCS.Ability to work independently, demonstrate initiative, take direction and collaborate well with others. Strong organizational, written and verbal communication skills.Hands-on experience with deploying to Amazon Web Services (AWS) and Continuous Integration tools (Jenkins, TeamCity, etc.).Hands-on experience with Front-End integration with Angular SPAs, HTML / CSS.Knowledge of microservice architecture is a plus.Participation in the open source ecosystem.

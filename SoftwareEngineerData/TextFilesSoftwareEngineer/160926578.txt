@@ -1,0 +1,186 @@
+At Capital One, we’re building a leading information-based technology company. Still founder-led by Chairman and Chief Executive Officer Richard Fairbank, Capital One is on a mission to help our customers succeed by bringing ingenuity, simplicity, and humanity to banking. We measure our efforts by the success our customers enjoy and the advocacy they exhibit. We are succeeding because they are succeeding.                                               Guided by our shared values, we thrive in an environment where collaboration and openness are valued. We believe that innovation is powered by perspective and that teamwork and respect for each other lead to superior results. We elevate each other and obsess about doing the right thing. Our associates serve with humility and a deep respect for their responsibility in helping our customers achieve their goals and realize their dreams. Together, we are on a quest to change banking for good.Software Engineer | Go | ReactWe’re seeking talented, hands-on engineers to modernize one of the most critical systems in Capital One’s US Card Business. We are using a host of technologies including JavaScript, TypeScript, Go, Java, and AWS to build microservices and serverless services. We practice Agile methodologies. Continuous Integration and Continuous Deployment are part of our daily lives.What you’ll do:Influence the technical direction of the project.Work with product owners to understand desired application capabilities and testing scenarios.Continuously improve software engineering practices, craftsmanship, availability, resilience, and scalability of your solutions.Work within and across agile teams to design, develop, test, implement, and support technical solutions across a full-stack of development tools and technologies.Bring a passion to stay on top of tech trends, experiment with and learn new technologies, participate in internal and external technology communities, and mentor other members of the engineering community.Innovate using cutting-edge technologies, outside-of-the-box thinking.Embrace and encourage teamwork, self-organization, and diversity.Basic Qualifications:Bachelor's Degree or Military ExperienceAt least 2 years of software development experienceAt least 1years of experience working with REST servicesAt least 1 years of experience in React, Golang, or AngularAt least 1 years of delivering software in an Agile environmentPreferred Qualifications:Willingness to learn new technologies2 + years of Experience with React.js, Angular (2+), or GolangProduction knowledge of PostgreSQL, MongoDB.Practical knowledge of computer science fundamentals including data structures, algorithms, and object-oriented programming. Functional programming knowledge is a bonus.Basic understanding of containerization concepts and tools, Docker specifically.At this time, Capital One will not sponsor a new applicant for employment authorization for this position.
+
+            Location/Region: Springfield, VA
+        
+At Capital One, we’re building a leading information-based technology company. Still founder-led by Chairman and Chief Executive Officer Richard Fairbank, Capital One is on a mission to help our customers succeed by bringing ingenuity, simplicity, and humanity to banking. We measure our efforts by the success our customers enjoy and the advocacy they exhibit. We are succeeding because they are succeeding.                                               Guided by our shared values, we thrive in an environment where collaboration and openness are valued. We believe that innovation is powered by perspective and that teamwork and respect for each other lead to superior results. We elevate each other and obsess about doing the right thing. Our associates serve with humility and a deep respect for their responsibility in helping our customers achieve their goals and realize their dreams. Together, we are on a quest to change banking for good.Software Engineer | Go | ReactWe’re seeking talented, hands-on engineers to modernize one of the most critical systems in Capital One’s US Card Business. We are using a host of technologies including JavaScript, TypeScript, Go, Java, and AWS to build microservices and serverless services. We practice Agile methodologies. Continuous Integration and Continuous Deployment are part of our daily lives.What you’ll do:Influence the technical direction of the project.Work with product owners to understand desired application capabilities and testing scenarios.Continuously improve software engineering practices, craftsmanship, availability, resilience, and scalability of your solutions.Work within and across agile teams to design, develop, test, implement, and support technical solutions across a full-stack of development tools and technologies.Bring a passion to stay on top of tech trends, experiment with and learn new technologies, participate in internal and external technology communities, and mentor other members of the engineering community.Innovate using cutting-edge technologies, outside-of-the-box thinking.Embrace and encourage teamwork, self-organization, and diversity.Basic Qualifications:Bachelor's Degree or Military ExperienceAt least 2 years of software development experienceAt least 1years of experience working with REST servicesAt least 1 years of experience in React, Golang, or AngularAt least 1 years of delivering software in an Agile environmentPreferred Qualifications:Willingness to learn new technologies2 + years of Experience with React.js, Angular (2+), or GolangProduction knowledge of PostgreSQL, MongoDB.Practical knowledge of computer science fundamentals including data structures, algorithms, and object-oriented programming. Functional programming knowledge is a bonus.Basic understanding of containerization concepts and tools, Docker specifically.At this time, Capital One will not sponsor a new applicant for employment authorization for this position.
+
+            Location/Region: Springfield, VA
+        
+At Capital One, we’re building a leading information-based technology company. Still founder-led by Chairman and Chief Executive Officer Richard Fairbank, Capital One is on a mission to help our customers succeed by bringing ingenuity, simplicity, and humanity to banking. We measure our efforts by the success our customers enjoy and the advocacy they exhibit. We are succeeding because they are succeeding.                                               Guided by our shared values, we thrive in an environment where collaboration and openness are valued. We believe that innovation is powered by perspective and that teamwork and respect for each other lead to superior results. We elevate each other and obsess about doing the right thing. Our associates serve with humility and a deep respect for their responsibility in helping our customers achieve their goals and realize their dreams. Together, we are on a quest to change banking for good.Software Engineer | Go | ReactWe’re seeking talented, hands-on engineers to modernize one of the most critical systems in Capital One’s US Card Business. We are using a host of technologies including JavaScript, TypeScript, Go, Java, and AWS to build microservices and serverless services. We practice Agile methodologies. Continuous Integration and Continuous Deployment are part of our daily lives.What you’ll do:Influence the technical direction of the project.Work with product owners to understand desired application capabilities and testing scenarios.Continuously improve software engineering practices, craftsmanship, availability, resilience, and scalability of your solutions.Work within and across agile teams to design, develop, test, implement, and support technical solutions across a full-stack of development tools and technologies.Bring a passion to stay on top of tech trends, experiment with and learn new technologies, participate in internal and external technology communities, and mentor other members of the engineering community.Innovate using cutting-edge technologies, outside-of-the-box thinking.Embrace and encourage teamwork, self-organization, and diversity.Basic Qualifications:Bachelor's Degree or Military ExperienceAt least 2 years of software development experienceAt least 1years of experience working with REST servicesAt least 1 years of experience in React, Golang, or AngularAt least 1 years of delivering software in an Agile environmentPreferred Qualifications:Willingness to learn new technologies2 + years of Experience with React.js, Angular (2+), or GolangProduction knowledge of PostgreSQL, MongoDB.Practical knowledge of computer science fundamentals including data structures, algorithms, and object-oriented programming. Functional programming knowledge is a bonus.Basic understanding of containerization concepts and tools, Docker specifically.At this time, Capital One will not sponsor a new applicant for employment authorization for this position.
+
+            Location/Region: Springfield, VA
+        
+Software Engineer | Go | ReactWe’re seeking talented, hands-on engineers to modernize one of the most critical systems in Capital One’s US Card Business. We are using a host of technologies including JavaScript, TypeScript, Go, Java, and AWS to build microservices and serverless services. We practice Agile methodologies. Continuous Integration and Continuous Deployment are part of our daily lives.What you’ll do:Influence the technical direction of the project.Work with product owners to understand desired application capabilities and testing scenarios.Continuously improve software engineering practices, craftsmanship, availability, resilience, and scalability of your solutions.Work within and across agile teams to design, develop, test, implement, and support technical solutions across a full-stack of development tools and technologies.Bring a passion to stay on top of tech trends, experiment with and learn new technologies, participate in internal and external technology communities, and mentor other members of the engineering community.Innovate using cutting-edge technologies, outside-of-the-box thinking.Embrace and encourage teamwork, self-organization, and diversity.Basic Qualifications:Bachelor's Degree or Military ExperienceAt least 2 years of software development experienceAt least 1years of experience working with REST servicesAt least 1 years of experience in React, Golang, or AngularAt least 1 years of delivering software in an Agile environmentPreferred Qualifications:Willingness to learn new technologies2 + years of Experience with React.js, Angular (2+), or GolangProduction knowledge of PostgreSQL, MongoDB.Practical knowledge of computer science fundamentals including data structures, algorithms, and object-oriented programming. Functional programming knowledge is a bonus.Basic understanding of containerization concepts and tools, Docker specifically.At this time, Capital One will not sponsor a new applicant for employment authorization for this position.
+
+            Location/Region: Springfield, VA
+        
+We’re seeking talented, hands-on engineers to modernize one of the most critical systems in Capital One’s US Card Business. We are using a host of technologies including JavaScript, TypeScript, Go, Java, and AWS to build microservices and serverless services. We practice Agile methodologies. Continuous Integration and Continuous Deployment are part of our daily lives.What you’ll do:Influence the technical direction of the project.Work with product owners to understand desired application capabilities and testing scenarios.Continuously improve software engineering practices, craftsmanship, availability, resilience, and scalability of your solutions.Work within and across agile teams to design, develop, test, implement, and support technical solutions across a full-stack of development tools and technologies.Bring a passion to stay on top of tech trends, experiment with and learn new technologies, participate in internal and external technology communities, and mentor other members of the engineering community.Innovate using cutting-edge technologies, outside-of-the-box thinking.Embrace and encourage teamwork, self-organization, and diversity.Basic Qualifications:Bachelor's Degree or Military ExperienceAt least 2 years of software development experienceAt least 1years of experience working with REST servicesAt least 1 years of experience in React, Golang, or AngularAt least 1 years of delivering software in an Agile environmentPreferred Qualifications:Willingness to learn new technologies2 + years of Experience with React.js, Angular (2+), or GolangProduction knowledge of PostgreSQL, MongoDB.Practical knowledge of computer science fundamentals including data structures, algorithms, and object-oriented programming. Functional programming knowledge is a bonus.Basic understanding of containerization concepts and tools, Docker specifically.At this time, Capital One will not sponsor a new applicant for employment authorization for this position.
+
+            Location/Region: Springfield, VA
+        
+We’re seeking talented, hands-on engineers to modernize one of the most critical systems in Capital One’s US Card Business. We are using a host of technologies including JavaScript, TypeScript, Go, Java, and AWS to build microservices and serverless services. We practice Agile methodologies. Continuous Integration and Continuous Deployment are part of our daily lives.What you’ll do:Influence the technical direction of the project.Work with product owners to understand desired application capabilities and testing scenarios.Continuously improve software engineering practices, craftsmanship, availability, resilience, and scalability of your solutions.Work within and across agile teams to design, develop, test, implement, and support technical solutions across a full-stack of development tools and technologies.Bring a passion to stay on top of tech trends, experiment with and learn new technologies, participate in internal and external technology communities, and mentor other members of the engineering community.Innovate using cutting-edge technologies, outside-of-the-box thinking.Embrace and encourage teamwork, self-organization, and diversity.Basic Qualifications:Bachelor's Degree or Military ExperienceAt least 2 years of software development experienceAt least 1years of experience working with REST servicesAt least 1 years of experience in React, Golang, or AngularAt least 1 years of delivering software in an Agile environmentPreferred Qualifications:Willingness to learn new technologies2 + years of Experience with React.js, Angular (2+), or GolangProduction knowledge of PostgreSQL, MongoDB.Practical knowledge of computer science fundamentals including data structures, algorithms, and object-oriented programming. Functional programming knowledge is a bonus.Basic understanding of containerization concepts and tools, Docker specifically.At this time, Capital One will not sponsor a new applicant for employment authorization for this position.
+
+            Location/Region: Springfield, VA
+        
+We’re seeking talented, hands-on engineers to modernize one of the most critical systems in Capital One’s US Card Business. We are using a host of technologies including JavaScript, TypeScript, Go, Java, and AWS to build microservices and serverless services. We practice Agile methodologies. Continuous Integration and Continuous Deployment are part of our daily lives.What you’ll do:Influence the technical direction of the project.Work with product owners to understand desired application capabilities and testing scenarios.Continuously improve software engineering practices, craftsmanship, availability, resilience, and scalability of your solutions.Work within and across agile teams to design, develop, test, implement, and support technical solutions across a full-stack of development tools and technologies.Bring a passion to stay on top of tech trends, experiment with and learn new technologies, participate in internal and external technology communities, and mentor other members of the engineering community.Innovate using cutting-edge technologies, outside-of-the-box thinking.Embrace and encourage teamwork, self-organization, and diversity.Basic Qualifications:Bachelor's Degree or Military ExperienceAt least 2 years of software development experienceAt least 1years of experience working with REST servicesAt least 1 years of experience in React, Golang, or AngularAt least 1 years of delivering software in an Agile environmentPreferred Qualifications:Willingness to learn new technologies2 + years of Experience with React.js, Angular (2+), or GolangProduction knowledge of PostgreSQL, MongoDB.Practical knowledge of computer science fundamentals including data structures, algorithms, and object-oriented programming. Functional programming knowledge is a bonus.Basic understanding of containerization concepts and tools, Docker specifically.At this time, Capital One will not sponsor a new applicant for employment authorization for this position.
+
+            Location/Region: Springfield, VA
+        
+What you’ll do:Influence the technical direction of the project.Work with product owners to understand desired application capabilities and testing scenarios.Continuously improve software engineering practices, craftsmanship, availability, resilience, and scalability of your solutions.Work within and across agile teams to design, develop, test, implement, and support technical solutions across a full-stack of development tools and technologies.Bring a passion to stay on top of tech trends, experiment with and learn new technologies, participate in internal and external technology communities, and mentor other members of the engineering community.Innovate using cutting-edge technologies, outside-of-the-box thinking.Embrace and encourage teamwork, self-organization, and diversity.Basic Qualifications:Bachelor's Degree or Military ExperienceAt least 2 years of software development experienceAt least 1years of experience working with REST servicesAt least 1 years of experience in React, Golang, or AngularAt least 1 years of delivering software in an Agile environmentPreferred Qualifications:Willingness to learn new technologies2 + years of Experience with React.js, Angular (2+), or GolangProduction knowledge of PostgreSQL, MongoDB.Practical knowledge of computer science fundamentals including data structures, algorithms, and object-oriented programming. Functional programming knowledge is a bonus.Basic understanding of containerization concepts and tools, Docker specifically.At this time, Capital One will not sponsor a new applicant for employment authorization for this position.
+
+            Location/Region: Springfield, VA
+        
+Basic Qualifications:Bachelor's Degree or Military ExperienceAt least 2 years of software development experienceAt least 1years of experience working with REST servicesAt least 1 years of experience in React, Golang, or AngularAt least 1 years of delivering software in an Agile environmentPreferred Qualifications:Willingness to learn new technologies2 + years of Experience with React.js, Angular (2+), or GolangProduction knowledge of PostgreSQL, MongoDB.Practical knowledge of computer science fundamentals including data structures, algorithms, and object-oriented programming. Functional programming knowledge is a bonus.Basic understanding of containerization concepts and tools, Docker specifically.At this time, Capital One will not sponsor a new applicant for employment authorization for this position.
+
+            Location/Region: Springfield, VA
+        
+Preferred Qualifications:Willingness to learn new technologies2 + years of Experience with React.js, Angular (2+), or GolangProduction knowledge of PostgreSQL, MongoDB.Practical knowledge of computer science fundamentals including data structures, algorithms, and object-oriented programming. Functional programming knowledge is a bonus.Basic understanding of containerization concepts and tools, Docker specifically.At this time, Capital One will not sponsor a new applicant for employment authorization for this position.
+
+            Location/Region: Springfield, VA
+        
+At this time, Capital One will not sponsor a new applicant for employment authorization for this position.
+
+            Location/Region: Springfield, VA
+        
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Springfield, VA Technology jobs in Springfield, VA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Influence the technical direction of the project.Work with product owners to understand desired application capabilities and testing scenarios.Continuously improve software engineering practices, craftsmanship, availability, resilience, and scalability of your solutions.Work within and across agile teams to design, develop, test, implement, and support technical solutions across a full-stack of development tools and technologies.Bring a passion to stay on top of tech trends, experiment with and learn new technologies, participate in internal and external technology communities, and mentor other members of the engineering community.Innovate using cutting-edge technologies, outside-of-the-box thinking.Embrace and encourage teamwork, self-organization, and diversity.Bachelor's Degree or Military ExperienceAt least 2 years of software development experienceAt least 1years of experience working with REST servicesAt least 1 years of experience in React, Golang, or AngularAt least 1 years of delivering software in an Agile environmentWillingness to learn new technologies2 + years of Experience with React.js, Angular (2+), or GolangProduction knowledge of PostgreSQL, MongoDB.Practical knowledge of computer science fundamentals including data structures, algorithms, and object-oriented programming. Functional programming knowledge is a bonus.Basic understanding of containerization concepts and tools, Docker specifically.

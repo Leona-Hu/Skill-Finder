@@ -1,0 +1,141 @@
+We are looking for Robotics Engineer to develop cutting edge robotic applications. You will work with teams in Shanghai and US Silicon Valley to integrate multiple software/hardware modules into our innovative robots.Responsibilities:1. Collaborate closely with roboticist, computer vision engineer, mechanical engineer, test engineer, and robots.2. Implement, test, debug, and maintain our robotic software modules.3. Develop advanced algorithms/techniques for industrial robots.Requirements1 MS or Ph.D. in computer science, robotics, or related field.2. Knowledge of industrial robotics.3. knowledge of high DOFs dynamics and kinematics.4. Experience with trajectory optimization, high DOFs motion planning (RRT, PRM).5. Experience with commercial software development processes: good software hygiene regarding code documentation, unit testing, bug tracking, and version control.6. Proficiency in C++.7. Experience with software development on/with robotic and/or automation platforms.8. Experience with Linux system.9. Experience with Git.10. Experience with CMake.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Santa Clara, CA Technology jobs in Santa Clara, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+

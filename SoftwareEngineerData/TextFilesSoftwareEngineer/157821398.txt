@@ -1,0 +1,142 @@
+ Linux System Engineer III Start Date: Immediate openingPosition:     Linux System Engineer IIIRequirement Description: Ready Support Services (RSS) is seeking a Senior Information Technology (IT) Linux System Engineer position (Systems Engineer III) (onsite) at our Customer Program Chantilly VA. The selected candidate will be assigned to a National Systems ISP/ASP program primarily within our government services product line to fill the role of Systems Engineer III to help create, deploy and support an element of the customer’s Future Ground Architecture and Infrastructure Service Provider platform. The candidate will be responsible for ensuring continuity of operations across 6 datacenter sites and one test site using High Availability technologies. Candidate will support the server processing and virtualization needs of multiple AD domains and their respective infrastructure services and tenant systems.  Candidate will lead large scale migrations from highly varied legacy environments to new, standardized environments.  The position will be supporting the Operations and Maintenance, Post Deployment and Integration aspects of new technology that is continuing to be deployed to the customer sites. The selected candidate will have roles in the following areas and may include responsibilities not limited to: (1) Work with multi-discipline teams in the support and sustainment of the IT systems, (2) Creation of technical work products, (3) Evaluate customer change requests, (4) Engage with customer and 3rd party operations organizations to understand how new systems will impact the customer tenant organization, and (5) Create and brief status and plans to customer change board meetings as needed. The positions will include, but is not limited to tasks like the following: The following skills are required:(1) 5-7 + years’ experience in LINUX support,(2) Must hold and maintain a current/active TS/SCI Clearance with CI-Poly,(3) Experience in the ISP/ASP compute, network and storage environments,(4) Systems’ Engineering experience on a large government cloud deployment contract,(5) Demonstrated judgement in managing competing priorities to meet program objectives,(6) Experience in identifying risks and establishing effective mitigation plans, viable contingency plans,(7) Provide LINUX administration in the following functions: LINUX server deployment, optimization, application design / architecture, system upgrades and patching,(8) Troubleshoot and diagnose advanced LINUX server issues, including reliability issues, performance concerns, and software bugs,(9) Strong LINUX shell scripting experience,(10) LINUX Security Framework knowledge (PAM, KDC/LDAP, SSH key management, etc.),(11) Current Active Security certified CE + or IAT certified(12) LDAP/DNS management experience.·        Experience in the Computer Network, Systems Administration domainsRequired Education (including Major):B.S./B.A. in Aerospace Engineering, Information Systems, Management Information Systems, Systems Engineering, Electrical Engineering, Computer Science, Computer Engineering, Computer Information Systems, Computer Systems Engineering, Mechanical Engineering, Physics, Math and 8 years relevant work experience.  10 years relevant experience can be used in lieu of a degree. Clearance Type:  Current/Active TS/SCI Clearance with CI-Poly  Ready Support Services LLC provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training. 
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Chantilly, VA Technology jobs in Chantilly, VA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Collaborate with partners to define computing requirements and create end-to-end solutions consisting of hardware and operating system technologies.Integrate and partner with programs to solve complex infrastructure problems.Assure a high level of reliability and performance through systems monitoring and infrastructure management.Respond to and use an online ticketing system to fill service requests from users.Ensure server and application compliance with security and performance requirements (NISPOM, RMF/DISA).Convert and upgrade older infrastructure to new technologies.Develop, revise, and maintain technical and operational documentation (including procedures) to continually improve computing environments.Maintain and grow your technical competence in multiple areas (such as Windows, Linux, virtualization, User Authentication, DNS, NFS, system imaging/build automation).Assist in developing the overall performance and capability of your technical team through mentoring and knowledge sharing.Must be able to interface with program and company leadership, customers, as well as end users Must be willing to work overtime to meet key deadlines, and lead team to do the same

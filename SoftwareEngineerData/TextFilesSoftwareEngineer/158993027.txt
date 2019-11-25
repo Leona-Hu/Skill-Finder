@@ -1,0 +1,142 @@
+The Battle.net & Online Products organization is home to 300+ superpowered engineers, program managers, and designers focused on the technology that powers Blizzard Entertainment’s games. Whether you’re playing one of our titles, chatting with friends, or just shopping online, B&OP ensures that our players are immersed in engaging, exciting, and secure experiences.Blizzard Entertainment is looking for a passionate Software Engineer join the Content & Developer Services organization of Battle.net & Online Products to build engaging services and experiences for our Developer Community, Esports Partners, and Game franchises.Our team located in Irvine, California is on the front lines creating the tools and API’s needed to extend game play experiences beyond the game and support competitive esports with rich data and statistics. Moreover we also provide services that act as the crossroads of Blizzard's game data that fuel our Developer Community APIs. We are searching for applicants to be a key part in bringing the Blizzard commitment to quality to an exciting new initiative for our esports strategy.Does working on building this new future excite you? If yes, venture forth...This position within the Blizzard Content & Developer Services Department will work closely with a team of engineers, designers and testers to help extend the capabilities of our Platform, with an initial focus on expanding integrations with additional data sources to provide enhanced statistics and reporting.This is an individual contributor role joining an existing team responsible for architecting, building and maintaining scalable web services & tools to serve a global audience of esports fans, public APIs, players and partners.ResponsibilitiesRequirementsPluses
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Irvine, CA Technology jobs in Irvine, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Working within a cross-functional team whose purpose is to enable epic web & broadcast experiences and compelling storytelling around esports for all Blizzard’s franchisesDefining data architecture and integrating new data sources, APIs and systemsWriting business logic and API’s that allow our clients to aggregate data into useful segments from raw statsBreaking down complicated requirements into clear, actionable tasks that can be estimated and completedWriting clean, testable, maintainable codeWork with our game teams to pipe data into our systems for authorized consumption by downstream consumersMaintaining an open-minded, friendly and positive attitudeA minimum of 3 years’ experience in professional web developmentExpertise in back-end web development, ideally building web services and APIsA solid understanding of best practices and techniques regarding web scalability, performance and securityExcellent verbal and written communication skillsSelf-motivated with strong initiativeAble to work in a fast-paced, dynamic work environmentPassion and belief in Blizzard's Core ValuesPassion and interest in esports, game data, and public APIsKnowledge of common competitive formats in esports and traditional sportsExperience using Java / SpringExperience using JavaScript / Node.jsExperience using Python / FlaskExperience working in a Scrum environmentExperience working on high-traffic, responsive websites and applications

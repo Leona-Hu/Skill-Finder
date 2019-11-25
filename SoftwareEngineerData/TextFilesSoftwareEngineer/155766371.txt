@@ -1,0 +1,142 @@
+Overview:UNIFY Financial Credit Union is one of the nation’s largest 100 credit unions with a reputation for being financially sound and growth-oriented. We’re expanding rapidly to meet the needs of a growing member base. At UNIFY, our team members work together to strive toward a common goal, “providing superior service to our members.” In doing so, we promote a culture where your ideas matter, your growth matters, and you matter. We encourage all team members to challenge and encourage themselves and their teammates to work smarter and to be more successfulSummary:Responsible for designing, deploying and maintaining the Credit Union’s network server infrastructure and domain, monitoring the performance of these systems to ensure that they are operating within specifications, and ensuring that disaster recovery (DR) procedures are in place and tested according to standard operating procedures (SOP).Responsibilities:Qualifications:See the UNIFY Difference!At UNIFY, we believe that each team member is a valued contributor. Through a teamwork approach, we strive to provide a positive and rewarding workplace that helps our team succeed. UNIFY provides a work environment which promotes learning, growth, and the opportunity for team members to challenge themselves.Competitive Compensation and Excellent Benefits Package* Includes:Medical (PPO/HMO), Prescription, Dental (PPO/DMO), Vision, Life, and Short- and Long-Term Disability InsuranceDependent and Medical Care - Flexible Spending AccountsVacation, Sick, Personal and Holiday Pay401(K) Plan with employer matchEducation reimbursement for approved programsUNIFY banking privileges for you and your family*All programs subject to review and changeUNIFY is proud to be a drug-free, equal-opportunity employer. For more information on UNIFY, visit us at www.unifyfcu.com#CORP 
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Allen, TX Technology jobs in Allen, TX Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Designs and implements infrastructure, systems management, application distribution and cloud (virtual) applications that integrate seamlessly into the existing network infrastructure.Establishes systems-related procedures, and ensures they are followed by all team members in the department.Acts as technical lead for implementation and modification of the system’s architecture.Designs, deploys, maintains, monitors and modifies the Active Directory (AD) tree to accommodate necessary changes due to new applications, groups or mergers. Ensures that the AD tree is maintained and that performance expectations are met.Designs, deploys, maintains, monitors and modifies the email systems and other business systems to support the Credit Union’s applications, in order to ensure that performance and Service Level Agreements (SLAs) are met.Designs, deploys, maintains, monitors and modifies the Virtual Environment (VMware) to control cost and maximize flexibility and responsiveness to user demands.Provides backup support for the Storage Engineer with backup solutions.Effectively uses monitoring systems to proactively minimize outages and optimize performance.Develops and maintains installation and configuration procedures and documentation in accordance with Information Technology Infrastructure Library (ITIL) guiding principles and strategies.Ensures software compliance and standardization in regards to consistency of the overall systems infrastructure.Researches and recommends innovative, and where possible automated, approaches for system administration tasks. Identifies approaches that leverage resources and provide economies of scale.Provides Tier III/other support per requests, including investigations and troubleshooting issues.Repairs and recovers from hardware or software failures. Coordinates and assists in communications with impacted users.Upgrades and configures system software that supports infrastructure applications per project or operational needs.Performs periodic performance reporting to support capacity planning.Performs ongoing server performance tuning, hardware upgrades, and resource optimization as required, including configuring CPU, memory, and disk partitions as required.Provides high-level support for ATM, host, and document imaging severs, including operating system and communication issues.Ensures minimum down times to reduce interrupted service of systems.Provides end-user and second-level technical support as needed.Assists in user training and the development of procedures.Participates in the Department’s 24/7 on-call rotation.Ensures full compliance with UNIFY Financial Credit Union Service Standards, policies, and procedures; and with the Bank Secrecy Act.Performs other duties as assigned.Requires a High School diploma, Bachelor’s degree preferred, with a minimum of three years related experience in Systems Engineering or Systems Administration, preferably in a financial institution.Requires thorough knowledge of Virtual Environments and cloud computing, and Microsoft Infrastructure Services such as AD, File, Print, IIS and SQL.Requires Microsoft certifications or demonstrated experience therein.Knowledge of current and prior Microsoft operating systems is preferred.Position requires the ability to think creatively and work both in a team (taking the lead role when necessary) and independently; the ability to communicate effectively, both verbally and in writing; and proficiency in spreadsheet, word processing, and presentation applications.

@@ -1,0 +1,142 @@
+We, the engineers of the Battle.net & Online Products Applications Group, are looking for a passionate software engineer to join our Battle.net Desktop Application team. Our team provides the gateway to a vibrant and thriving online gaming community. We put Blizzard’s epic games into the hands of the world’s most passionate and loyal players. We share amazing content immersing players into the rich universes we craft. Together, we deliver Blizzard Entertainment to millions of players across the globe every day. Our ideal candidate enjoys teaming up with designers, program managers, and fellow engineers to build intuitive, efficient, maintainable, and highly polished experiences.  We have ambitious plans to evolve our application, and everyone on the team can help shape the future of the tech, features, and design. The App team develops the Battle.net Desktop Application for both PC and Mac. The Desktop App presents a seamless experience for Blizzard’s products: content about Blizzard games, a portal to the digital store, a hub to update and launch games, and a place where millions of players can socialize with their friends. Our primary mission is to create an entertaining, approachable, and accessible portal to get our players immersed and enjoying Blizzard’s games with their friends as quickly and effortlessly as possible. The Battle.net & Online Products organization is home to 300+ superpowered engineers, program managers, and designers focused on the technology that powers Blizzard Entertainment’s games. Whether you’re playing one of our titles, chatting with friends, browsing our web content or just shopping online, B&OP ensures that our players are immersed in engaging, exciting, and secure experiences. Requirements Pluses
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Irvine, CA Technology jobs in Irvine, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Passion for delivering amazing features to millions of playersFluent in C++ with a minimum of 5 years’ professional software development experienceFamiliarity with networking and communication protocols such as TCP or HTTPStrong verbal and written communications skillsBachelor's degree in Computer Science, Mathematics, or equivalent experienceExperience with shipping and maintaining desktop applications that support a global user baseExperience developing APIs for modular software design patternsCross-platform development experience for Windows and MacCEF or Javascript programming experienceExperience using UI frameworksClient / Server architecture experience

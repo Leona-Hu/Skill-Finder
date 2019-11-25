@@ -1,0 +1,142 @@
+CCRi has built a best-in-class air domain awareness capability that is in use by hundreds of analysts daily. We always want to do more, and thats where you come in. Our system processes data from numerous streaming feeds, fusing observations for tens of thousands of concurrent air domain objects to form the best possible live view of whats where in the sky. We perform additional in-stream analytics to determine not just where something is, but what it is, and what its doing. Our results are available in our browser-based, map-centered, high-volume data visualization application. Historic archives of data going back years are ripe for analytical development.The Role:CCRi is looking for a software engineer grounded in the full software lifecycle, from architecture and design through coding, testing, documentation, deployment, and support/maintenance. Our engineers take cutting-edge machine learning-research and build reliable products. You'll help integrate machine-learning analytics, streaming data processing pipelines, and appealing user interfaces into end-to-end mission systems. These tools will be used to provide real-time situational awareness, and expose advanced analytics to end users.This is a technical position focused on software development and deployment.Technology: Hadoop, Spark, HBase, Accumulo, Storm, Kafka, AWS, GeoServer, Docker, KubernetesLanguages: Scala, Python, Java, JavaScriptWhat youll do:80%: Design, write, test, and deploy working software.20%: Perform ancillary tasks including sprint retro/planning, and peer review of your colleagues' work.RequirementsBonus Points:Demonstrated experience withDue to the nature of CCRi's business with the United States Government, and requirements found in CCRi's government contracts, all CCRi employees are required to be United States citizens. Visas and Green Cards may make an applicant generally eligible to work in the United States, but they do not satisfy CCRi's contractual requirements. All new CCRi employees are required to verify their United States citizenship upon hire. CCRi is not able to sponsor citizenshipBenefitsCCRi is committed to a diverse and inclusive workforce because we know that our differences benefit our employees, our customers, and our community. We are proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, color, religion, age, sex, sexual orientation, gender identity, national origin, status as a an individual with a disability, status as a protected veteran, or any other applicable legally protected characteristics.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Charlottesville, VA Technology jobs in Charlottesville, VA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+US citizenship required. We do not offer sponsorships.Active TS security clearanceAble to work on a teamTechnical curiosity and enthusiasmfull-stack developmentbuild and deployment with Maven and Jenkinsdistributed version control with Gitdatabase technologydistributed analytics and processinggeospatial data and analyticsAWS infrastructure and toolingCasual Work EnvironmentIntellectually Challenging WorkHealth InsuranceShort Term Disability InsuranceGenerous Defined Benefit RetirementVery Flexible Vacation PolicyWant to know more? Check out our recruitment video: https://www.youtube.com/watch?v=W_b2EY1tlRM

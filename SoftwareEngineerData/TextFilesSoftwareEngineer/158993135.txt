@@ -1,0 +1,142 @@
+Blizzard Entertainment is looking for a ​rockstar mobile engineer who has a passion for building epic video experiences. The ideal candidate would relish in the details with an affinity for Blizzard games and Esports. The Blizzard Media Network team is responsible for building and supporting the video experience for Android and iOS media apps across Activision/Blizzard/King. Responsibilities RequirementsPlusesRequired Application MaterialsBlizzard Entertainment is a global company committed to growing our employees. We offer generous benefits and perks with an eye on providing true work / life balance. We’ve worked hard to champion an intensely collaborative and creative environment, a diverse and inclusive employee culture, and training and opportunity for professional growth. Our people are everything. Our core values are real, and our mission has never changed.We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We are dedicated to creating the most epic entertainment experiences…ever. Join us!
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Irvine, CA Technology jobs in Irvine, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Focus on building front end experience supporting the standard media mobile playback experience company wide.  Collaborate with product, design and dev ops in delivering epic video experiences Contribute to the architecture, design, implementation, deployment and support of mobile video experiences  Instrument applications to monitor for engagement, user pathing, quality of service, and performance  Communicate estimations/timelines/progress of individual contribution, raise risks and ensure deliverables are documentedContribute to app architecture/design reviews, code reviews, writing unit tests, performance tuningHelp ideate and prototype new features Bachelor's degree in Computer Science, ​Engineering​, or equivalent experience 3+ years of relevant native mobile development experienceDemonstrated skills in Android development (Java, Kotlin)One or more applications successfully deployed to the Google Play StoreUnderstanding of Android design principles, guidelines, and best practicesDeep understanding of CI workflow that leverages industry standard Android testing  and build tools needed to deliver quality appsKnowledge of Exoplayer frameworkExperience working/integrating with video player solutions such as Bitmovin, Brightcove, JWPlayer, Drive quality and stability by writing unit, functional and performance tests with Test  Driven Development (TDD)Experience with debugging and profiling native applications on major devicesExcellent analytical, problem solving, and debugging skillsAttention to detail and qualityEffective communication skills with developers of all technical skill levels Experience in iOS development including Objective-C, Swift, Cocoa Touch, Xcode,  CocoaPods, etc. Experience working with content (live, vod) encoding and transcodingServer-Side Ad Insertion (SSAI) technology stacks including MediaTailor, DFP, SpotXUnderstanding of video codecs and compression (H.264/AVC, H.265/HEVC) and streaming technologies (HLS, MPEG-DASH)Experience in Broadcast/Broadband Television, Video-On-DemandExperience with digital rights managementDeep understanding of all aspects of content clipping, live video encoding, and DVRExperience building video experiences for OTT devices (Roku, Apple TV, Google Chromecast, Amazon Fire, etc.)Familiarity with HTTP/S and basic networking conceptsFamiliarity with content protection, and native security standardsExperience with identity management (OAuth, Open ID Connect, SAML, etc.) ResumeCover Letter

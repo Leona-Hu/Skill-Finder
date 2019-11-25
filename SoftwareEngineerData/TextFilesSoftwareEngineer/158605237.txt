@@ -1,0 +1,142 @@
+RESPONSIBILITIES:REQUIREMENTS:
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Poway, CA Technology jobs in Poway, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+ Develop automated tests Diagnostic test design and development; Establish a system performance baseline and enable regression testing to confirm system performance baseline Work with more experienced engineers on design and development Work independently and in consultation with more experienced engineers Provide input into the requirements and specifications for a given firmware/software project Help document and review overall architecture and individual objects (modules) for a given firmware/software project Perform both unit and system tests on components and objects of a firmware (or software) project 5+ years of experience in developing and/or testing user-space applications in embedded Linux devices Proficient in debugging software on either PC host platforms or embedded hardware using debuggers, emulators, etc.  Knowledge of C/C++, proficient in coding using C/C++ Experienced with Shell Scripting languages - Bash shell, JavaScript Experience with test automation tools (nice to have) Experienced with Node.js (nice to have) Familiar with object-oriented and structured software design methods Familiar with the Agile development process and a willingness to work in an Agile environment Proficient in real-time multitasking operating systems Proficient in design of applications that implement user interfaces Proficient in utilizing debugger tools

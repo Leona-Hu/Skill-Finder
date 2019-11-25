@@ -1,0 +1,142 @@
+Casne Engineering is seeking entry-level engineers and technologists to join our professional services team for global data center operations. This team is responsible for analyzing customer operational and business needs and helping to design, install, test, and support best fit solutions for data center infrastructure management (DCIM), energy management, condition-based maintenance (CBM), and real-time monitoring of critical systems. Primary responsibilities include working within a cross functional team to apply best practices approaches to solving common challenges in data centers and other critical facilities. Candidates must have hands-on experience configuring and integrating products and technologies common to EPMS, BMS, BCM, and CMMS applications. Candidates must exhibit a confident, professional, and positive demeanor and have a genuine interest in helping customers succeed with technology without pushing personal biases toward particular vendors or products.Required (Technical)Required (Business)Also Desirable 
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Bellevue, WA Technology jobs in Bellevue, WA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+2+ years experience working in a mission-critical environmentStrong troubleshooting and problem solving abilityDeep hands-on experience installing, configuring, managing, and supporting modern computer hardware and software productsUnderstanding and interest in configuring and testing electrical power measurement devices including PQM, RPP, PDU, and BCM equipmentUnderstanding and interest in troubleshooting device-level protocols such as Modbus, Bacnet, Lonworks, SNMP, and OPC-DA/HDA/UAUnderstanding and interest in real-time data collection, aggregation, analysis, and visualizationAuthorization to work within the U.S.Consistent and dependable work attendance recordReliable transportation and valid driver’s licenseCompliant with criminal background check requirementsAble to work independently and take ownership of tasks from start to finishDeep respect for operational integrity, safety, and uptime in critical environmentsStrong documentation skills and ability to fully capture work performed and processes followedAbility to clearly communicate technical information to non-technical users, both verbally and in writingAbility to travel to customer locations as required to research existing conditions, coordinate with third parties, configure systems, and commission final solutionsExperience with industrial instrumentation, control systems, networks, and human-machine interface solutionsExperience with products from OSIsoft, Wonderware, GE, Inductive Automation, Timescale, InfluxSoftware development experience (C#, .NET, HTML, CSS, JSON, JavaScript, etc.)ITIL knowledge/certificationUnix / Linux and LAMP stack experience

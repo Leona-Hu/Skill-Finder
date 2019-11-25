@@ -1,0 +1,142 @@
+BenevolentAI, founded in 2013, creates and applies AI technologies to transform the way medicines are discovered and developed. BenevolentAI seeks to improve patients lives by applying technology designed to generate better data decision making and in doing so lower drug development costs, decrease failure rates and increase the speed at which medicines are generated. The company has developed the Benevolent Platform - a discovery platform used by BenevolentAI scientists to find new ways to treat disease and personalise drugs to patients.BenevolentAI is HQd in London with a research facility in Cambridge (UK) and further offices in New York and Antwerp. BenevolentAI has active R&D drug programmes from discovery to Phase II in disease areas such as ALS, Parkinsons, Ulcerative Colitis and Sarcopenia.The Software Engineering team is focused on applying engineering rigour and innovative design to the BenevolentAI software platform. We embrace a modern microservice architecture on Kubernetes in order to orchestrate a machine learning platform that empowers drug discovery.We are hiring for all levels of experience, from entry-level to lead software engineers.BenevolentAI is committed to growing diverse and inclusive teams. We welcome you to apply if the job description as a whole appeals, even if there are specific areas where you dont have previous experience!Preferred (not required) QualificationsWho are we?We have assembled a diverse, exceptionally talented and spirited team to tackle the most pressing and challenging problems at the intersection of artificial intelligence and drug discovery. We bring our ideas and passion for new technology and medicine discover to life by questioning traditional scientific dogmas. Our core values reflect who we are and how we work and they are so important to achieve our mission: Bring better medicine to patients faster.Put patients first. Drive to delivery. Break boundaries. Own the solution. Find out more
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in New York, NY Technology jobs in New York, NY Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Design and build software to solve complex data requirements and user needs across biology, chemistry, AI, and data science.Promote engineering best practices, such as: code reviews, test-driven development, pair programming, etc.Strong in at least one programming language (Python / Java / JavaScript preferred).Basic algorithms and data structures for software development.Basic understanding of machine learning and/or distributed systems.Experience working with at least one of the following software systems:web frameworks, databases, APIs, microservice architecturesweb frameworks, databases, APIs, microservice architecturesExperience in at least one of the following software domains:frontend development, backend development, data processing pipelinesfrontend development, backend development, data processing pipelinesBasic knowledge of biology / chemistry, and experience working with biomedical data.Knowledge of the pharmaceutical industry, ideally with a focus on drug discovery.

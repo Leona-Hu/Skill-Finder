@@ -1,0 +1,142 @@
+Members of the Blizzard Entertainment's Overwatch team are passionate gamers at heart - driven to make the most fun and compelling experiences for our players. We are seeking a talented, motivated, and experienced engineer who shares our values:This philosophy, along with the Blizzard values of “Gameplay First” and “Play Nice, Play Fair,” has made Overwatch one of Blizzard's most successful games, and it has forged a bond of trust with our worldwide player community that is extremely important to us.We are looking for an Animation Engineer to help build and maintain the Animation System and Tools that will be used on Overwatch. Our ideal candidate has a passion for games and working with animators to bring characters to life. You’ll work with our team to craft and ultimately execute on that shared vision.ResponsibilitiesRequirementsPluses
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Irvine, CA Technology jobs in Irvine, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+We take responsibility for delivering our workWe collaborate constantly, helping each other to be successfulWe continuously improve our knowledge, workflows and processesWe communicate openly, calling out issues, opportunities, and sharing feedbackWe have integrity, maintain confidentiality, and share a sense of ownership in our successWe have real passion for the game, our players, quality work, and technologyBuild optimized, sustainable and maintainable technologies to help solve game driven animation problemsImplement tools and pipelines integrating with game systems for the rapid creation and iteration of animation contentWork closely with designers, artists, and other engineers to ensure a great player experienceWork with the animators and technical artists to support their needs and ensure a powerful and easy workflowExtreme passion for playing and making video gamesFluency in C++At least 3 years of professional experience in game developmentComfortable defining how animations are organized and played back in-gameExperience with blend tree systemsExperience with low-level animation constructs: compression, blending, and posingFamiliar with various data structures and algorithmsComfortable using trigonometry and linear algebraEffective communication skills with developers of all technical skill levelsMulti-threading and optimizationClient-server game developmentGame physicsWide range of PC hardware and console platformsVersion control systems: Git, Perforce, or Subversion

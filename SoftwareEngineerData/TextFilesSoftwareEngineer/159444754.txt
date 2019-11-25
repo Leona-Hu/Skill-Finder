@@ -1,0 +1,142 @@
+At Lyell, our vision is to develop curative cell-based immunotherapies for solid tumor cancers. We have innovative science originating from our founders world class labs and a unique and disruptive approach to research and development. Our company is first and foremost focused on understanding the science. We are a learning organization, dependent on deep collaborative relationships between all of our colleagues, partners and founders. Our culture is based on Respect, Science, Courage and Intensity, and it reflects who we are and the environment we are creating.Position Summary:Lyell is looking for several backend Software Engineers, of all seniority levels and skill sets, to join the Information Sciences team in South San Francisco or Seattle. Software Engineers at Lyell will be responsible for building a cloud data platform to enable Lyell scientists and collaborators with real-time data access, real-time collaboration, and making meaningful and actionable scientific insights from large data volumes of many different data modalities. We are looking for people who are passionate about writing high quality software and are interested in making a difference in the world! Essential Functions:RequirementsPreferred Education/Experience:Knowledge, Skills and Abilities:BenefitsAt Lyell, we believe that highest performing teams include people from a wide variety of backgrounds and experiences who respectfully challenge each other. We are committed to building an open, diverse and inclusive culture for all employees.Weve learned from experience that some of the best people dont always match our requirements perfectly - if youre interested and think you could fit, please dont hesitate to apply.Lyell is proud to be an equal opportunity employer and does not discriminate on the basis of race, color, citizenship status, national origin, ancestry, sex, sexual orientation, age, religion, creed, physical or mental disability, medical condition, marital status, veteran status or any other characteristics protected under applicable federal, state and local laws.If you are an individual with a disability and require a reasonable accommodation to complete any part of the application process or are limited or unable to access or use this online application process and need an alternative method for applying, please contact us via our company website.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in South San Francisco, CA Technology jobs in South San Francisco, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Designing and implementing web applications with a cloud-based microservices architecture to enable collaboration on our data platformDatabase design, implementation, optimization to support multi-tenant applicationsPerformance tuning and scalingDesigning and implementing security layer of web applications, including Single Sign-on, OAuth, password policies, and role-based access managementDesigning and implementing RESTful APIsIntegrate open source, commercial, and in-house implemented analytics tools with our Data PlatformWork collaboratively in cross-functional groups, such as software engineering, biological sciences, data sciences, regulatory, and manufacturing Degree (B.S., M.S. or PhD) in Computer Science, Math, Physics, or biological sciences is preferred, but not required Python, Go, or Java AWS or Google Cloud Implementing microservices with Docker Experience with web application frameworks like Spring Boot, Flask, Django Continuous Integration / Continuous Deployment Bonus: Infrastructure as Code tools such as Terraform, CloudFormationBonus: Managing large-scale data on a S3 data lake, SQL data warehouse, or NoSQL systemBonus: Full stack software development An interest in biological sciences; experience with LIMS/ELN systems and with NGS, flow cytometry, and imaging data is a bonus, but not at all requiredExcellent oral and written communication skills Ability to work independently and collaboratively among cross-functional teams, with a particular understanding for and drive to solve data issues faced by research and clinical scientistsAbility to work efficiently, prioritize workflow, meet deadlines and balance competing priorities. Excellent analytical skills and scientific/technical expertise

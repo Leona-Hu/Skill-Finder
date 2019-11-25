@@ -1,0 +1,142 @@
+Members of the Overwatch team are passionate gamers at heart - driven to make the most fun and compelling experiences for our players. We spend our days collaborating and iterating on everything that goes into the game: from placing health packs to dreaming up the craziest “Play of the Game” animations. Our goal is to always surprise and delight our players. We believe in maximum visibility and communication at the team level and with the people who play our game. This philosophy, along with the Blizzard values of “Gameplay First” and “Play Nice, Play Fair,” has made Overwatch one of Blizzard's most successful games, and it has forged a bond of trust with our worldwide player community that is extremely important to us.We are seeking an experienced engine programmer that shares our values:This position involves working with artists, game programmers, and fellow engine programmers to develop and refine the Overwatch engine. You will have a passion for attention to detail and has a broad interest in chipping in to diverse areas of development including visuals, iteration times, code quality, performance, and reliability.This is a full-time position at our office in Irvine, California.**Only submittals with Cover Letters will be considered.ResponsibilitiesRequirementsPlusesRequired Application Materials
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Irvine, CA Technology jobs in Irvine, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+We take responsibility for delivering our work.We collaborate constantly, helping each other to be successful.We continuously improve our knowledge, workflows and processes.We communicate openly, calling out issues, opportunities, and sharing feedback.We have integrity, maintain confidentiality, and share a sense of ownership in our success.We have passion for the game, our players, quality work, and technology.Collaborate with artists, designers, game and engine programmers in order to maintain and implement tools and features in the engine.Support and improve the live service, including performance measurement and optimization.A minimum of 3 years’ experience on at least one shipped titleC++ and object-oriented design skillsStrong critical thinking and problem-solving skillsPassion for systems or graphics programming and algorithms / mathematics (linear algebra, trigonometry)Good understanding of game content pipeline and toolsStrong ability to collaborate with technical and non-technical teammatesSelf-motivated and a phenomenal teammate willing to pitch in on many areas in developmentPassion for writing clean and performant codeFamiliarity with rendering techniques, shader development and graphics hardware and API’sExperience with multi-threaded programmingKnowledge of C#, JavaScript, Python, or other languagesExperience with particle / effects systemsA degree in computer science, related field, or equivalent experienceResumeCover Letter which should include:Why you are passionate about working at BlizzardWhat games you are currently playing

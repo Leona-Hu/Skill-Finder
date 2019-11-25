@@ -1,0 +1,142 @@
+We are looking for a talented server engineer, who is excited to architect and implement server technology at a global scale in service of amazing experiences for our players.  If you have a passion for game development and want to participate in the future of Blizzard, we would love to hear from you!  Our team values creativity, collaboration and a commitment to quality and we are searching for like minded developers to add to our team of talented game makers.You will help develop new systems and services for our game, coordinating across disciplines with designers and client engineers.  In addition to having the usual technical chops, we want to hear from qualified engineers who have an absolute passion for gaming, programming, and finding simple solutions to complex problems. The ideal candidate should be excited by the idea of working closely with designers to create compelling and epic features that will keep players engaged for years. We love engineering, geeking out over new technology and helping move the industry forward. Most importantly, we learn, grow, and ultimately enjoy success as a team, overcoming new challenges together.Responsibilities Requirements Pluses Required Application MaterialsBlizzard Entertainment is a global company committed to growing our employees along with the business. We offer generous benefits and perks with an eye on providing true work / life balance. We’ve worked hard to foster an intensely collaborative and creative environment, a diverse and inclusive employee culture, and training and opportunity for professional growth. Our people are everything. Our core values are real, and our mission has never changed. We are dedicated to creating the most epic entertainment experiences…ever. Join us!  We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Irvine, CA Technology jobs in Irvine, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+ Collaborate with other engineers to design and implement server architecture Design and implement server-side components in support of gameplay features Architect systems for performance, stability, scalability, and error-free operation Coordinate with client engineers on gameplay simulation and network efficiency Design and deliver code that is robust, extensible, flexible and simple to use Champion Blizzard’s core values, especially “Gameplay First” Strong, proven programming skills (C#, C++, Python, .NET Core, Mono) Minimum of 3+ years of relevant professional experience in software development Expertise in relevant technologies such as SQL, Cassandra, Docker, Kubernetes, etc. Networking experience in TCP, UDP, and higher level protocols Distributed systems / scalable server architecture experience Developed software in a cloud hosted environment (AWS, GCP) Ability to communicate effectively with designers and client engineers Self-motivated and willing to participate in all areas of engineering Bachelor or Master degree in Computer Science, related field or equivalent experience Previous experience shipping and supporting a Live product at global scale Familiar with security considerations (encryption, denial of service) Familiar with cloud technologies (virtualization, containers) iOS and/or Android software development expertise Linux development experience Avid mobile gamer Resume Cover Letter which should include: Why you are interested in working at Blizzard What games you are currently playing Why you are interested in working at Blizzard What games you are currently playing

@@ -1,0 +1,142 @@
+SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars.WIRELESS PROTOCOL SOFTWARE ENGINEER RESPONSIBILITIES: BASIC QUALIFICATIONS: PREFERRED SKILLS AND EXPERIENCE: ADDITIONAL REQUIREMENTS: ITAR REQUIREMENTS:SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.Applicants wishing to view a copy of SpaceX’s Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the application/interview process should notify the Human Resources Department at (310) 363-6000.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Redmond, WA Technology jobs in Redmond, WA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Design, code, maintain, test and document the link-layer protocol for the Satellite Communications NetworkCollaborate with the MAC protocol design team for protocol developmentWork with the PHY and Network teams to seamlessly integrate the link-layer within the Network stackIntegrate the link-layer with simulation infrastructureParticipate in architecture, design and code reviews and provide peer feedbackBachelor’s degree in computer science, computer engineering or electrical engineering OR 4 additional years of work experience3+ years of experience in hands-on embedded C/C++ software development for communications protocols1+ years of work experience in any of the L2, L3 protocol stack layers in broadband access technologies such as: WiFi, UMTS, LTE or satellite broadband1+ years of experience with embedded Linux software developmentMaster’s degree in computer science, computer engineering or electrical engineeringExperience in Multithread/Multicore programmingExperience with systems integration and testing methodologiesExperience with current software development processes and tools including Agile, TDD, BDD, CI, GitExperience in Hardware/software integration like DMA, MMIO, etc.Experience with JTAG, SWD debuggingExperience in modeling and validating MAC protocols using simulation tools like NS3, OPNET, etc.Skilled in troubleshooting and tuning of component hardware, software, networking and communications protocol problemsUnderstanding of network layer components such as IPv4, IPv6, Mobile IP, routing, forwarding, etc.Proficiency with network monitoring protocols and tools such as SNMP, RMON, Wireshark, EtherealScripting ability with Python or similarExperience with modern encryption and decryption methods and their implementationExperience in development of very high performance SW with minimum delay and limited response timeMust be willing to work extended hours and weekends as neededTo conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here. 

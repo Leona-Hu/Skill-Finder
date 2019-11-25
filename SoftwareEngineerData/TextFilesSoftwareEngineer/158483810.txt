@@ -1,0 +1,142 @@
+Engineer – Software All levels of Software Engineer will have the skills listed below. Each level may have additional education, skill and/or experience requirements.The Software Engineer develops, maintains, and enhances complex and diverse software systems (e.g., processing-intensive analytics, novel algorithm development, manipulation of extremely large data sets, real-time systems, and business management information systems) based upon documented requirements. Software Engineering tasks include:Required skills include:Desired skills include:Certifications:ESW01: Software Engineer – IESW02: Software Engineer – IIESW03: Software Engineer – Senior IESW04: Software Engineer – Senior II Additional Requirements:ESW05: Software Engineer – Principal I Additional Requirements:Certifications:ESW06: Software Engineer – Principal II Additional Requirements:Certifications:ESW07: Software Engineer – Fellow I Additional Responsibilities and/or skills:Additional Requirements:Certifications:ESW08: Software Engineer – Fellow II Additional Responsibilities and/or skills:Additional Requirements:Certifications:ESW15: Software Engineer – Manager IAdditional Responsibilities and/or skills:Additional Requirements:Certifications:ESW16: Software Engineer – Manager IIAdditional Responsibilities and/or skills:Additional Requirements:Certifications:ESW17: Software Engineer – Senior ManagerAdditional Responsibilities and/or skills:Additional Requirements:Certifications:ESW18: Software Engineer – DirectorAdditional Responsibilities and/or skills:Additional Requirements:Certifications:  
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Dulles, VA Technology jobs in Dulles, VA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Design and develop new software. Maintain existing software and resolves software problem reports. Modify existing software to add new features. Perform individually and as part of a team. Utilize software development and software design methodologies appropriate to the development environment and in compliance with customer and industry lifecycle development approaches.Develop, execute and document software testing, including test cases. Perform software requirement analysis, derivation and allocation. Provide input to the software components of system design to include hardware/software trade-offs, software reuse, application security, and use of Commercial Off-the-shelf (COTS)/Government Off-the-shelf (GOTS) in place of new development.Provide input to hardware (COTS/GOTS/capacity/etc.) recommendations. Prepare software documentation, including user guides.Active Top Secret/Sensitive Compartmented Information (TS/SCI) security clearance required.U.S. Citizenship required.Demonstrated experience and/or familiarity with one of more of the following: Java, Perl, Ruby, Python, HTML, C, C++, .NET, ColdFusion, Adobe, etc.Demonstrated experience and/or familiarity with one of more of the following: SQL, Oracle, MySQL, JBDC, etc.Demonstrated experience and/or familiarity with one of more of the following: Windows, Linux, Apache, TomCat, Ozone Widgets, Spring, Struts, JUnit, Hibernate, etc.Experience with Agile development methodology.Experience with software configuration management and control tools (e.g., CVS, Eclipse, ClearCase, etc.)Experience with automated testing tools (e.g., RSpec, Cucumber, etc.)DoD 8570.1-M Compliance at IAT Level I (e.g., Certified Information Systems Security Professional (CISSP)) certification highly desiredNo demonstrated experience required. Bachelor's degree in Software Engineering, Computer Science or a related discipline is required. [Four (4) years of experience may be substituted for a degree.] Two (2) or more years of software development experience required. [A Master's degree in a related discipline may substitute for two (2) years of experience]Bachelor's degree in Software Engineering, Computer Science or a related discipline is required. [Four (4) years of experience (for a total of six (6) or more years) may be substituted for a degree.] Four (4) or more years of software development experience required. [A Master's degree in a related discipline may substitute for two (2) years of experience. A PhD may substitute for four (4) years of experience.]Bachelor's degree in Software Engineering, Computer Science or a related discipline is required. [Six (6) years of experience (for a total of ten (10) or more years) may be substituted for a degree.] Six (6) or more years of software development experience required. [A Master's degree in a related discipline may substitute for two (2) years of experience. A PhD may substitute for four (4) years of experience.]Bachelor's degree in Software Engineering, Computer Science or a related discipline is required. [Eight (8) years of experience (for a total of fourteen (14) or more years) may be substituted for a degree.] Experience leading a software development team (includes leading modules as part of a larger project).Experience developing system performance, availability, scalability, manageability and security requirements for mid- to large-scale programs. Agile development methodology experience required.Eight (8) or more years of software development experience required. [A Master's degree in a related discipline may substitute for two (2) years of experience. A PhD may substitute for four (4) years of experience.]Bachelor's degree in Software Engineering, Computer Science or a related discipline is required. [Ten (10) years of experience (for a total of eighteen (18) or more years) may be substituted for a degree.]Experience leading a software development team (includes leading modules as part of a larger project).Experience developing system performance, availability, scalability, manageability and security requirements for mid- to large-scale programs.Experience with cloud computing, multimedia storage, knowledge databases and data-mining analytics desired. Agile development methodology experience required.Agile software development methodology certification (e.g. SCRUM Master) highly desired.Ten (10) or more years of software development experience required. [A Master's degree in a related discipline may substitute for two (2) years of experience. A PhD may substitute for four (4) years of experience.]Bachelor's degree in Software Engineering, Computer Science or a related discipline is required.Experience leading multiple software development teams. Experience developing system performance, availability, scalability, manageability and security requirements for mid- to large-scale programs.Experience with cloud computing, multimedia storage, knowledge databases and data-mining analyticsAgile development methodology experience required. Agile software development methodology certification (e.g. SCRUM Master) highly desired.Twelve (12) or more years of software development experience required. [A Master's degree in a related discipline may substitute for two (2) years of experience. A PhD may substitute for four (4) years of experience.]Bachelor's degree in Software Engineering, Computer Science or a related discipline is required. [Twelve (12) years of experience (for a total of twenty-two (22) or more years) may be substituted for a degree.] Advanced degree (Master's) is desired.Develop and provide input to system architecture design.Act as subject matter expert (SME) to project. Experience leading multiple software development teams.Agile software development methodology certification (e.g. SCRUM Master) highly desired .Twenty (20) or more years of related experience required. [A PhD may substitute for four (4) years of experience.]Master's degree in Engineering, Science, Mathematics, or Computer Science is required.Develop and provide input to system architecture design.Act as subject matter expert (SME) to project. Experience leading multiple software development teams. Agile development methodology experience required.Agile software development methodology certification (e.g. SCRUM Master) desired.Eight (8) or more years of related experience required. [A Master's degree in a related discipline may substitute for two (2) years of experience. A PhD may substitute for four (4) years of experience.]Bachelor's degree in Software Engineering, Computer Science or a related discipline is required.Provide technical direction for software development team, including task assignments, system architecture design, and oversight of software development.Responsible for staffing on team, including staffing projections, filling positions, performance reviews, etc.Establish, implement and maintain development schedule.Interface directly with customer.Familiarity with architecture standards (e.g, DoDAF, FEAF, etc.) and responsible for implementing required artifacts.Agile development methodology experience required. Agile software development methodology certification (e.g. SCRUM Master) desired.Ten (10) or more years of related experience required. [A Master's degree in a related discipline may substitute for two (2) years of experience. A PhD may substitute for four (4) years of experience.]Bachelor's degree in Software Engineering, Computer Science or a related discipline is required. Provide technical direction for software development team, including task assignments, system architecture design, and oversight of software development.Responsible for staffing on team, including staffing projections, filling positions, performance reviews, etc.Establish, implement and maintain development schedule.Interface directly with customer.Familiarity with architecture standards (e.g, DoDAF, FEAF, etc.) and responsible for implementing required artifacts.Two (2) or more years of experience managing software development teams.Agile development methodology experience required. Agile software development methodology certification (e.g. SCRUM Master) desired.Twelve (12) or more years of related experience required. [A Master's degree in a related discipline may substitute for two (2) years of experience. A PhD may substitute for four (4) years of experience.]Bachelor's degree in Software Engineering, Computer Science or a related discipline is required.Prepare critical path analysis, integrated master schedule and technical status reports for each work project.Prepare LOE estimates for new work.Establish common processes across tasks, including configuration management (CM), risk management, quality assurance (QA), etc.Perform requirements decomposition to system-level specifications Interface directly with customer.Project management experience required. Experience leading multiple teams simultaneously required.Experience with EVMS (earned value management system), compliant with ANSI/EIA Standard 748-B required. Agile development methodology experience required. Agile software development methodology certification (e.g. SCRUM Master) required. Project Management Professional (PMP) or similar certification desired.Fourteen (14) or more years of related experience required. [A Master's degree in a related discipline may substitute for two (2) years of experience. A PhD may substitute for four (4) years of experience.]Bachelor's degree in Software Engineering, Computer Science or a related discipline is required. Act as customer liaison.Participate with team leadership to develop and establish program policies.Plan, direct and control project operations, assuring overall budget, schedule and performance standards are realistically set and attained.Serve as principal spokesperson for the program to internal and external contacts. Conduct briefing and technical meeting for management and customer representatives.Project management experience required. Experience leading multiple teams simultaneously required.Experience with EVMS (earned value management system), compliant with ANSI/EIA Standard 748-B required. Agile development methodology experience required. Project Management Professional (PMP) or similar certification desired.

@@ -1,0 +1,142 @@
+ SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars.C++ SOFTWARE ENGINEER II (Top Secret Clearance) As an engineer on the vehicle software team, you will design, develop and test software that is used to control SpaceX flight systems. You will engage with other SpaceX software and hardware engineers to discover the needs of the mission and code highly reliable software that turns the mission into a reality. You will be responsible for the complete lifecycle of the software you create, from development to testing to operation during a mission.RESPONSIBILITIES:BASIC QUALIFICATIONS:PREFERRED SKILLS AND EXPERIENCE:ADDITIONAL REQUIREMENTS:ITAR REQUIREMENTS:SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.Applicants wishing to view a copy of SpaceX’s Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the application/interview process should notify the Human Resources Department at (310) 363-6000.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Hawthorne, CA Technology jobs in Hawthorne, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Develop highly reliable autonomous software systemsDesign and implement fault detection and mitigation in softwareDevelop prototypes to prove out key design concepts and quantify technical constraintsOwn all aspects of software development, including design, testing, and mission integrationProvide strong technical leadership, focus on continuous improvementBachelor’s degree in computer science, engineering, math, or science discipline and 2+ years of experience in software development OR 4+ years of experience in software development2+ years of experience in C++Strong software design and development skillsExperience designing fault tolerant softwareThorough knowledge of computer architecture and networksKnowledge of physics, math, and electronicsStrong skills in debugging, performance optimization and unit testingCreative approach to problem solvingExperience with cluster computing and/or virtualization systemsKnowledge of remote procedure calls and RESTful APIsAbility to work effectively in a dynamic environment with changing needs and requirementsAbility to work independently and in a team, take initiative, and communicate effectivelyActive Top Secret or Top Secret SCI clearance. Note that an active clearance may provide the opportunity for you to work on sensitive SpaceX missions. If so, you will be subject to pre-employment drug and random drug and alcohol testingWilling to work extended hours and weekends when neededTo conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here. 

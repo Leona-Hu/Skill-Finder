@@ -1,0 +1,142 @@
+Wi-Fi Alliance is a global trade organization that prizes collaboration. Wi-Fi Alliance staff work with cutting edge technology in a dynamic and inspiring work culture that supports a strong work/life balance, new opportunities, and individual growth. Regardless of discipline, all who work at Wi-Fi Alliance contribute to delivering the terrific user experience for which Wi-Fi is known.Wi-Fi Alliance seeks an experienced Software Engineer to develop Wi-Fi test automation software and scripts with SaaS components. He or she will design and develop the next generation Wi-Fi test automation platform and develop scripts to validate all aspects of Wi-Fi support, including security, multimedia, power save, throughput and other features. He or she will support program development and self-certification business by providing and delivering high-value solutions. He/she will work with the best technical and marketing talent in Wi-Fi Alliance member companies, driving industry-visible efforts that support the mission of connecting everyone and everything, everywhere.Core Responsibilities Experience Skills and BehaviorsExcellent written and verbal communications skills, demonstrated proficiency in addressing international audiences. Proven success working in dispersed, cross-functional, and international (time-shifted) teams.EducationBachelor’s degree in Computer Science, Electrical engineering or other related science field (Master’s degree preferred)﻿CompensationCompetitive compensation and benchmark benefits package, including 100% employee paid healthcare premiums, 401K matching, generous PTO, and fitness allowance. Wi-Fi Alliance staff travel all over the world to engage with members, partners, and government – a unique opportunity to gain international experience and witness the impact of Wi-Fi.If you have the talent and skills to be incredibly successful as a Software Engineer and as a member of our team, we want to hear from you. To be considered for this role, please forward your resume and a cover letter outlining your interest, including your salary requirements, to cjones@wi-fi.org. This position is located in Santa Clara, California, no relocation is available. To learn more about Wi-Fi Alliance, please visit our website at www.wi-fi.org. Wi-Fi Alliance participates in E-Verify. For more information, please refer to www.dhs.gov/E-Verify.About Wi-Fi Alliance®  www.wi-fi.org  Wi-Fi Alliance® is the worldwide network of companies that brings you Wi-Fi®. Members of our collaboration forum come together from across the Wi-Fi ecosystem with the shared vision to connect everyone and everything, everywhere, while providing the best possible user experience. Since 2000, Wi-Fi Alliance has completed more than 50,000 Wi-Fi certifications. The Wi-Fi CERTIFIED™ seal of approval designates products with proven interoperability, backward compatibility, and the highest industry-standard security protections in place. Today, Wi-Fi carries more than half of the internet’s traffic in an ever-expanding variety of applications. Wi-Fi Alliance continues to drive the adoption and evolution of Wi-Fi, which billions of people rely on every day. 
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Morgan Hill, CA Technology jobs in Morgan Hill, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Analyze, design and develop a test automation framework with SaaS components for Wi-Fi certification methodologies.Develop software in an agile environment using various configuration management technologies.Provide ongoing maintenance, support and enhancements to existing systems and platforms.Collaborate cross-functionally with system engineers, technology experts, scientists, business users, project managers and other engineers to achieve elegant solutions.Provide recommendations for continuous improvement.Work alongside other engineers on the team to elevate technology and consistently apply best practices.Develop and maintain technical documentationMentors and trains junior members of the team3+ years of experienceJava, Python, and C/C++ experience in a Linus environment. JavaScript experience is a plusExperience with computer networking, multi-threaded, concurrent programming. Additional experience with cloud backend and web services is a plusWorking with Wi-Fi TechnologyStrong DevOps focus and experience with Scrum/Agile development methodologiesStrong object-oriented analysis and design experience and familiar with design patterns and various software architecturesExcellent analytic and problem-solving skills with proficiency in diagnosing and troubleshooting complex software systems that span multiple platforms including Linux and WindowsStrong inter-personal and communication skills and the ability to interact professionally with a diverse group of clients

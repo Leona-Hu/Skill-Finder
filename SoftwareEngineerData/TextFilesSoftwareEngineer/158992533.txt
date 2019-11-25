@@ -1,0 +1,142 @@
+Blizzard Entertainment games don’t just begin with game ideas, or end once those games are released. A lot more goes into the creation of an epic game than the work of developers and more than you can ever imagine goes into continuing to build and hone and perfect the most epic gaming experience in the years after our games are in the hands of gamers world-wide.Blizzard Entertainment is looking for an Engineer with software and data development experience to join our Global Insights team to help shape the next generation of personalized player experiences.  We are developing data-driven services to provide engaging experiences to our players.  As part of this role, you will be responsible for contributing to the design, implementation and maintenance of these services.ResponsibilitiesRequirementsPlusesApplication MaterialsBlizzard Entertainment is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, gender expression, national origin, protected veteran status, or any other basis protected by applicable law, and will not be discriminated against on the basis of disability.Blizzard Entertainment is a global company committed to growing our employees along with the business. We offer generous benefits and perks with an eye on providing true work / life balance. We’ve worked hard to foster an intensely collaborative and creative environment, a diverse and inclusive employee culture, and training and opportunity for professional growth. Our people are everything. Our core values are real, and our mission has never changed. We are dedicated to creating the most epic entertainment experiences.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Irvine, CA Technology jobs in Irvine, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Work with a team of engineers to build large scale data products and features.Debug issues in a production environment across multiple levels of the stack.Communicate effectively with the team and stakeholders.Promote a positive engineering and team culture.Bachelor's Degree in Computer Science or related field, or equivalent experience.3+ years’ experience on a software team preferably building back-end data services, API's, or microservices in a large-scale production environment.Good experience working with relational databases and writing SQLKnowledge of the Hadoop ecosystem (HDFS, Spark, Flink, Hive, etc.)Data Modelling and Warehousing concepts and experienceEnjoy and have experience building API's.DevOps experience using containers on Kubernetes, or virtualization experience on openstackExperience with workflow schedulers like AirflowCloud Development Experience on platforms such as AWS, GCP, Azure, or IBM CloudMPP Database Solutions, Data Warehousing TechnologiesFull-stack Experience (Infrastructure, Storage, Databases, ETL, Web Services, Visualization)Java preferredResumeCover Letter which should include:Why you are interested in working at Blizzard

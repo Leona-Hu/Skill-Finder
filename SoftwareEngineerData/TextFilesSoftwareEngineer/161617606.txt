@@ -1,0 +1,142 @@
+Our client is looking for a Software Engineer to join an exciting autonomous driving start-up in Cambridge, MA and Dallas, TX. They're working on state-of-the-art algorithms to develop a human-like, predictive AI system for autonomous vehicles to navigate complex environments.The ideal candidate has several years of work experience.Role responsibilities include:Requirements:Advantageous skills:
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Cambridge, MA Technology jobs in Cambridge, MA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Support full software development life cycleBuild efficient, robust and secure infrastructure enabling responsive, transparent and collaborative product development and testingBS or MS in Computer Science, Electrical Engineering, or a related fieldPassionate about self-driving cars and roboticsExtensive experience with programming, system design and algorithm designProficient in C/C++, Python, and/or JavaScriptExcellent debugging expertise on Linux to debug hard-to-reproduce whole-system problemsCollaborate cross functionally with hardware engineering teams to enable the use of new components/devices on the self-driving vehiclesProvide major updates of product to their customers throughout the year. The Software Development role will support the QA process by testing products prior to release and reporting issues when found.Experience with real-time system developmentExperience with distributed systems design and architectureExperience with troubleshooting and tuning systemsRobotics experience is a plus

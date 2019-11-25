@@ -1,0 +1,142 @@
+SciTec, Inc. is a dynamic small business with the mission to deliver Advanced Sensor Data Exploitation technologies and Science Instrumentation Capabilities in support of National Security and Defense. We support customers throughout the Department of Defense and U.S. Government in building innovative new tools to deliver unique, world-class analysis capabilities.SciTec has immediate opportunities in Princeton, NJ for talented software developers and engineers to support development of low-latency data processing, fusion, and tracking algorithms and code for exploitation of remote sensing systems (ground-based, airborne and space-based). Day-to-day responsibilities include:More than specific technologies, were looking for developers who are willing to dive into complex problems, work across multiple technology stacks, and help us keep moving algorithms out of the lab and into real-world use.RequirementsThe following minimum qualifications are required for the position:Candidates who have one or more of the following skills will be preferred:BenefitsAs a small business, SciTec, Inc. offers room for growth and a flexible, fast-paced work environment. We work daily to develop one-of-a-kind solutions for challenging national problems. Initiative is expected and encouraged, all employees have the opportunity and flexibility to broaden their technical horizons and our daily work makes an impact on the world around us.SciTec's office in Princeton, NJ is the company Headquarters and core R&D facility providing technically stimulating, impactful work. SciTec encourages collaboration across our offices in Boulder, Colorado Springs, Dayton, and Huntsville and provides access to opportunities across the corporate spectrum.SciTec offers a highly competitive salary and benefit package, including medical/dental/optical, a 401k program with company matching, and an annual profit-sharing program. Salary is dependent on candidate experience and qualifications.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Princeton, NJ Technology jobs in Princeton, NJ Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Implement high-performance, high-throughput data analysis systemsSupport the development of proof-of-concept data processing toolsConvert existing proof-of-concept codes into operational applications in C++ or other languagesTest, debug, and document data processing algorithmsCharacterize the quality and performance of algorithms and sensor systemsA Bachelor's degree in the physical sciences, mathematics, engineering, or computer scienceFluency and 2 years of recent software development in C++/Java/Python during school or in industryThe ability to obtain and maintain a Department of Defense security clearanceExperience with image processing or computer visionExperience with developing multi-threaded or parallel-process applicationsExperience with the exploitation of Electro-Optical/Infrared (EO/IR), Multi-/Hyper-spectral Imagery (MSI/HSI), Synthetic Aperture Radar (SAR), or Overhead Persistent Infrared (OPIR) dataExperience with software prototyping, development, and integration within government frameworks to include cloud applicationsProfessional software development experience, particularly across multiple languagesProfessional experience with machine learning or artificial intelligenceA current DoD security clearance

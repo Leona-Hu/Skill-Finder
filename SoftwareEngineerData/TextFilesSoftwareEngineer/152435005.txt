@@ -1,0 +1,142 @@
+We are seeking a Security Management Center Analyst (SOC Analyst) to join our team! You will implement security measures for the protection of computer networks and information.Responsibilities:​Qualifications:
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Suitland, MD Technology jobs in Suitland, MD Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Implement and monitor daily security alertsReport and respond to any security breaches or virusesTriage and categorize network intrusions and incidentsPerform periodic risk reviews and audits Provide strategies for improving  system securityExecutes common process for daily, weekly, monthly, quarterly and yearly audit functions as spelled out in NIST 800-53 (latest applicable version)Monitors Tier 1 and Tier 2 security logs, conducts forensic analysis, and initiates reports as documented in the SSPs.Assesses information system vulnerabilities with internal system tools and enterprise tools supplied byNOAA and OSPO, (e.g., ArcSight, Tripwire Log Center, Tenable Security Center (TSC), NESSUS, WebInspect,IBM BigFix suite (ECMO), and Nipper Studio)Provides Incident Response (IR) support, including coordination with the NOAA Cyber Incident Response Team (N-CIRT)Conducts Vulnerability Assessments (VA)Supports Secure Websites managementConducts security monitoringPrevious experience in network security or other related fieldsKnowledge of network security technologies and devicesExcellent root cause analysis skills5+ years in IT security operations managementFamiliarity with incident handling and resolution, forensics, and network huntingDemonstrated written and oral communications skillsExperience with security monitoring systemsSolid networking knowledge (OSI network layers, TCP/IP)A passion for problem solving and data-driven decision makingAbility to direct customer expectations and drive projects forward to completionAbility to multi-task and engage on multiple projects simultaneouslyStrong organizational abilities with attention to detail and ability to manage to deadlines

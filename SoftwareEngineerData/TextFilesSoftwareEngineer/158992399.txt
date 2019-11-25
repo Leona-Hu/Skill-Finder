@@ -1,0 +1,142 @@
+The minions of Hell are growing stronger...Are you skilled at building great tools and workflows? Our team of talented developers is working on Diablo 4. If you’re looking for a tight-knit crew that embraces collaboration and has a real passion for all things Diablo, then stay awhile, and listen.Blizzard Entertainment is seeking a talented, motivated, and experienced tools engineer to join the Diablo 4 Team. Our team is highly collaborative, and you’ll interface with designers, artists, and game programmers as you help develop and refine our in-house toolset. If you’ve got a keen eye for usability, outstanding people skills, and a solid engineering background, then come work with us, and together we will build something exceptional.Responsibilities:RequirementsRecommended:Blizzard Entertainment is a global company committed to growing our employees along with the business. We offer generous benefits and perks with an eye on providing true work / life balance. We’ve worked hard to foster an intensely collaborative and creative environment, a diverse and inclusive employee culture, and training and opportunity for professional growth. Our people are everything. Our core values are real, and our mission has never changed. We are dedicated to creating the most epic entertainment experiences… ever.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Irvine, CA Technology jobs in Irvine, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Improve how Diablo content is authored through the design, implementation, and support of various software toolsWork with multiple teams to evaluate workflows and identify areas of improvementsImplement new features as well extend existing featuresSupport the team by responding to issues, answering questions, and fixing bugsMinimum of 3 years' experience in developing tools in a large-scale production environmentExcellent development skills and debugging techniquesStrong verbal and written communications skillsExperience in C#, .NETSolid understanding of data structures, algorithms, and how they relate to performancePassion for gaming and game developmentBachelor's Degree in Computer Science or similar fieldExperience with WPF and MVVMExperience with C++Experience with asynchronous programmingStrong sense of UX designPassion for Diablo or other ARPGs

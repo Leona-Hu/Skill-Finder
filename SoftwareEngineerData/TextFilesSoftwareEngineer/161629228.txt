@@ -1,0 +1,142 @@
+Plover is creating a robotic car wash which uses 3D depth sensors and other sensors in combination with a robotics controls platform to deliver the world's first car wash which will be completely tailored to the shape of each customer's car.As part of Plover's engineering team, the candidate will be collaborating with a small group of engineers on the development of control software for custom robotic systems. You will need to be familiar with the following technologies:Our ideal candidate should be able to brainstorm creative solutions and communicate them well, and be responsible for writing quality code and supporting it in production.The following qualifications are strongly preferred:Plover is a venture-backed startup with a small, results-oriented engineering team that iterates quickly and isn't afraid to break some eggs. We value team members who strive to learn, and we encourage our engineers to tackle and take ownership of the projects they find most interesting.Plover will cover costs to relocate to Portland, OR.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in San Francisco, CA Technology jobs in San Francisco, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Real-time PC-based embedded software architecture6-axis robot integrationState machine software implementationDistributed software systemsMulti-threaded programmingBS in Computer Science, Electrical Engineering or equivalent 4-year degreeC++ programming (min. 3 years of experience)C# experienceExperience debugging control software within electrical and robotics systemsExperience with version control software, preferably GitSensor fusion

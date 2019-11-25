@@ -1,0 +1,142 @@
+As a Principal Java Software Engineer, you will be a key member in charge of architecting new solutions or improving our existing solutions.  You will use your ability to communicate on both a high level and in detail regarding the proposed solutions so the team can review and unite behind and help implement the new features and functionality.  We are a technology group, working to develop and advance the best SaaS/PaaS solutions for large enterprises around the globe.  Are you a passionate developer who lives on the command line, eats open source for breakfast, and wants to do work that impacts millions of users, large fortune 500 companies and other customers? We want you! Responsibilities:Minimum Requirements:Preferred Qualifications:What's in it for you:Applicants must be authorized to work in the U.S.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in West Hollywood, CA Technology jobs in West Hollywood, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Design, implement and deploy highly scalable and reliable systems and applications that support large enterprisesRefactor and optimize existing systems for performance, scalability, reliability, and maintainability applying high craftsmanshipCollaborate with architects, engineers, and business owners to provide the best possible solutions while taking into account roadmap requirements, technical debt and other rolloutsWork with product owners to understand desired application capabilities and testing scenariosDisplay craftsmanship and attention to detailDesign and Develop systems with high availability, resilience, and scalability.Bring a passion to stay on top of tech trends, experiment with and learn new technologies, participate in internal & external technology communities, and mentor other members of the engineering team and communityEncourage innovation, implementation of cutting-edge technologies, inclusion, outside-of-the-box thinking, teamwork, self-organization, and diversityBachelors or Masters degree in CS/CE or equivalent work experience6+ years of recent hands-on coding and software design6+ Design and architecture knowledge as well as familiarity with object-oriented analysis and design patterns (OOA/OOD)5+ years of developing web applications with core Java, Spring Framework (MVC, Data JPA, Security, etc), Spring-boot, JPA (EclipseLink/Hibernate/etc implementation), Gradle, SQL (RDBMS), MongoDB experience.5+ years of hands-on with testing frameworks like JUnit, TestNG, etc.5+ years of professional experience designing and consuming ReSTful APIsAgile development methodologiesLinux experienceSwagger API design and SDK generationExperience with designing AWS solutionsCompetitive salaryFull health and dental insuranceEquityLunch IncludedVPN DaysUnlimited PTOFlexible work schedulesTuition/Conference ReimbursementWork with smart people in a great company cultureSpace to innovate

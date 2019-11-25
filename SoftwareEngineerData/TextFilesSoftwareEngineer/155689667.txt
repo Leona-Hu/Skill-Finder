@@ -1,0 +1,142 @@
+RESPONSIBILITIES:REQUIREMENTS:
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in San Diego, CA Technology jobs in San Diego, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+ Is responsible for delivering own stories Participates in daily standups, sprint grooming, planning, demo, and retrospectives Is prepared for sprint grooming Keeps project tracking software current with task/story status and time spent Course corrects during sprint when issues arise and between sprints via retrospective Displays willingness to fill in for Scrum Master as needed Architecture and Infrastructure Design Contributes to design discussions Proactively seeks guidance from other Developers and Tech Lead Contributes to positive learning environment Bachelor's degree in a related field or equivalent work experience with more than 3 years of SDLC experience required Pursues training and development opportunities, and continuously builds knowledge and skills Understands infrastructure and other design decisions, and how they impact development workflow Shares expertise with others Exhibits objectivity and openness to others' views Contributes to building a positive team spirit Uses reason even when dealing with emotional topics Seeks mentoring/training opportunities Gives and welcomes feedback Attention to detail  Remembers small details that would otherwise bog down production and accounts for them up front Communicates in clear, concise, easily understood language Identifies and resolves problems in a timely manner Gathers and analyzes information skillfully Develops alternative solutions Works well in group problem solving situations Demonstrates accuracy and thoroughness Looks for ways to improve and promote quality Applies feedback to improve performance Monitors own work to ensure quality Adapts to changes in the work environment Manages competing demands Changes approach or method to best fit the situation Able to deal with frequent change, delays, or unexpected events Volunteers readily Takes independent actions and calculated risks Looks for and takes advantage of opportunities Asks for and offers help when needed Experience with AWS Serverless Computing, specifically .NET Core Lambda, DynamoDB, SQS and SNS a plus

@@ -1,0 +1,142 @@
+Making Blizzard's cinematics requires teamwork between technology and artistry. Join the R&D team that works closely with artists to assess needs and solutions and help build the best tools for lighting and visual effects.We are building a new pipeline, offering lots of opportunities in joining a new effort across Blizzard Animation organization. For this position, we are seeking a talented software engineer to join our R&D team in developing tools for look, rendering, and FX.Blizzard cinematics have a variety of ranges in styles and complexity, so we are seeking team members who are passionate about crafting flexible tools for producing these movies. You would help augment commercial packages such as Maya, Houdini, Nuke, and Katana to offer a flexible workflow for artists in building phenomenal animated cinematics.Projects will involve coordinating with a large group, with members representing different departments. Python and C++ are the main languages supported on cross platforms of Linux and Windows.Requirements:Pluses:Required Application Materials:Primary Location: United States-CA-IrvineJob Status: Full-time/StaffBlizzard Entertainment is a global company committed to growing our employees along with the business. We offer generous benefits and perks with an eye on providing true work/life balance. We’ve worked hard to foster an intensely collaborative and creative environment, a diverse and inclusive employee culture, and training and opportunity for professional growth. Our people are everything. Our core values are real, and our mission has never changed. We are dedicated to creating the most epic entertainment experiences…ever. Join us!Blizzard Entertainment is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, gender expression, national origin, protected veteran status, or any other basis protected by applicable law, and will not be discriminated against on the basis of disability.Accommodation Request: We are committed to working with and providing reasonable assistance to individuals with physical and mental disabilities. If you are a disabled individual requiring an accommodation to apply for an open position, please email your request to talentacquisition@blizzard.com. General employment questions cannot be accepted or processed here. Thank you for your interest.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Irvine, CA Technology jobs in Irvine, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Passion for tool development, with a service-oriented attitude, using at least one such application such as Katana, Maya, and Houdini.Strong interpersonal skills.Strong debugging skills.Experience in Katana workflows for moving assets between departments such as FX, lighting and surfacing.Fluent in APIs for Katana, Maya and Houdini.Resume [PDF Preferred]

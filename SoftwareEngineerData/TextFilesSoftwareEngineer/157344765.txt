@@ -1,0 +1,142 @@
+iHealth Labs is on a mission to inspire and enable people to manage diabetes and hypertension. We are working side by side with patients and doctors in the US. iHealth is a Sunnyvale-based healthcare and technology startup that introduced the first smartphone-connected blood pressure monitor in the world and is offering a line of award-winning mobile health devices.]If you're ready to guide technical decision-making and work hands-on in the health care industry, this is the job for you. Our core product includes a web application built in React, mobile applications written in React Native and our award winning IoT devices.As a key member of our engineering team, you will help design, build, and maintain systems necessary to continue our rapid growth. You should be motivated to learn new technologies and be ready to drive technical work.ResponsibilitiesDesign and implement products and applications using React and GraphQLSolve problems to improve patient outcomes, make data actionable for our medical team and the doctors we are working with, and scaling the systemDrive engineering efforts and partner with product owners to create technical requirementsHelp the team define and maintain development practices that let us iterate quickly while maintaining quality — including writing tests and documenting key implementationsWork in agile programming environmentLearn about new tools and technologies to solve problems and move our goals forward2+ years of experience building consumer web applications or B2B services in a team settingStrong JavaScript development experienceSolid React skills or deep experience with other web frameworksDatabase experience (we use MongoDB)Strong troubleshooting skillsFull stack experience is a plusPositive attitude and excitement to influence the products we being builtTechnologies we useReact, React Native, GraphQL, Redux, Redis, MongoDB, Terraform, Ansible, Git, AWS InfrastructureBenefitsCompetitive salaryFlexible vacationParental leaveHealth, dental, and visionHealthy snacks and mealsCollaboration lounge spaceGame room with Ping Pong table
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Sunnyvale, CA Technology jobs in Sunnyvale, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Design and implement products and applications using React and GraphQLSolve problems to improve patient outcomes, make data actionable for our medical team and the doctors we are working with, and scaling the systemDrive engineering efforts and partner with product owners to create technical requirementsHelp the team define and maintain development practices that let us iterate quickly while maintaining quality — including writing tests and documenting key implementationsWork in agile programming environmentLearn about new tools and technologies to solve problems and move our goals forward2+ years of experience building consumer web applications or B2B services in a team settingStrong JavaScript development experienceSolid React skills or deep experience with other web frameworksDatabase experience (we use MongoDB)Strong troubleshooting skillsFull stack experience is a plusPositive attitude and excitement to influence the products we being builtReact, React Native, GraphQL, Redux, Redis, MongoDB, Terraform, Ansible, Git, AWS InfrastructureCompetitive salaryFlexible vacationParental leaveHealth, dental, and visionHealthy snacks and mealsCollaboration lounge spaceGame room with Ping Pong table

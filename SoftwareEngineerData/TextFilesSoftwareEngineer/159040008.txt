@@ -1,0 +1,142 @@
+About the JobInvoice Cloud is seeking an experienced and well-rounded Software Engineer to join our rapidly growing team in Brownsville, TX. Candidate will use Microsoft Visual Studio, ASP.NET, Visual Basic / C#, and Azure technologies to work on a wide ranging set of projects, mainly focused around continuous improvement of existing systems, and updates to existing systems to make use of Azure cloud technologies.ResponsibilitiesTechnical RequirementsTechnical Nice to HavesOther RequirementsAbout the BenefitsInvoice Cloud provides an excellent health and dental care package, paid vacation and sick leave, and a team atmosphere with an open door policy.Invoice Cloud is an Equal Opportunity Employer.Invoice Cloud provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Corpus Christi, TX Technology jobs in Corpus Christi, TX Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Re-architect existing software systems to use Azure cloud technologies (Azure Functions, Service Fabric, etc) to support rapid growth over the next 5+ yearsMaintain and enhance existing software systemsMaintain and enhance CI / CD systemsParticipate in design and strategy meetings centered around future growth of software systemsProvide technical support for existing and new software systemsOther duties and tasks as prescribed by managementBachelor’s / Masters Degree preferred or equivalent combination of education and experience required.5+ years’ experience using Microsoft technologies, including, but not limited to:Azure WebAppsAzure FunctionsAzure Container servicesAzure Service FabricAzure Storage QueueAzure Blob StorageAzure Service BusASP.NET (WebForms, WebAPI, MVC, SignalR, ASMX Web Services)VB.NETC#Visual Studio (Web, Console, and Library projects).NET FrameworkADO.NETWPFWinFormsT-SQLTeam Foundation Server / VSTS / Azure DevOpsAzure WebAppsAzure FunctionsAzure Container servicesAzure Service FabricAzure Storage QueueAzure Blob StorageAzure Service BusASP.NET (WebForms, WebAPI, MVC, SignalR, ASMX Web Services)VB.NETC#Visual Studio (Web, Console, and Library projects).NET FrameworkADO.NETWPFWinFormsT-SQLTeam Foundation Server / VSTS / Azure DevOps3+ years' experience using web technologies, including, but not limited to:HTMLCSSJavascriptJQueryAngularJSAJAXREST APIsHTMLCSSJavascriptJQueryAngularJSAJAXREST APIsExcellent testing and debugging skillsAbility to pick up knowledge of existing systems by reading and understanding VB.NET / C# codeWell-rounded software engineer with an understanding of the life cycle of systems and dataExperience with New Relic is a PLUSPayment processing development experience is a PLUSExperience in coding design patterns is a PLUSKnowledge of OWASP coding practicesStrong understanding of the software development life cycleStrong understanding of complex concepts related to computer architecture, data structures and programming practicesSelf-starter with a demonstrated ability to achieve results as part of an effective team, and ability to effectively prioritize and multi-task under deadlines.

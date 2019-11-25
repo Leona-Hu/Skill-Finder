@@ -1,0 +1,142 @@
+About usTeaching Strategies is a high growth, private-equity backed, market leading business in early childhood education. The Company provides the most innovative and effective curriculum, assessment, professional development, and family connection resources to programs serving children from birth through 3rd grade. With ground-breaking print and SaaS solutions and a strong belief that the most powerful way to impact child outcomes is to improve teacher effectiveness, Teaching Strategies has been supporting the critical work of early childhood educators for over 30 years.Located in downtown Bethesda, MD, our company's headquarters are within steps from Bethesda Row and the Bethesda Metro stop. Candidates who fit with our values, vision, and mission will find a work environment that fosters creativity, innovation and career growth. We are building a team of results-oriented individuals who will thrive in a collaborative, work-hard/play-hard culture. We pride ourselves on the impact we have on the early childhood field through supporting teachers who are doing the most important work there is, teaching children to become creative, confident thinkers.What's in it for youTeaching Strategies offers our employees a robust suite of benefits and other perks which include:Position overview Teaching Strategies is looking for a highly talented, innovative and creative Software Engineer to join its technology team. We are looking for engineers that want to make a real impact in early childhood education. Our platform is evolving, so you need to be someone who can build new functionality and learn new technologies quickly as well as be able to maintain and extend existing code to support organizational needs.Our Software Engineering team is responsible for building out SaaS solutions used by educational organizations across the globe. The team works on a wide variety of projects, solving existing problems and enabling new business objectives. We believe that great technology experts are also software generalists who are unafraid to jump up and down the stack to solve the problems that come our way. If you thrive in a fast-paced environment, working on software that supports millions of users daily, then you have an opportunity to join the technology group at Teaching Strategies.Specific roles and responsibilities:Qualifications:Teaching Strategies, LLC is committed to creating a diverse workplace and is proud to be an equal opportunity employer of Minorities, all Genders, Protected Veterans and Individual with Disabilities.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Bethesda, MD Technology jobs in Bethesda, MD Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Beautifully designed, open office spaceEndless cereal and coffeeFree on-site gymCasual dress environmentCompany sponsored eventsProfessional development and growth opportunitiesTuition assistanceCompetitive compensation packageMedical, dental, and vision coverage for spouses, domestic partners, and childrenPre-tax medical and dependent care flexible spending accounts (FSA)Health savings accounts with employer contributions401(k) plan with employer matchCompany sponsored life, short and long term disability insuranceVoluntary life and critical illness insuranceCommuter benefitsPaid parental leave programsGenerous paid time off (which includes Winter Break)Developsnew features, components and modules to support organizational growth Implementsa robust set of services and APIs to powerhigh-trafficked SaaS platform Participates in planning, analysis and design of new software solutions Investigates, troubleshootsand remediesperformance bottlenecks in the application flow Learnsnew technologies and keepsup with both traditional and emerging best practices Worksindependently and collaborateswith other members of the team to ensure successful delivery of projects5+ years of production experience in software engineering and web application development Experience withdesigning and building scalable solutions in Go Working knowledge of JavaScript frameworks such as ReactJS Production experience with PostgreSQL Familiarity with AWS is a plus Hands-on experience with Git version control system Understanding of modern design patterns such as SOA Excellent debugging and testing skills, and interest to quickly learn new technologies Experience with Agile methodology and software development Commitment to following security and performance best practices Strong sense of collaboration, teamwork, and accountability

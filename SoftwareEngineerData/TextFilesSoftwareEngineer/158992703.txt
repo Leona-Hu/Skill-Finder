@@ -1,0 +1,142 @@
+The minions of Hell are growing stronger...We're working on Diablo 4! Are you a skilled programmer specializing in graphics and rendering? Come work with us, and together we will build something exceptional.Our team of talented developers is growing. Our backgrounds are diverse, but we share a real passion for all things Diablo. We believe that if you’re looking for a tight-knit crew that celebrates self-expression and embraces collaboration, we might be a phenomenal fit for you.Responsibilities:We have an amazing opportunity for a graphics programmer (graphics shaders, scene management with a heavy focus on 3D math) to join the fray on Diablo 4. You will be working with a team of engineers focused on the vision of improving Diablo’s graphics technology. Our team is highly collaborative, and you’ll interface with designers, game programmers, and fellow engine programmers as you help develop and refine key engine systems. The ideal candidate has a long-standing passion for playing games, a strong aptitude for critical thinking and analysis, outstanding people skills, and demonstrated graphics programming experience.Requirements:Pluses:Required Application Materials:Blizzard Entertainment is a global company committed to growing our employees along with the business. We offer generous benefits and perks with an eye on providing true work/life balance. We’ve worked hard to foster an intensely collaborative and creative environment, a diverse and inclusive employee culture, and training and opportunities for professional growth. Our people are everything. Our core values are real, and our mission has never changed. We are dedicated to creating the most epic entertainment experiences ever. Join us!
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Irvine, CA Technology jobs in Irvine, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Experience with shaders and GPU programmingKnowledge of DirectX 11+ or OpenGL APIsExperience shipping at least one video game with major contribution to the graphics engineA minimum of 3 years' experience in programmingStrong mathematics skills, including proficiency with trigonometry and linear algebraThorough understanding of multi-threaded programmingStrong C++, data-oriented design, and architecture skillsExperience with code and data optimizationUnderstanding of art content pipeline and toolsAble to rapidly learn and understand software by reading source code and stepping thru code under a debuggerStrong interpersonal and communications skillsPassion for real-time graphics and software developmentPassion for video gamesExperience shipping multiple game titlesVisual arts aptitudeA degree in computer science, or a related fieldConsole programming experienceKnowledge of Maya and its SDKResumeCover Letter which should include:Why you are interested in working at BlizzardWhat games you are currently playingWhy you are interested in working at BlizzardWhat games you are currently playing

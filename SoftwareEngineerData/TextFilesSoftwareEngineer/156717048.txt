@@ -1,0 +1,141 @@
+ Job Summary: The Software Engineer in TEST (SET) is a key member of our development team focused on testability and the test infrastructure needed to foster automated testing across our development teams with a concentration on increasing code quality and test coverage. The SET is responsible for developing complex automated testing and framework solutions that allow Sandata to deliver quality solutions to our customers. The SET will assist QA Automation management in the analysis, review and recommendations for improving people, processes and technology within Engineering that will lead to the improved overall quality of Sandata developed solutions. The SET contributes to establishing ongoing improvements to Engineering processes in order to “shift left” in quality. Duties:· Develop test automation code and scripts for the purposes of validating feature code quality· Contribute to the development and maintenance of best practices required to manage test data, test plans, test repositories and test framework infrastructure· Develop mechanisms for collecting, interpreting, tracking and reporting on test execution and quality metrics· Works with team to develop software applications from inception through completion· Defines high level test plans, creates test cases and executes them (both manually and automatically) for functional, integration, system and regression testing· Collaborate with stakeholders and project team to identify needs and gather requirements· Support the team in the design of user stories and acceptance criteria· Advocate and evangelize best practices such as pair programming, Test Driven Development (TDD), behavioral-driven development (BDD), Continuous Integration (CI) and Continuous Delivery (CD)· Advocate automation of every part of the software delivery lifecycle· Assist scrum team with sprint planning, test design, test execution, defect analysis/root cause investigation & reporting on test status· Identify defects and missing information in requirements· Implement and continually improve an automated testing framework at all levels of the application stack· Design and implement automated test cases· Contribute to the creation of a regression test plan specific to the project.· Perform manual testing as required· Actively participate in the creation of quality assurance standards and recommendations for changes to the processing systems· Review and recommend improvements to tools and technologies conducive to end to end visibility of the quality delivery pipeline Skills/Qualifications: Required:· Extensive experience working with end-to-end testing processes and methodologies/frameworks· Deep experience implementing complex test automation techniques and tools· Ability to articulate the role of testing in an overall QA function and to influence a team of testers and developers towards a culture of “fail early” and “building quality in”· Experience working in an Agile (Scrum) environment implementing CI/CD and TDD/BDD· Experience working with Selenium grid and implementing parallel test execution· Preparation of defect reports and defect metrics, preferably automated· Defect Analysis and management experience· Strong knowledge of Software Development and Testing Life Cycles· In-depth understanding of industry-leading QA tools, techniques, and platforms· Knowledge of unit testing, automation testing, regression testing, end-to-end testing, etc.· Hands on experience working in a CI/CD environment with Jira, Bitbucket, Bamboo, SonarQube, Confluence, qTest, JMeter, Selenium, Appium, HP-UFT/QTP, and JMeter· Test development experience using Java, Spring, Python, C#, and/or Ruby· Knowledge of CSS, Javascript frameworks (AngularJS, React), XML, JSON, SQL, NoSQL· Expertise in test planning, test case management, code coverage and defect analysis.· Strong interpersonal skills to achieve process changes and departmental goals across teams· Strong written and verbal communication skills· BS or MS degree in business, computer science, IT or equivalent experience Nice to Have / Highly Desired· Knowledge of Medicaid, Payer, Provider, Home Health Care industry experience
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Great Neck, NY Technology jobs in Great Neck, NY Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+

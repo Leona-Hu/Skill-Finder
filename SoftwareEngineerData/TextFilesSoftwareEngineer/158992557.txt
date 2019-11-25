@@ -1,0 +1,142 @@
+Members of the Overwatch team are passionate gamers at heart - driven to make the most fun and compelling experiences for our players. We spend our days collaborating and iterating on everything that goes into the game: from placing health packs to dreaming up the craziest “Play of the Game” animations. Our goal is to always surprise and delight our players.We believe in maximum transparency and communication at the team level and with the people who play our game. This philosophy, along with the Blizzard values of “Gameplay First” and “Play Nice, Play Fair,” has made Overwatch one of Blizzard's most successful games, and it has forged a bond of trust with our worldwide player community that is extremely important to us.Our team is looking for a Server Features Engineer that shares our values:ResponsibilitiesRequirementsPlusesBlizzard Entertainment is a global company committed to growing our employees along with the business. We offer generous benefits and perks with an eye on providing true work / life balance. We’ve worked hard to foster an intensely collaborative and creative environment, a diverse and inclusive employee culture, and training and opportunity for professional growth. Our people are everything. Our core values are real, and our mission has never changed. We are dedicated to creating the most epic entertainment experiences…ever. Join us!
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Irvine, CA Technology jobs in Irvine, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+We take responsibility for delivering our work.We collaborate constantly, helping each other to be successful.We continuously improve our knowledge, workflows and processes.We communicate openly, calling out issues, opportunities, and sharing feedback.We have integrity, maintain confidentiality, and share a sense of ownership in our success.We have passion for the game, our players, quality work, and technology.Collaborate with artists, designers, game programmers and fellow server programmers to maintain and implement non-gameplay features. Some examples of non-gameplay features include:ArcadeCustom gamesPlayer groupingHighlightsIntegration with Battle.netSupport and improve the live service, with a focus on reliability and performance.A minimum of 3 years’ relevant work experienceStrong understanding of C / C++Passion for distributed systems and networkingExperience implementing features within client/server architecturesExcellent ability to collaborate with technical and non-technical teammatesStrong sense of independence and motivation to improvePassion for video gamesPrior game development experienceA degree in computer science, or a related fieldExperience with transaction processing systemsDatabase experience (Relational or NoSQL)Linux development experienceAvid Overwatch player

@@ -1,0 +1,142 @@
+BigBear, Inc. currently has an immediate position for a talented and passionate JAVA Software Engineer in the Charlottesville, VA area to build high-performing, scalable, enterprise-grade applications. You will be responsible for server-side application development while providing expertise in the full software development lifecycle, from concept and design to testing. You will collaborate directly with customers to ensure our products meet and exceed operational requirements. The successful candidate will be a self-starter that demonstrates excellent communication and problem-solving skills with a focus on customer service.What we're looking for:•    5+ years of hands-on experience with Java.•    5+ years of experience developing applications on the JavaFX platform (Bonus)•    Object-Oriented Programming and Design skills are required.•    Experience working Java frameworks such as Spring.•    Familiarity with event-driven programming.•    Experience developing multi-threaded applications a plus.•    Working experience with Postgres/PostGIS, ElasticSearch, or Oracle database a plus.•    Hands-on experience with OpenStreetMap, OGC, or other GIS a plus.•    Experience with JavaScript, C# and .Net Framework a plus.•    Experience integrating applications with intelligence databases such as MIDB a plus.•    Strong communication and leadership skills required.•    Experience working in an Agile/Scrum development process.•    B.S./M.S. degree in Computer Science, Engineering, or equivalent experience.•    Must be a US Citizen.•    Must have a SECRET Clearance with the ability to obtain a TOP SECRET / SCI Clearance.What you'll do:  •    Collaborate with Project Manager and engineering to implement innovative solutions.•    Design and develop high-volume, low-latency applications for mission-critical systems.•    Contribute in all phases of the development lifecycle.•    Write well designed, testable, efficient code and unit tests.•    Ensure designs are in compliance with specifications.•    Perform demonstrations and briefings to customers to ensure program success.•    Perform technical support for products at customer sites.•    Perform system monitoring, optimization, and high performance tuning.•    Perform requirements analysis, system design, and draft technical documentation.•    Participate in research and development for system engineering and product advancement.•    Domestic travel as needed.Bonus:
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Charlottesville, VA Technology jobs in Charlottesville, VA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Experience with data pipelines, ETL, and management of high volume data across distributed systems.CISSP or Security+ certification.

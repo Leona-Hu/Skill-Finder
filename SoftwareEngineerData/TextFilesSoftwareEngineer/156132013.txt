@@ -1,0 +1,142 @@
+Centrica / Direct Energy is one of North America's largest retail providers of electricity, natural gas, and home and business energy-related services with over four million individual customers and 240,000 large energy customers in states with deregulated energy markets . We give customers choice, simplicity, and innovation where energy, data, and technology meet. As an international energy and services company, Centrica / Direct Energy, its subsidiaries and/or affiliates, operate in 50 U.S. states plus the District of Columbia and eight provinces in Canada. Centrica plc (LSE:CNA) is one of the world's leading integrated energy companies with over 20 million customers and 34,000 employees worldwide. We are committed to becoming the most recommended energy and services provider and leading the transition to a low carbon society. Centrica's international Business Solutions group has been established to deliver distributed energy platforms to large energy users as part of a more flexible energy landscape. We expect to invest 700 million (~$1 billion) into the Business Solutions group by 2020. Combined, our UK and US businesses already have over 1,000 customers across 3,700 sites and 6 countries.Centrica Business Solutions (CBS) is a global business unit within Centrica, set with the mission to help customers discover and unlock value via the energy-consuming and existing or new energy-producing assets on their sites. In North America, we design build and manage projects from small to large scale in the distributed energy spectrum. We have existing and forthcoming solutions for which we provide development, engineering, and construction services to deliver products and projects across North America for commercial, industrial, and institutional customers wishing to reduce energy consumption and/or generate energy.Centrica Business Solutions' Technology team is looking for talented, self-starting software engineer to join us at our Bellevue, WA, office where you will help enhance our energy monitoring and optimization products. As an analytics-focused data scientist, you will work as part of an agile development team to develop containerized data analytics, modeling, forecasting and optimization services for use in an integrated, cloud-based energy management platform. You will be responsible for developing algorithms and solutions for problems ranging from load and solar PV forecasting and customer project techno-economic simulation, to real-time industrial process control and energy market trading strategies. You will collaborate with a high-caliber global team of software engineers, data scientists and researchers to share knowledge and successfully integrate microservices into a distributed platform. The environment will be fast-paced and challenging. You will be required to self-manage, learn quickly, communicate clearly and put to use a variety of technical and interpersonal skills.This position places you at the intersection of software and energy. You be working directly with senior managers and technology leads in a global organization. Come join us in this fast growing and exciting industry!AccountabilitiesCompetencies - Non-Technical Competencies - TechnicalEducationMasters or PhD in Computer Science, Engineering, Statistics, Applied Math, Operations Research or similarWork Experience
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Seattle, WA Technology jobs in Seattle, WA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Work together with the development team, product owner and business stakeholders to design solutions to complex problems according to the product roadmapDevelop forecasting, simulation and optimization services, with tasks ranging from data modeling and algorithm design, to KPI calculations and application monitoringEnsure high reliability and quality of results developed from analytics servicesProvide support to Production applications as part of an on-call scheduleYou are delivery-focused with a pragmatic and business-oriented attitudeYou are a team player, yet able to work independentlyYou are eager to look for creative solutions using state-of-the-art techniquesYou have strong written and oral communication skillsYou have a proven industry / research experience in applying quantitative techniques to real-world problemsAbility to write high-quality, well-tested code in Python 3Ability to work with big data or data-intensive applicationsPrefer candidates with background in time-series forecasting, statistical and machine learning or linear and non-linear optimizationPrefer candidates with knowledge of power and energy systemsPrefer candidates with experience with container-based applications, RESTful APIs and cloud environmentsMasters or PhD in Computer Science, Engineering, Statistics, Applied Math, Operations Research or similarYou have a minimum of 4 years of experience in a quantitative roleYou have 3+ years of professional experience in object-oriented and/or functional programmingProven ability to complete projects and achieve resultsEnergy industry experience is preferred

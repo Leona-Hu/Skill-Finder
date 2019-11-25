@@ -1,0 +1,142 @@
+Position Summary  Systems Engineer will complete detail design work on semi-custom manufacturing systems and act as project leader for a project team following the ISO 9001 quality management system.  As project leader, the Systems Engineer will coordinate activities of the project design team and production personnel, and also be the point of contact for communication with the customer. DutiesEnvironment, resources, and methods Detailed dutiesRequirements
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Monrovia, CA Technology jobs in Monrovia, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Pre-sale conceptual design, schedule, and cost estimation of semi-automated industrial laser processing workstationsDetailed design of tooling, fixtures, layout of motion control components and other peripherals, electromechanical packaging  Conduct acceptance testing leading to customer sign-off on selected projectsProject management role for selected projects from purchase order to shipment.Assume primary responsibility for successful completion of assigned projectsOversee construction and maintenance of design file and user documentation for complete systemPrepare engineering input for product release and support by other departments Report to Manager, Systems EngineeringTasks may be assigned by direct manager and Proposal ManagerFurther day to day coordination with Production Manager, Applications Manager, and Sales Manager as needed in Project Management roleCurrent-business-driven work cycles: Pre-booking: one week turnaround on concept sketches and estimation.  Postbooking: PO to shipment typically 12 weeksDesign and documentation tools include SolidWorks, AutoCAD, VisioEngineering, documentation, machine shop, assembly, test, and applications lab resources are matrixed over multiple projects.Will be responsible for one or more concurrent projects Pre-booking conceptual design includes: mechanical layout of workstation, motion control components, and tooling; and with assistance from others, block diagram of electronic controls; flowchart of overall man-machine interaction and machine functions.  Conceptual design documents are presented to Proposal Manager.Cost estimation includes estimation of NRE, RE, and direct material for custom portions; discussion with Production manager for estimation of assembly and test labor for custom portions. Cost estimation summary is delivered to Proposal ManagerProject schedule development using critical path method exemplar covering all tasks from PO to shipment including those for which others are responsible for performing. Project schedule is delivered to Proposal ManagerRepresent the company in a professional manner to the customers, vendors, and other people and organizations outside the company.  Post-booking activities include: detailed design and documentation for custom portions of specific projects, re-using existing hardware and software subassemblies as much as possible to minimize engineering content of complete delivered system;  provide written, testable specifications for new hardware and software components and assemblies, suitable for purchasing, production test, QA, and re-use in a commercial custom equipment environment.  Provide consistent documentation package based on exemplar for design file, user manual, post-sale support, and transfer to standard product development team.Coordinate acceptance test requirements, sample materials, laser application, machine readiness, customer visit schedule, and lab resources for acceptance tests.  Manage acceptance test and handle all exceptions necessary to secure customer sign-off.Project management includes establishment of the project team and reporting structure; setting and meeting customer’s and company’s expectations for main project parameters (cost, schedule, performance, and deliverables) from proposal to completion of acceptance testing; periodic communication of status of project expectations and potential changes in scope through reporting structure; coordinate activities of all participants in a matrixed environment as necessary to meet project commitments.Specify design verification test requirements, and conduct, review and approve the results of such tests.  Prepare and conduct audience-appropriate design reviews to customer, engineering and management personnel  Provide technical supervision to designers and assembly technicians assigned to project.Team Management as required Four-year degree in Engineering  Formal project management training and experienceCommunicate well orally and in writing with customers and others with whom he/she works with within and outside the Engineering department.  Able to prepare and deliver professional technical and educational presentationsWork experience using SolidWorks, machine tools, and mechanical metrology equipmentPractical experience with professional engineering design and document control methodologyDemonstrated ability to design for long term support and modificationThree years+ experience in designing or specifying tooling, fixtures, layout of motion control components and other peripherals, electromechanical packaging as found in industrial automation systemsAbility to travel occasionally (2 weeks per quarter) 

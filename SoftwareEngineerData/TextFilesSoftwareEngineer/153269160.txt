@@ -1,0 +1,142 @@
+TITLE: Software EngineerDIVISION: Kyocera Documents Solutions Development America, Inc. Los Angeles DEPARTMENT: Software EngineeringLOCATION: Gardena, CaliforniaSTATUS: ExemptPOSITION REPORTS TO: Section Manager, PDL SUMMARY OF RESPONSIBILITY:We are looking for an exceptional software engineer with experience in designing, implementing and maintaining core technology development or product projects. This engineer will be working on a fast-paced team with direct interaction with the hardware team. Responsibilities will include the design, development, integration, and validation of complex software for our next generation of products. This position will be responsible for the development of products in accordance with our software development process; execute system software engineering at the highest level; contribute in designing, coding, maintaining and debugging software components in complex systems and work on projects individually and collaboratively with other engineers. MAJOR DUTIES AND RESPONSIBILITIES: QUALIFICATIONS:An undergraduate degree is required; an advanced degree is desirable.CONTACTS:Internal contacts within Software Development, Project Management Office and Testing department.AUTHORITY:The incumbent is authorized to take any reasonable action necessary to carry out the assigned responsibilities; provided that such action is consistent with sound management andcost-effective practices and is consistent with product planning guidelines and department objectives. Work under Manager Software Development or Project Manager. A certain degree of creativity and latitude is required. MISCELLANEOUS: Special projects as assigned by the Manager Software Development.Essential Physical Functions:The physical demands described are representative of those that must be met by an employee to successfully perform the essential functions of this job, with or without reasonable accommodation:· Occasional lifting of computer, monitor, or small printer not heavier than 40 pounds.· Typing, writing, reading· Seeing, hearing and speaking, both nearby and at a distance· Frequent sitting· Standing, walking, kneeling.Essential Mental Functions:Analytical skills, troubleshooting skills, verbal and written communications in English.This is a general description of the duties and responsibilities most frequently required of this position. The company may from time to time request that the incumbent perform other related tasks and assume reasonable responsibilities that have not been specifically included in this description.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Gardena, CA Technology jobs in Gardena, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Assist in the design, implementation, and maintenance of core product technology development or including Kyocera's printers, digital copiers, and multi-function printers.Assist in designing and coding core architecture, feature sets, objects, classes, structures, and functionality using standard programming languages, application programming interfaces, and software design tools.Works closely with a senior developer as part of a team to develop and deliver high-quality software in response to project requirements.Performs coding based on software project designs according to the particular programming language or software design tool in use.Compiles source code into specific test builds and release candidates. Tests the software with test cases such that it is sufficiently error-free, compiles and integrates correctly into the overall project, and meets the functional requirements of the product specification.Maintain the source code to resolve any issues reported and/or incompatibilities that may arise with other software modules. Diagnose and fixes any issues reported in a timely manner. Document the status of issues related to the maintenance process using bug tracking software. Resolve compatibility issues between software projects and third-party applications.Reports to team leader the progress of assigned tasks and provide estimates for their completion.4 years of software development experience is required.C/C++ required. C# and Python knowledge a plus.Excellent verbal and written communication skills are a must.Experience with software development on Linux or equivalent environment or knowledge of Object-Oriented Development is preferred.Experience in font rasterizer preferred but not required.Japanese language skills preferred but not required.

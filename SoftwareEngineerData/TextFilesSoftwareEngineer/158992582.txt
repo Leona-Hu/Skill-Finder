@@ -1,0 +1,142 @@
+Blizzard Entertainment has an opening for a talented and enthusiastic Software Engineer to join our Battle.net Game Services Group! This is a mid-level position that provides a lot of great opportunities to learn and develop new technologies. The Game Services Group develops the software, services and infrastructure that keeps millions of players online simultaneously worldwide, 24 hours a day, 365 days a year.  When a player logs in, sends a friend request, a whisper, or a chat within one of our rich virtual worlds, Game Services powers these capabilities.  When you use voice chat, check your profile statistics, or create a new social group, we are the team that makes those things possible.  From Overwatch to Hearthstone, StarCraft 2 to Diablo 3, World of Warcraft to Heroes, regardless of the game, time zone, or scale, Game Services is ready to answer the call with effectiveness and professionalism, acting as the central pillar to supercharge all player engagement. Responsibilities  Requirements  Pluses  
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Austin, TX Technology jobs in Austin, TX Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Work with a small and talented team to develop scalable, highly performant platform servicesImplement new features and services to support the needs of multiple teamsCoordinate with embedded and external teams, create relationships and assist with shared initiativesParticipate in the ongoing effort to improve our platform infrastructure, with the goal of achieving ever increasing service availabilityPerform research to acquire new knowledge necessary to perform assigned tasks and maintain a process of technological evolutionDevelop unit and integration test code to validate service reliabilityA degree in computer science, or a related fieldA minimum of 3 years of relevant work experienceAbility to work in a collaborative environmentExcellent communication skillsAdvanced understanding of C++Strong data-structure, logic, and algorithm skillsExperience with protocol and API designSelf-motivatedA desire to help make the service the best that it can be for our playersProficient in at least one scripting language such as PythonPrior development work on distributed systems and client/server architecturesExperience with performance analysis and code optimizationLinux development experience (server applications, gdb debugging, etc.)Knowledge of network and server security issuesDatabase development experience (MySQL, Oracle, Cassandra, etc.)Enthusiastic about supporting a live serviceFamiliarity with Blizzard Entertainment games and features, at least at a casual player level

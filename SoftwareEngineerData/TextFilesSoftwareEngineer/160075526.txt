@@ -1,0 +1,142 @@
+The role of the Software Developer is to develop software designs, artifacts, code modules, and unit/integration tests that satisfy the needs of the requirements/features under development.  If you are seeking an opportunity where your passion and expertise in software development can make a direct impact on critical software solutions, we encourage you to consider applying.About the RoleAs Software Developer, you will: Position Requirements/PreferencesEqual Opportunity Employer/Protected Veterans/Individuals with Disabilities
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Waterford, WI Technology jobs in Waterford, WI Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Participate as part of a software team practicing AgileReview, interpret/clarify, and implement User Stories to working softwareEngage in technical discussion of new solutions and architecturesUse standard methodologies to write well-designed and tested codeAdhere to coding standards/procedures and participate in code reviewsWork closely with Test Team to ensure overall quality of the softwareCollaborate with team to identify creative IoT solutions utilizing existing platformDevelop product following SDLC process including peer design/code review.Utilize software code version control/source management and defect management tools.Address increasingly complex technical problems and draw upon experience, analytical skills, and creative thinking, to develop solutions.Perform unit testing on products before releasing to system test.Perform Research and Development tests with R&D test department personnel.Work with manufacturing and quality to develop equipment, programs, and processes to improve efficiency.When necessary, travel to customer sites to assist sale and service of our products.Bachelor's degree in Computer Science, Electrical Engineering or related curriculum, or Associate's degree or 7 years equivalent experience and a minimum of 3 years practical experience in software development.Experience with Full Stack development, including databases, servers, systems engineering, front-end technology, basic design ability, and third-party frameworks.Experience with at least two high-level programming and markup languages, preferably:  Java, JavaScript, C#, UML, HTML,and Node.js.Experience with cloud-based programming, including serverless architecture, preferably using:  AWS LambdaExperience with unit testing concepts and frameworks, preferably:  Junit and AntKnowledge of relational database concepts and preferably experience with:  PostgreSQL.Knowledge of or experience software revision control systems, preferably:  Subversion.Knowledge of or experience with web servers, preferably:  Apache, Apache Tomcat, and IISKnowledge of or experience with Web Development including Web services, Angular.js, and CSSKnowledge of or experience with Software Development Life Cycle methodologies, preferably:  AgileKnowledge of or experience with Industrial Control Automation concepts, preferably: LonBus ModBus, and RS485.

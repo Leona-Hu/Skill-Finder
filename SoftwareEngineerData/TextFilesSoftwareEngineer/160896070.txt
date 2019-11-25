@@ -1,0 +1,142 @@
+DescriptionWe are looking for a Principal Software Engineer to implement the next generation of Commercial Banking solutions. The role requires a start-up mentality and a passion for using technology to solve complex business problems. As Principal Software Engineer, you will serve as a peer-leader tasked with pursuing cutting-edge initiatives and solutions. This is a hands-on position that requires proficiency in multiple programming languages (Java, C#, Python), expertise with Single Page Applications (Angular/React/Vue), and experience building cloud-native platforms. You will be given the autonomy to lead, design and develop innovative solutions to solve some of the biggest technical issues facing the banking industry. QualificationsHours & Work Schedule Why Work for UsEqual Employment Opportunity
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Lincoln, RI Technology jobs in Lincoln, RI Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+10+ years of hands-on software development, with proven experience in developing and supporting commercial software products and services which were sold to non-technical customers in vertical marketsDemonstrated ability to lead and mentor software engineersKnowledge of two or more of following languages: Java, C#, Python, C++.2 years of loud computing experience (preferably AWS) including certifications (e.g. AWS Solutions Architect)Mastery of at least one front end framework (Angular/React/Vue)Expertise in service technologies (microservices, domain driven design, Spring Boot, REST, GraphQL)Strong communication (both oral and written) and interpersonal skills3+ years of experience in the financial services industry - understanding of banking system and operationsExperience with RDMS as well as NoSQL/NewSQL/BigData databasesExperience working with highly automated CI/CD pipelinesBachelor’s degree required, preferably in Computer Science, Engineering, Mathematics or related disciplineMaster’s degree preferred 

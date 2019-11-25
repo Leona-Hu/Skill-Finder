@@ -1,0 +1,142 @@
+Our Artificial Intelligence San Francisco, CA based client is seeking a FTE for a Front-End Software Engineer opportunity.   ***Local Candidates Should Apply***   Your work will consist of implementing new features, architecture and migrating existing features from legacy application, fixing bugs, and maintaining existing functionality.   Ideally, they would like someone who will enjoy working on system services and infrastructure and architecting them for change and innovation.  You will be mentoring less experienced developers. You have strong analytical skills, a commitment to quality, a collaborative work ethic and superb coding skills.   Responsibilities:     Qualifications 
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in San Francisco, CA Technology jobs in San Francisco, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Work on new features for combining human and machine      intelligence. Migrate legacy systems (primarily RoR views) to      React/Redux stack. Implement QA and testing strategies. Promote best      practices for writing maintainable code. Design and implement the API orchestration layers for      our web clients. Participate actively in setting standards      for/innovating architecture and selecting criteria for tools/tech stack. 4+ years of experience developing commercial web      applications. 2+ years of experience with working with Node.js      platform and tools. 2+ years of experience with React/Redux setup. Excellent knowledge of JavaScript and CSS. Experience with working with Ruby and Ruby on Rails      framework would be a plus. Proficiency with command line and Chrome Developer      Tools. Experience with Git, Docker, Jira, Confluence.

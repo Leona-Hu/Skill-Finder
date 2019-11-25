@@ -1,0 +1,142 @@
+Internship Term:  2020SOFTWARE ENGINEER INTERN, (C++) - Game Services Core Technologies Team Greetings, students! We’re geared up here to offer another round of epic internship experiences in 2020. The internship program offers the opportunity to pause your studies for one summer and work side-by-side with Blizzard Entertainment employees in your area of interest, doing real work that oftentimes ends up in production. As such, we hold you to the same high standards as anybody else in the company.Just like our gameplay experiences, Blizzard internships are a fully immersive experience. We want interns who are enthusiastic about what they want to do for a living and excited to come in every day to learn and contribute in this hyper-creative atmosphere. Being fully engaged with our team also means communicating effectively and maintaining an open mind - one that is receptive to feedback and able to adapt and grow. Your hobbies and interests can also play in your favor. Passion for technology, gaming, game development, and an in-depth knowledge of Blizzard games, products, and services will always be a plus with us, regardless of the position you’re applying for. Be passionate about who you are, be into our industry, and be willing to go all-in and embrace this opportunity to the fullest!QUEST OBJECTIVESThe Battle.net & Online Products organization has an opening for a talented and enthusiastic Software Engineer Intern to join the Core Technologies team within our Game Services Group!The Game Services Group develops the software, services and infrastructure that keeps millions of players online simultaneously worldwide, 24 hours a day, 365 days a year.  When a player logs in, sends a friend request, a whisper, or a chat within one of our rich virtual worlds, Game Services powers these capabilities.  When you use voice chat, check your profile statistics, or create a new social group, we are the team that makes those things possible.  From Overwatch to Hearthstone, StarCraft 2 to Diablo 3, World of Warcraft to Heroes, regardless of the game, time zone, or scale, Game Services is ready to answer the call with effectiveness and professionalism, acting as the central pillar to supercharge all player engagement.ResponsibilitiesELIGIBILITY REQUIREMENTSLEVEL REQUIREMENTSRECOMMENDED TALENTSQUEST ITEMSWARNING! Applications that do not include all of the required materials will not be considered. We’re serious about this – due to the volume of applications we receive, we only have time to consider complete submittals.Blizzard Entertainment is a global company committed to growing our employees. We offer generous benefits and perks with an eye on providing true work / life balance. We’ve worked hard to champion an intensely collaborative and creative environment, a diverse and inclusive employee culture, and training and opportunity for professional growth. Our people are everything. Our core values are real, and our mission has never changed.  We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We are dedicated to creating the most epic entertainment experiences...ever. Join us!Submit your application no later than December 2, 2019.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Irvine, CA Technology jobs in Irvine, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Contribute to developing core technologies for building scalable, resilient and highly available platform servicesParticipate in continuous improvement of the tools and processes by which Game Services builds, validates, deploys, and monitors services around the worldLearn and grow with the team, adapting to new technologiesCurrently enrolled in a college or universityReturning for at least one more semester or quarter following the summer 2020 internshipAble to work fulltime hours for 11 – 12 weeks at the Blizzard office indicated in this job posting between May 2020– August 2020 or June 2020 – September 2020 (group dates depend on when you get out of school)Authorized to work in the USProgramming experience (educational, personal, or professional) in C++Able to communicate effectively and work collaborativelyKnowledge of computer science fundamentals, including algorithms, data structures, and design patternsSelf-motivation and a willingness to learnFamiliar with online game platformsExperience with git or another source control systemKnowledge of database storage technologyFamiliar with cloud, virtualization, and containerization technologiesResumeCover Letter

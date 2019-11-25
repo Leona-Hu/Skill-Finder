@@ -1,0 +1,142 @@
+Lyell is looking for Fullstack Engineers to join the Information Sciences team. Fullstack Engineers are responsible for building the frontend web application user interfaces, as well as the backend services of Lyells Data and Analytics Cloud Platform. The goal of this platform is to enable Lyell scientists and collaborators with real-time data access, real-time collaboration, and making meaningful and actionable scientific insights from large data volumes of many different data modalities. We are looking for people who are passionate about data and are interested in making a difference in the world!Essential Functions:RequirementsPreferred Experience:Preferred Education:Degree (B.S., M.S. or PhD) in Computer Science, Math, Physics, or biological sciences is preferred, but not requiredPreferred Additional Skills:BenefitsAt Lyell, we believe that highest performing teams include people from a wide variety of backgrounds and experiences who respectfully challenge each other. We are committed to building an open, diverse and inclusive culture for all employees.Weve learned from experience that some of the best people dont always match our requirements perfectly - if youre interested and think you could fit, please dont hesitate to apply.Lyell is proud to be an equal opportunity employer and does not discriminate on the basis of race, color, citizenship status, national origin, ancestry, sex, sexual orientation, age, religion, creed, physical or mental disability, medical condition, marital status, veteran status or any other characteristics protected under applicable federal, state and local laws.If you are an individual with a disability and require a reasonable accommodation to complete any part of the application process or are limited or unable to access or use this online application process and need an alternative method for applying, please contact us via our company website
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in South San Francisco, CA Technology jobs in South San Francisco, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Architect and build the front-end of the various web applications comprising Lyells Data and Analytics PlatformDesign and implement web applications with a cloud-based microservices architecture to enable collaboration on our data platformDesign and implement APIs for the frontend, as well as backend microservices communicationEnsure diverse datasets are easily searchable and accessible to scientistsBuild interfaces to simplify and speed up capture of sample metadata in the labsPromote culture of implementing high quality, scalable software with maximal impact for end-usersExtensive experience with modern Javascript frameworks, especially React/ReduxExtensive experience with Python and web frameworks (Flask, Django)AWS or Google CloudContinuous Integration / Continuous DeploymentAbility to communication with technical and non-technical stakeholdersExperience working in the life sciences or health care industries, or at least a passion about learning about biological dataImplementing microservices with Docker and utilizing container orchestration frameworks (Kubernetes, ECS, EKS, Google Container Engine)Experience designing user interfacesExperience with relational, NoSQL, and graph databasesExcellent oral and written communication skillsAbility to work independently and collaboratively among cross-functional teams, with a particular understanding for and drive to solve data issues faced by research and clinical scientists.Ability to work efficiently, prioritize workflow, meet deadlines and balance competing priorities.Excellent analytical skills and scientific/technical expertise

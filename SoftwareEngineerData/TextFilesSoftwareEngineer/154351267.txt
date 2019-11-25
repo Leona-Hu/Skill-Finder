@@ -1,0 +1,142 @@
+Systems EngineerReq. #2130Maintenance Repair and Overhaul Initiative (MROi) is a DOTMLPF-P transformation and standardization of both the business processes and enabling materiel solution which provides Air Force Sustainment Center (AFSC) with an integrated capability for planning, scheduling and executing organic depot maintenance to support agile planning, optimized workload assignment, resource allocation and integrated quality. The MROi materiel solution is a web-enabled system operating wholly within the .mil network. It implements a configured Oracle enterprise Business Suite (eBS) Commercial Off- The-Shelf (COTS) software product with 'complex MRO' being the core module for user interaction. This is supplemented with the integration of other necessary eBS suite modules plus Reports, Interfaces, Conversions and Extensions (RICE) objects which are deemed necessary to provide the required functionality. MROi implementation is divided into four software releases with capabilities to plan, schedule and execute organic depot maintenance processes within the commodities, electronics, missile and propulsion maintenance groups. MROi replaces dissimilar legacy systems and processes used across numerous geographic locations with a common enterprise business system that optimizes resource and workload assignments, facilitates what- if planning and frees-up logistics capacities aimed at improving capabilities availability to the warfighter. MROi operates within a Defense Information System Agency (DISA) hosted environment and interfaces with various legacy systems to support continuous operations within the depot maintenance environment.PRIMARY FUNCTION:Develops, researches, designs, implements, tests, and evaluates software and systems, in conjunction with hardware product development, that enable computers to perform their applications, applying principles and techniques of computer science, engineering, and mathematical analysis. Excludes paraprofessional positions.RESPONSIBILITIES:The successful candidate will perform work that applies a broad theoretical and practical knowledge of systems engineering to the acquisition process. The individual shall be able to:Current Duties:Requirements ManagerWork in ALM (ADS for MROi requirements)Convert IT Functional Requirements to Agile FeatureConvert IT Technical Requirements to Agile Enablers and Non-Functional RequirementsKeep DOORS up to date (would be nice to have DOORS training/access)Lead for DoDAF Architecture IPTCreate and maintain Charter and Process documentsSchedule meetings (currently monthly)Maintain communications with Bowhead representative and FMOCreate meeting agendas and minutesEnsure DOORS/ABE are up to date and able to create a contextual modelReview assigned CDRLsReview Engineering related Plans and other documentsCreate Engineering related Plans and other documentsParticipate in numerous other MROi related meetings and boards (Risk board, Configuration Control board, Risk Reduction meetings, Engineering Leadership meetings and so on)Future (Agile related):Assist with selection of features for each Program Increment (called Minimum Viable Product sometimes)Probably work in JIRA to keep ALM up to date (still in discussion how this will work)Participate in Sprints/ScrumsJob RequirementsSECURITY CLEARANCE/LEVEL REQUIRED:Active SecretQUALIFICATIONS:Possesses the advanced knowledge, experience and recognized ability to be considered an expert in their technical/professional field, possess the ability to perform tasks and oversee the efforts of junior and mid-level personnel within the technical/professional discipline. Will demonstrate advanced knowledge of their technical/professional discipline as well as possess a comprehensive understanding and ability to apply associated standards, procedures and practices in their area of expertise. (Program Office, Enterprise and Staff Level Support interface)Minimum Recommended Education and Experience:Additional Requirements:PROGRAM SPECIFIC SKILL SET:ADDITIONAL INFO: In addition to the skill set and qualifications listed above, possessing any of the following Certifications is also desirable: 
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Dayton, OH Technology jobs in Dayton, OH Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Conduct reviews on program portfolio to evaluate and/or recommend alternative plans, improve systems engineering programs/processes, manage/sustain program technical baseline, and design/perform system level tests to assure that subsystems and system performance is achieved in accordance with approved specificationsPerform program reviews to evaluate alternative proposed plans, systems engineering programs, design and test results to assure that subsystem and system performance is achieved in accordance with program specificationsPrepare technical documents which define, specify, and recommend system/subsystem characteristics. Prepares management reports and conducts technical presentations for planning, implementation and corrective action using application of engineering economy principlesPerform validation of systems, including development of criteria and procedures. Analyze and/or evaluate results of major engineering systemsProvide system/program engineering, technical support and technical training to support programs/ initiatives, including but not limited to: acquisition, development, integration, sustainment, continued evolution, deployment/fielding and installation, and operations oversight.Provide engineering support services and inputs to program and project risk management activities in compliance with AF SEAM processesAdvanced Degree (MA/MS) in Computer Science, Information Technology or other Engineering Discipline and 12 years of experience, 5 of which must be in the DoD, orBA/BS Degree in Computer Science, Information Technology or other Engineering Discipline and 15 years of experience in the respective technical/professional discipline being performed, 5 of which must be in the DoD, or,20 years of directly related experience with proper certifications, 8 of which must be in the DoD.Highly proficient with computers and software applications to include Microsoft Office products (Word, Excel, PowerPoint, Outlook, etc.), expert attention-to-detail & highly organizedStrong verbal and written communication skills requiredExperience implementing Oracle ERP SolutionsFamiliarity with DoD (DISA) Information Technology Infrastructure Requirements – Highly DesiredMicrosoft Certified Solutions Developer - Web Applications:Microsoft Certified Solutions Developer - SQL Server:Oracle Certified Professional Java SE (7/8) Programmer:Oracle Database (11 g/12c) Administrator Certified Professional:Oracle E-Business Suite 12 Financial Certified Implementation Specialist;Oracle Inventory Oracle E-Business Suite R12 Applications Database Administrator Certified Professional;Oracle E-Business Suite R12 Advanced Financial ConsultantCertified Expert Oracle SOA Suite 12c** Certified Implementation Specialist"Technical Specialist Engineer Support

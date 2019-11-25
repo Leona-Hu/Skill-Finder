@@ -1,0 +1,142 @@
+LST is seeking an experienced Software Engineer to provide system administration support to our Federal client. Job ResponsibilitiesQualifications and SkillsEducation and ExperienceTravelLS Technologies, LLC provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.Job Posted by ApplicantPro
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Washington, DC Technology jobs in Washington, DC Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Support the System Administration of reporting for all system related reporting requests.Provides training to end users in an instructor lead training class and/or virtual sessions.Manage workflow for the purposes of reporting, data collection and approvals.Maintain operational awareness of Oracle OPPM versions, patches, and updates.Develop test scripts and test patches and version updates of the application on development and test sites.Test overall functionality after any system updates or significant configuration changes, including but not limited to system configuration, webservers, and database upgrades.Test all systems for operational weaknesses, including Information Security (IS) application configuration and controls.Develop communication plans and standard operating procedures.Maintain a scalable application user security architecture within the application. Manage user accounts and system security architecture.Manage user group security role-based access controls.Experience with Oracle BI Publisher and BPM software is required.Experience providing provide Tier 1, 2 or Tier 3 help desk support for technical applications is required.Experience developing, managing, and providing role-based training is required.Good understanding of business process analysis and mapping.Ability to work from high-level requirements through detailed specifications.Strong attention to detail, well-organized, and ability to self-prioritize, manage and adjust multiple tasks as project evolves is required.Must be able to support multiple stakeholders and work in a collaborative team environmentBachelor's Degree in Computer Science, Electrical Engineering or Information Systems or related field.10-15 years of experience as a software engineer performing design, development, testing and deployment of computer software. 0 - 20%

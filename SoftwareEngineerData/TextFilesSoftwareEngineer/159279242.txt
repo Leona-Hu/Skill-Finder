@@ -1,0 +1,142 @@
+ Description/Job Summary**Please note: This positions REQUIRES US Citizenship and at least an active (or interim) Secret clearance**JCDS is currently searching for Software Engineers to support system integration and improvement of acoustic sensors on U.S. NAWC Aircraft. Working with moderately complex software programming applications to develop, modify and maintain sensor integration acoustic sensor systems. This position participates in design and coding activities with other staff members. Assignments may involve designing and documenting data structures and algorithms, participating in code reviews, providing technical assistance to team members, reviewing technical documentation, providing software design recommendations, and establish programming standards.Responsibilities/DutiesRequired Qualifications 
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Lexington Park, MD Technology jobs in Lexington Park, MD Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Use mathematical, statistical, and scientific logic to identify conceptual or theoretical solutions to problems of automated data processing (ADP) hardware or software systems design and operations.Analyze and formulate architectural and functional specifications, interfaces, and data structures.Research applications for ADP hardware, software, and operating systems.May require acting as a team lead to supervise other software engineers.BS degree in Computer Science, Computer Systems Information Management, Electrical Engineering or Mathematics.At least 3+ years of computer science experience, developing/writing code.Candidate must have strong knowledge of computer hardware and software systems including, but not limited to Solaris UNIX, Aonix UNIX, SunOS, Linux, Linuxworks, LynxOS, Microsoft DOS, Microsoft Windows, mass-storage devices and/or local area networks (LANs).Candidate must have the ability to develop software using structured top-down methods in a variety of languages including Java, C++, SQL, and/or the UNIX Command Language using the UNIX SDE.Candidate must have a current secret clearance.

@@ -1,0 +1,142 @@
+Where good people build rewarding careers.Think that working in the insurance field can’t be exciting, rewarding and challenging? Think again. You’ll help us reinvent protection and retirement to improve customers’ lives. We’ll help you make an impact with our training and mentoring offerings. Here, you’ll have the opportunity to expand and apply your skills in ways you never thought possible. And you’ll have fun doing it. Join a company of individuals with hopes, plans and passions, all using and developing our talents for good, at work and in life.Allstate is looking for a Full-Stack Java Software Developer to join our dynamic team of Agile Scrum developers based out of Irving. Our goal is to build the Underwriting Products for the Risk Management Strategy for Allstate Insurance Product. This team creates software all day, every day, on a full-stack cloud platform. Driving quality leveraging test-driven development with continuous integration & continuous delivery is key to our engineering approach. This is a tremendous opportunity to deliver the next-generation Underwriting product for our end users. This team will be working at our innovation hub in Irving, TX which will provide the latest in modern equipment, healthy work spaces, and engineering tools to accomplish our goals.The candidate(s) offered this position will be required to submit to a background investigation, which includes a drug screen.Good Work. Good Life. Good Hands®. As a Fortune 100 company and industry leader, we provide a competitive salary – but that’s just the beginning. Our Total Rewards package also offers benefits like tuition assistance, medical and dental insurance, as well as a robust pension and 401(k). Plus, you’ll have access to a wide variety of programs to help you balance your work and personal life -- including a generous paid time off policy.Learn more about life at Allstate. Connect with us on Twitter, Facebook, Instagram and LinkedIn or watch a video.Allstate generally does not sponsor individuals for employment-based visas for this position.Effective July 1, 2014, under Indiana House Enrolled Act (HEA) 1242, it is against public policy of the State of Indiana and a discriminatory practice for an employer to discriminate against a prospective employee on the basis of status as a veteran by refusing to employ an applicant on the basis that they are a veteran of the armed forces of the United States, a member of the Indiana National Guard or a member of a reserve component. For jobs in San Francisco, please click "here" for information regarding the San Francisco Fair Chance Ordinance. For jobs in Los Angeles, please click "here" for information regarding the Los Angeles Fair Chance Initiative for Hiring Ordinance.It is the Company’s policy to employ the best qualified individuals available for all jobs. Therefore, any discriminatory action taken on account of an employee’s ancestry, age, color, disability, genetic information, gender, gender identity, gender expression, sexual and reproductive health decision, marital status, medical condition, military or veteran status, national origin, race, religion (including religious dress), sex, or sexual orientation that adversely affects an employee's terms or conditions of employment is prohibited. This policy applies to all aspects of the employment relationship, including, but not limited to, hiring, training, salary administration, promotion, job assignment, benefits, discipline, and separation of employment
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+TwitterFacebookInstagramLinkedInvideo"here""here"Software Engineer jobs in Irving, TX Technology jobs in Irving, TX Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Participates in iteration planning meetings ensuring that the team has a common understanding of each story and chores in a team’s backlogLeads & Participates in daily site, cross-site, and product team standupsParticipates in retrospectives to gather feedback and derive actionable items to improve the team and the productParticipate in executing the strategy, keeping the customer needs and wants in mindProvides input into the architecture and design of the product; collaborating with the team in solving problems the right wayPractices daily collaborative programming  and test driven development in writing software and building productsEstablishes continuous integration, continuous delivery, and continuous deployment pipelines and practicesProvides support for software products in user environmentsParticipates in knowledge sharing and contributes to the overall growth of the collective knowledge of the Software Engineer community.A college degree or equivalent experience in Computer Science or similar field, including a solid understanding of Computer Science fundamentals5+ years of developing and implementing systems.Strong understanding of computer science concepts, object-oriented programming.Basic understanding of distributed systems, operating systems, networking, databases, security, and analyticsExperience developing software in different programming languages, and demonstrated ability to quickly learn new languages, including but not limited to JavaScript, Java (Spring).Knowledge of developing REST APIs including service discovery/registration, testing and management; experience using API gateways a plusExperience in backend database development (relational/NoSQL) and optimization.Knowledge of modern Database software’s like SQL, Redis, Mongo DB, etc is a plus.Experience in Test Driven Development; including knowledge in atleast one of testing frameworks like JUnit, mockito, Jest, jasmine, protractor, cucumber, and other like technologies is a plusAble to learn new technologies.Able to work effectively across organizational and geographical boundaries

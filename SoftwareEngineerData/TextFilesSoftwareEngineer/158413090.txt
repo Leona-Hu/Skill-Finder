@@ -1,0 +1,142 @@
+General SummaryThe Software Engineer creates custom applications and scripts, develops drivers, configures embedded operating systems, and performs testing to confirm his/her developed code operates properly.  The Software Engineer supports a wide range of SYNEXXUS projects, and  will create intuitive applications and associated GUIs that will empower our customers to monitor and control diverse systems, ranging from smart cities (LED lighting/control systems) and smart grids (power transformers) to integrated systems on vehicle platforms.Essential Job FunctionsPerform development efforts and work with teammates on various projects and products. To include working with customers, understanding requirements, leading design efforts, and driving technical development.Develop intuitive applications and the associated Graphical User Interface (GUI) using Qt/QML/C++.Develop, configure, and test applications with an emphasis on variants of Linux implemented on ARM and x86 based architectures to support custom SYNEXXUS software and applications as well as custom processor and display boards designed for unique applications and markets.Design, implement, modify, and test device drivers and tools such as touchscreen drivers, video drivers, CAN drivers, and user calibration tools.Required QualificationsDesired QualificationsSYNEXXUS, Inc. is an Equal Opportunity Employer and complies with all applicable laws, as stated in the EEO is the Law poster.EOE/Minorities/Females/Vet/DisabilityS1zxw8IxLz
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Arlington, VA Technology jobs in Arlington, VA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+BS in Computer Science, Computer Engineering, or Electrical Engineering with focus on programming, or equivalent3 to 10 years of experienceUnderstanding of the development process and testing cycle including bug tracking and formal code documentation and releases. Analytical, diagnostic / debugging / troubleshooting, and problem-solving skills required for integrating applications, systems, and equipment.Scripting and support for custom applications.Experience coding and testing in a team environment.Strong programming experience with C/C++ and JavaAbility to obtain a U.S. DoD SECRET Security Clearance Required.Knowledge of Qt framework and development environment.Experience with database technologies (SQL etc.).Knowledge of Linux kernel and device driver development.The ideal candidate will have development experience in Linux, Windows, and embedded environments with knowledge of embedded OS tailoring and implementation.Experience with common development and repository tools (i.e. SVN, GIT, JIRA, etc.)Experience cross compiling of C/C++ code.Experience with Java.

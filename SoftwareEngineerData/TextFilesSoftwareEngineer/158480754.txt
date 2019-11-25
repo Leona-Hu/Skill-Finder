@@ -1,0 +1,142 @@
+OVERVIEW: Would you like to work with a highly technical team, supporting the front line of security protecting the federal and civilian government in the pursuit of national cybersecurity? phia is seeking a highly skilled Systems Engineer to work for the Network Security Deployment (NSD) division, which supports the DHS National Cybersecurity Protection System (NCPS) infrastructure, development and operations through its entire lifecycle. NSD supports critical missions such as the NCCIC in their ability to be the Nations Lead Cyber Center for information exchange, incident response, and other key roles. Come join our teams working in a fast-paced environment that will challenge your technical skills.This team will support the systems analysis & design as well as development & implementation phases of the lifecycle.DUTIES:RequirementsKEY REQUIREMENTS:PREFERRED QUALIFICATIONS:WORK SCHEDULE: TBDTRAVEL: Less than 5%TELEWORK ELIGIBILITY: Ad-HocSECURITY REQUIREMENTS: Active Top Secret with eligibility for SCI or DHS EODBenefitsCOMPANY OVERVIEW:COMPANY OVERVIEW:phia LLC ("phia") is a Northern Virginia based, 8a certified small business established in 2011 with focus in Cyber Intelligence, Cyber Security/Defense, Intrusion Analysis & Incident Response, Cyber Architecture & Capability Analysis, Cyber Policy & Strategy, Information Assurance/Security, Compliance, Certification & Accreditation, Communications Security, Traditional Security, and Facilities Security. phia also provides cyber operations support functions such as: Program and Process Management, Engineering, Development, and Systems Administration that allows for Cyber Operations to efficiently integrate our customers missions and objectives. phia supports various agencies and offices within the Department of Defense (DoD), Federal government, and private/commercial entities.phia offers excellent benefits for full time W2 candidates to enhance the work-life balance, these include the following:
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Dulles, VA Technology jobs in Dulles, VA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Support the development of system capabilities from the identification of requirements through the deployment of capabilities through the requirements definition, design and develop system-oriented products and prepare related installation, testing, operation, and maintenance specifications and instructionsDefine and analyze architecture to establish operating conditions, conduct tests, define and analyze engineering proposals and related technical data to determine feasibility of developing new capabilities and/or modifying existing capabilitiesThe Systems Engineer is cognizant of Systems Engineering Lifecycle (SELC) processes and practices, Change Management practices, and collaborates with various Integrated Product Teams (IPTs), Project Teams, and Government entitiesManage multiple projects of variable sizeDefine, plan and manage work packages (WP). Includes defining task, WP duration, WP sequencing, critical path analysis, resource assignment, and input to the Integrated master Schedule (IMS)Establish common processes across tasks, including configuration management (CM), risk management, quality assurance (QA), etc. Provide technical direction for development, engineering, interfacing, integration and testing of components of systemPerform requirement elicitation, analysis and functional allocationConduct systems requirement reviewsDevelop CONOPS, interface standards, system architecturesPerform technical and non-technical assessment and managementPerform end-to-end flow analysisImplements operational view, technical standards view, and system and services view for architectures using applicable standards (e.g., DODAF, FEAF)Manage multiple projects of variable sizeDefine, plan and manage work packages (WP). Includes defining task, WP duration, WP sequencing, critical path analysis, resource assignment, and input to the Integrated master Schedule (IMS)Establish common processes across tasks, including configuration management (CM), risk management, quality assurance (QA), etc.Provide internal and external customers with technical design support to system acquisition specification, design, proof-of-concept prototyping, development and evaluation of management information and decision support systemsPerform team lead functionsEight (8) or more years of systems engineering experience required[A Masters degree in a related discipline may substitute for two (2) years of experience. A PhD may substitute for four (4) years of experience.]Bachelors degree in Systems Engineering, Software Engineering, Computer Science or a related discipline is requiredExperience and/or familiarity with MS Office, including Word, Excel, Project requiredDemonstrated experience or familiarity with Earned Value Management Systems (EVMS), compliant with ANSI/EIA Standard 748-B desiredAgile development methodology experience requiredDoD 8570.1-M Compliance at IAT Level I certification required. (e.g., Certified Information Systems Security Professional (CISSP)) certification is highly desiredActive Top Secret/Sensitive Compartmented Information (TS/SCI) security clearance requiredU.S. Citizenship requiredTen (10) or more years of systems engineering experience required[A Masters degree in a related discipline may substitute for two (2) years of experience. A PhD may substitute for four (4) years of experience.]Bachelors degree in Systems Engineering, Software Engineering, Computer Science or a related discipline is requiredExperience with Agile development methodologyExperience with requirements management toolsAgile software development methodology certification (e.g. SCRUM Master) desiredCertified Systems Engineering Professional (CSEP) certification desiredExperience with automated testing tools (e.g., RSpec, Cucumber, etc.)Medical InsuranceDental InsuranceVision InsuranceLife InsuranceShort Term & Long-Term Disability401k Retirement Savings Plan with Company MatchPaid HolidaysPaid Time Off (PTO)Tuition and Professional Development AssistanceFlex Spending Accounts (FSA)Parking ReimbursementMonthly Payroll

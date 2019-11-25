@@ -1,0 +1,141 @@
+Software Engineer, Warren, MI, General Motors. Dvlp, test, debug, &validate highly scalable & latency-optimized production level, Level 2 autonomous driving HD mapping &localization (HDLM) module ECU S/W for autonomous vehicles, in C++ &Python, on Linux OS, using Git, Bitbucket, Confluence, Jenkins, IBM DOORS/RTC, Doxygen, MATLAB, Simulink, DSpace, VehicleSpy, CANalyzer &CANoe tools. Validate perception data from Front Camera Modules (FCM) incldg lane, object &drivable free space detection. Work w/ perception team to dvlp semantic segmentation networks for drivable free space detection. Dvlp maintainable, extendable, testable, bug free object-oriented S/W for Level 2 auton. driving modules incldg perception, localization, mapping, path planning, behavior prediction &control. Analyze System/Sub-system Technical Specs of HDLM, &identify testable reqmts, working w/ localization team, to dvlp S/W submodules incldg vehicle localization, perception map association & registration, map bias estimation, &lane edge fusion. Master, Electrical or Computer Engrg. 12 mos exp as Engineer, designing & dvlpg closed loop test sys for validating psgr vehicle FCM semi-autonomous advanced driver assistance feature, or related. Mail resume to Ref#8250, GM Global Mobility, 300 Ren. Center, MC:482-C32-D44, Detroit, MI 48265.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Warren, MI Technology jobs in Warren, MI Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+

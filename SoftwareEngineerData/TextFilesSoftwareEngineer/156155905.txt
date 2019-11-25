@@ -1,0 +1,142 @@
+Software EngineerFor more jobs, please check out our ingenium.agency jobs page! Thanks for your time. The Job:Technology is integral to virtually everything our client does. An innovator and one of the original hedge funds to fully embrace and leverage technological capability in the world's financial markets, they continue to create an incredibly challenging and enriching development culture that rewards the creative and the precise.They seek exceptional software developers with a range of quantitative and programming abilities. Members of their technical staff collaborate on challenging problems that directly impact the firm’s continued success, utilizing their strong analytical, mathematical, and software design skills as well as some of the most advanced computing resources in the world. Specific responsibilities may include formulating statistical models for our computerized trading strategies, developing distributed systems to analyze and react to incoming data in real-time, and creating tools for advanced mathematical modeling. Successful developer candidates have traditionally been the top students in their programs and have extensive software development experience. We welcome outstanding candidates at all experience levels.Some stuff they like:Software EngineerThe Job:
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in New York, NY Technology jobs in New York, NY Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+At a minimum, a bachelor's degree in computer science, applied mathematics, or another technical discipline from a top university.Strong numerical programming skills.Experience with scientific computing, algorithm development, or pattern recognition.A background or interest in building large-scale, real-time, and distributed applications is desired.Experience developing high-performance, multi-threaded applications using several programming languages including Java and C++ (or others like Go, Clojure, Scala, Kotlin, Rust, etc...)Knowledge of scripting languages such as Perl, Python, and UNIX shell.While we analyze the data-rich domain of finance, financial experience is not a requirement.

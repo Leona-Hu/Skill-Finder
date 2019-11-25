@@ -4,7 +4,7 @@ import re
 import numpy as np
     
 def read_data():
-    data_folder = 'C:\\Users\\kevin\\Desktop\\ECE 143\\Project\\TextFiles'
+    data_folder = 'C:\\Users\\kevin\\Desktop\\ECE 143\\Project\\TextFiles2'
     descritopnList = {}
     for filename in os.listdir(data_folder):
         with open('C:\\Users\\kevin\\Desktop\\ECE 143\\Project\\TextFiles\\'+filename, errors = 'ignore') as f:
@@ -89,7 +89,7 @@ def find_years_of_experience(string):
             return np.NaN
 
 def find_locations():
-    links_file = 'C:\\Users\\kevin\\Desktop\\ECE 143\\Project\\links.txt'
+    links_file = 'C:\\Users\\kevin\\Desktop\\ECE 143\\Project\\links2.txt'
     chunk = 'https://jobs.thejobnetwork.com/job/'
     chunk2 = 'software-engineer-job-in-'
     with open(links_file, errors='ignore') as f:

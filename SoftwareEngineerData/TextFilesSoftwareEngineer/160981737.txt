@@ -1,0 +1,190 @@
+At Capital One, we’re building a leading information-based technology company. Still founder-led by Chairman and Chief Executive Officer Richard Fairbank, Capital One is on a mission to help our customers succeed by bringing ingenuity, simplicity, and humanity to banking. We measure our efforts by the success our customers enjoy and the advocacy they exhibit. We are succeeding because they are succeeding.                                               Guided by our shared values, we thrive in an environment where collaboration and openness are valued. We believe that innovation is powered by perspective and that teamwork and respect for each other lead to superior results. We elevate each other and obsess about doing the right thing. Our associates serve with humility and a deep respect for their responsibility in helping our customers achieve their goals and realize their dreams. Together, we are on a quest to change banking for good.Software Engineer - Java/Python/AWSAre you a high-performing software engineer passionate about building production-quality applications,working closely with domain experts and other engineers? We experiment and innovate leveraging the latest technologies, engineerbreakthrough customer experiences, and bring simplicity and humanity to banking. At Capital One’sCard Machine Learning team, you'll be part of an elite team setting the example for bybuilding enterprise-class applications that solve real problems and meet real customer needs.As a Software Engineer, you will build, deploy and manage software solutions as part of a team thatsolves complex problems in the financial services industry. Capital One leverages full stack technology solutions including streaming big data, state of theart machine learning, micro-service architecture, distributed computation engines, and intuitivevisualizations in the cloud.  We work with several cutting-edge technologies and actively develop andcontribute to the open source community.  You will work alongside highly technical peers with deepdomain expertise, from fraud detection to sophisticated NLP. Who you are:You yearn to be part of cutting edge, high profile projects and are motivated by delivering world-class solutions on an aggressive scheduleYou have built full stack systems (preferably architected for speed and distributed computing), with demonstrated experience in software engineering.You embrace DevOps principles, including continuous delivery and ongoing support of production applicationsYou love to learn new technologies, keep abreast of the latest technologies within cloud architecture, and drive your organization to adapt to emerging best practicesIt would be awesome if you have a robust portfolio on Github and/or open source contributions you are proud to shareBasic Qualifications:Bachelor’s Degree or Military ExperienceAt least 2 years of experience delivering applications from architectural design to production implementationAt least 2 years of experience with one of the following programming languages: Python, Java, ScalaAt least 2 years of experience building server-side applicationsPreferred Qualifications:Past experience in deploying scalable, distributed systems or multi-node database paradigms.Past experience building and support batch or real-time data processesPast experience with cloud software design, microservices & distributed cachingPast experience building or managing continuous delivery pipelinesPast experience working with Machine Learning, Deep Learning or Artificial IntelligenceAt this time, Capital One will not sponsor a new applicant for employment authorization for thisposition.
+
+            Location/Region: Chantilly, VA
+        
+At Capital One, we’re building a leading information-based technology company. Still founder-led by Chairman and Chief Executive Officer Richard Fairbank, Capital One is on a mission to help our customers succeed by bringing ingenuity, simplicity, and humanity to banking. We measure our efforts by the success our customers enjoy and the advocacy they exhibit. We are succeeding because they are succeeding.                                               Guided by our shared values, we thrive in an environment where collaboration and openness are valued. We believe that innovation is powered by perspective and that teamwork and respect for each other lead to superior results. We elevate each other and obsess about doing the right thing. Our associates serve with humility and a deep respect for their responsibility in helping our customers achieve their goals and realize their dreams. Together, we are on a quest to change banking for good.Software Engineer - Java/Python/AWSAre you a high-performing software engineer passionate about building production-quality applications,working closely with domain experts and other engineers? We experiment and innovate leveraging the latest technologies, engineerbreakthrough customer experiences, and bring simplicity and humanity to banking. At Capital One’sCard Machine Learning team, you'll be part of an elite team setting the example for bybuilding enterprise-class applications that solve real problems and meet real customer needs.As a Software Engineer, you will build, deploy and manage software solutions as part of a team thatsolves complex problems in the financial services industry. Capital One leverages full stack technology solutions including streaming big data, state of theart machine learning, micro-service architecture, distributed computation engines, and intuitivevisualizations in the cloud.  We work with several cutting-edge technologies and actively develop andcontribute to the open source community.  You will work alongside highly technical peers with deepdomain expertise, from fraud detection to sophisticated NLP. Who you are:You yearn to be part of cutting edge, high profile projects and are motivated by delivering world-class solutions on an aggressive scheduleYou have built full stack systems (preferably architected for speed and distributed computing), with demonstrated experience in software engineering.You embrace DevOps principles, including continuous delivery and ongoing support of production applicationsYou love to learn new technologies, keep abreast of the latest technologies within cloud architecture, and drive your organization to adapt to emerging best practicesIt would be awesome if you have a robust portfolio on Github and/or open source contributions you are proud to shareBasic Qualifications:Bachelor’s Degree or Military ExperienceAt least 2 years of experience delivering applications from architectural design to production implementationAt least 2 years of experience with one of the following programming languages: Python, Java, ScalaAt least 2 years of experience building server-side applicationsPreferred Qualifications:Past experience in deploying scalable, distributed systems or multi-node database paradigms.Past experience building and support batch or real-time data processesPast experience with cloud software design, microservices & distributed cachingPast experience building or managing continuous delivery pipelinesPast experience working with Machine Learning, Deep Learning or Artificial IntelligenceAt this time, Capital One will not sponsor a new applicant for employment authorization for thisposition.
+
+            Location/Region: Chantilly, VA
+        
+At Capital One, we’re building a leading information-based technology company. Still founder-led by Chairman and Chief Executive Officer Richard Fairbank, Capital One is on a mission to help our customers succeed by bringing ingenuity, simplicity, and humanity to banking. We measure our efforts by the success our customers enjoy and the advocacy they exhibit. We are succeeding because they are succeeding.                                               Guided by our shared values, we thrive in an environment where collaboration and openness are valued. We believe that innovation is powered by perspective and that teamwork and respect for each other lead to superior results. We elevate each other and obsess about doing the right thing. Our associates serve with humility and a deep respect for their responsibility in helping our customers achieve their goals and realize their dreams. Together, we are on a quest to change banking for good.Software Engineer - Java/Python/AWSAre you a high-performing software engineer passionate about building production-quality applications,working closely with domain experts and other engineers? We experiment and innovate leveraging the latest technologies, engineerbreakthrough customer experiences, and bring simplicity and humanity to banking. At Capital One’sCard Machine Learning team, you'll be part of an elite team setting the example for bybuilding enterprise-class applications that solve real problems and meet real customer needs.As a Software Engineer, you will build, deploy and manage software solutions as part of a team thatsolves complex problems in the financial services industry. Capital One leverages full stack technology solutions including streaming big data, state of theart machine learning, micro-service architecture, distributed computation engines, and intuitivevisualizations in the cloud.  We work with several cutting-edge technologies and actively develop andcontribute to the open source community.  You will work alongside highly technical peers with deepdomain expertise, from fraud detection to sophisticated NLP. Who you are:You yearn to be part of cutting edge, high profile projects and are motivated by delivering world-class solutions on an aggressive scheduleYou have built full stack systems (preferably architected for speed and distributed computing), with demonstrated experience in software engineering.You embrace DevOps principles, including continuous delivery and ongoing support of production applicationsYou love to learn new technologies, keep abreast of the latest technologies within cloud architecture, and drive your organization to adapt to emerging best practicesIt would be awesome if you have a robust portfolio on Github and/or open source contributions you are proud to shareBasic Qualifications:Bachelor’s Degree or Military ExperienceAt least 2 years of experience delivering applications from architectural design to production implementationAt least 2 years of experience with one of the following programming languages: Python, Java, ScalaAt least 2 years of experience building server-side applicationsPreferred Qualifications:Past experience in deploying scalable, distributed systems or multi-node database paradigms.Past experience building and support batch or real-time data processesPast experience with cloud software design, microservices & distributed cachingPast experience building or managing continuous delivery pipelinesPast experience working with Machine Learning, Deep Learning or Artificial IntelligenceAt this time, Capital One will not sponsor a new applicant for employment authorization for thisposition.
+
+            Location/Region: Chantilly, VA
+        
+Software Engineer - Java/Python/AWSAre you a high-performing software engineer passionate about building production-quality applications,working closely with domain experts and other engineers? We experiment and innovate leveraging the latest technologies, engineerbreakthrough customer experiences, and bring simplicity and humanity to banking. At Capital One’sCard Machine Learning team, you'll be part of an elite team setting the example for bybuilding enterprise-class applications that solve real problems and meet real customer needs.As a Software Engineer, you will build, deploy and manage software solutions as part of a team thatsolves complex problems in the financial services industry. Capital One leverages full stack technology solutions including streaming big data, state of theart machine learning, micro-service architecture, distributed computation engines, and intuitivevisualizations in the cloud.  We work with several cutting-edge technologies and actively develop andcontribute to the open source community.  You will work alongside highly technical peers with deepdomain expertise, from fraud detection to sophisticated NLP. Who you are:You yearn to be part of cutting edge, high profile projects and are motivated by delivering world-class solutions on an aggressive scheduleYou have built full stack systems (preferably architected for speed and distributed computing), with demonstrated experience in software engineering.You embrace DevOps principles, including continuous delivery and ongoing support of production applicationsYou love to learn new technologies, keep abreast of the latest technologies within cloud architecture, and drive your organization to adapt to emerging best practicesIt would be awesome if you have a robust portfolio on Github and/or open source contributions you are proud to shareBasic Qualifications:Bachelor’s Degree or Military ExperienceAt least 2 years of experience delivering applications from architectural design to production implementationAt least 2 years of experience with one of the following programming languages: Python, Java, ScalaAt least 2 years of experience building server-side applicationsPreferred Qualifications:Past experience in deploying scalable, distributed systems or multi-node database paradigms.Past experience building and support batch or real-time data processesPast experience with cloud software design, microservices & distributed cachingPast experience building or managing continuous delivery pipelinesPast experience working with Machine Learning, Deep Learning or Artificial IntelligenceAt this time, Capital One will not sponsor a new applicant for employment authorization for thisposition.
+
+            Location/Region: Chantilly, VA
+        
+Are you a high-performing software engineer passionate about building production-quality applications,working closely with domain experts and other engineers? We experiment and innovate leveraging the latest technologies, engineerbreakthrough customer experiences, and bring simplicity and humanity to banking. At Capital One’sCard Machine Learning team, you'll be part of an elite team setting the example for bybuilding enterprise-class applications that solve real problems and meet real customer needs.As a Software Engineer, you will build, deploy and manage software solutions as part of a team thatsolves complex problems in the financial services industry. Capital One leverages full stack technology solutions including streaming big data, state of theart machine learning, micro-service architecture, distributed computation engines, and intuitivevisualizations in the cloud.  We work with several cutting-edge technologies and actively develop andcontribute to the open source community.  You will work alongside highly technical peers with deepdomain expertise, from fraud detection to sophisticated NLP. Who you are:You yearn to be part of cutting edge, high profile projects and are motivated by delivering world-class solutions on an aggressive scheduleYou have built full stack systems (preferably architected for speed and distributed computing), with demonstrated experience in software engineering.You embrace DevOps principles, including continuous delivery and ongoing support of production applicationsYou love to learn new technologies, keep abreast of the latest technologies within cloud architecture, and drive your organization to adapt to emerging best practicesIt would be awesome if you have a robust portfolio on Github and/or open source contributions you are proud to shareBasic Qualifications:Bachelor’s Degree or Military ExperienceAt least 2 years of experience delivering applications from architectural design to production implementationAt least 2 years of experience with one of the following programming languages: Python, Java, ScalaAt least 2 years of experience building server-side applicationsPreferred Qualifications:Past experience in deploying scalable, distributed systems or multi-node database paradigms.Past experience building and support batch or real-time data processesPast experience with cloud software design, microservices & distributed cachingPast experience building or managing continuous delivery pipelinesPast experience working with Machine Learning, Deep Learning or Artificial IntelligenceAt this time, Capital One will not sponsor a new applicant for employment authorization for thisposition.
+
+            Location/Region: Chantilly, VA
+        
+Are you a high-performing software engineer passionate about building production-quality applications,working closely with domain experts and other engineers? We experiment and innovate leveraging the latest technologies, engineerbreakthrough customer experiences, and bring simplicity and humanity to banking. At Capital One’sCard Machine Learning team, you'll be part of an elite team setting the example for bybuilding enterprise-class applications that solve real problems and meet real customer needs.As a Software Engineer, you will build, deploy and manage software solutions as part of a team thatsolves complex problems in the financial services industry. Capital One leverages full stack technology solutions including streaming big data, state of theart machine learning, micro-service architecture, distributed computation engines, and intuitivevisualizations in the cloud.  We work with several cutting-edge technologies and actively develop andcontribute to the open source community.  You will work alongside highly technical peers with deepdomain expertise, from fraud detection to sophisticated NLP. Who you are:You yearn to be part of cutting edge, high profile projects and are motivated by delivering world-class solutions on an aggressive scheduleYou have built full stack systems (preferably architected for speed and distributed computing), with demonstrated experience in software engineering.You embrace DevOps principles, including continuous delivery and ongoing support of production applicationsYou love to learn new technologies, keep abreast of the latest technologies within cloud architecture, and drive your organization to adapt to emerging best practicesIt would be awesome if you have a robust portfolio on Github and/or open source contributions you are proud to shareBasic Qualifications:Bachelor’s Degree or Military ExperienceAt least 2 years of experience delivering applications from architectural design to production implementationAt least 2 years of experience with one of the following programming languages: Python, Java, ScalaAt least 2 years of experience building server-side applicationsPreferred Qualifications:Past experience in deploying scalable, distributed systems or multi-node database paradigms.Past experience building and support batch or real-time data processesPast experience with cloud software design, microservices & distributed cachingPast experience building or managing continuous delivery pipelinesPast experience working with Machine Learning, Deep Learning or Artificial IntelligenceAt this time, Capital One will not sponsor a new applicant for employment authorization for thisposition.
+
+            Location/Region: Chantilly, VA
+        
+Are you a high-performing software engineer passionate about building production-quality applications,working closely with domain experts and other engineers? We experiment and innovate leveraging the latest technologies, engineerbreakthrough customer experiences, and bring simplicity and humanity to banking. At Capital One’sCard Machine Learning team, you'll be part of an elite team setting the example for bybuilding enterprise-class applications that solve real problems and meet real customer needs.As a Software Engineer, you will build, deploy and manage software solutions as part of a team thatsolves complex problems in the financial services industry. Capital One leverages full stack technology solutions including streaming big data, state of theart machine learning, micro-service architecture, distributed computation engines, and intuitivevisualizations in the cloud.  We work with several cutting-edge technologies and actively develop andcontribute to the open source community.  You will work alongside highly technical peers with deepdomain expertise, from fraud detection to sophisticated NLP. Who you are:You yearn to be part of cutting edge, high profile projects and are motivated by delivering world-class solutions on an aggressive scheduleYou have built full stack systems (preferably architected for speed and distributed computing), with demonstrated experience in software engineering.You embrace DevOps principles, including continuous delivery and ongoing support of production applicationsYou love to learn new technologies, keep abreast of the latest technologies within cloud architecture, and drive your organization to adapt to emerging best practicesIt would be awesome if you have a robust portfolio on Github and/or open source contributions you are proud to shareBasic Qualifications:Bachelor’s Degree or Military ExperienceAt least 2 years of experience delivering applications from architectural design to production implementationAt least 2 years of experience with one of the following programming languages: Python, Java, ScalaAt least 2 years of experience building server-side applicationsPreferred Qualifications:Past experience in deploying scalable, distributed systems or multi-node database paradigms.Past experience building and support batch or real-time data processesPast experience with cloud software design, microservices & distributed cachingPast experience building or managing continuous delivery pipelinesPast experience working with Machine Learning, Deep Learning or Artificial IntelligenceAt this time, Capital One will not sponsor a new applicant for employment authorization for thisposition.
+
+            Location/Region: Chantilly, VA
+        
+As a Software Engineer, you will build, deploy and manage software solutions as part of a team thatsolves complex problems in the financial services industry. Capital One leverages full stack technology solutions including streaming big data, state of theart machine learning, micro-service architecture, distributed computation engines, and intuitivevisualizations in the cloud.  We work with several cutting-edge technologies and actively develop andcontribute to the open source community.  You will work alongside highly technical peers with deepdomain expertise, from fraud detection to sophisticated NLP. Who you are:You yearn to be part of cutting edge, high profile projects and are motivated by delivering world-class solutions on an aggressive scheduleYou have built full stack systems (preferably architected for speed and distributed computing), with demonstrated experience in software engineering.You embrace DevOps principles, including continuous delivery and ongoing support of production applicationsYou love to learn new technologies, keep abreast of the latest technologies within cloud architecture, and drive your organization to adapt to emerging best practicesIt would be awesome if you have a robust portfolio on Github and/or open source contributions you are proud to shareBasic Qualifications:Bachelor’s Degree or Military ExperienceAt least 2 years of experience delivering applications from architectural design to production implementationAt least 2 years of experience with one of the following programming languages: Python, Java, ScalaAt least 2 years of experience building server-side applicationsPreferred Qualifications:Past experience in deploying scalable, distributed systems or multi-node database paradigms.Past experience building and support batch or real-time data processesPast experience with cloud software design, microservices & distributed cachingPast experience building or managing continuous delivery pipelinesPast experience working with Machine Learning, Deep Learning or Artificial IntelligenceAt this time, Capital One will not sponsor a new applicant for employment authorization for thisposition.
+
+            Location/Region: Chantilly, VA
+        
+Who you are:Basic Qualifications:Bachelor’s Degree or Military ExperienceAt least 2 years of experience delivering applications from architectural design to production implementationAt least 2 years of experience with one of the following programming languages: Python, Java, ScalaAt least 2 years of experience building server-side applicationsPreferred Qualifications:Past experience in deploying scalable, distributed systems or multi-node database paradigms.Past experience building and support batch or real-time data processesPast experience with cloud software design, microservices & distributed cachingPast experience building or managing continuous delivery pipelinesPast experience working with Machine Learning, Deep Learning or Artificial IntelligenceAt this time, Capital One will not sponsor a new applicant for employment authorization for thisposition.
+
+            Location/Region: Chantilly, VA
+        
+Basic Qualifications:Preferred Qualifications:Past experience in deploying scalable, distributed systems or multi-node database paradigms.Past experience building and support batch or real-time data processesPast experience with cloud software design, microservices & distributed cachingPast experience building or managing continuous delivery pipelinesPast experience working with Machine Learning, Deep Learning or Artificial IntelligenceAt this time, Capital One will not sponsor a new applicant for employment authorization for thisposition.
+
+            Location/Region: Chantilly, VA
+        
+Preferred Qualifications:At this time, Capital One will not sponsor a new applicant for employment authorization for thisposition.
+
+            Location/Region: Chantilly, VA
+        
+At this time, Capital One will not sponsor a new applicant for employment authorization for thisposition.
+
+            Location/Region: Chantilly, VA
+        
+Who you are:Basic Qualifications:Preferred Qualifications:
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Chantilly, VA Technology jobs in Chantilly, VA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+You yearn to be part of cutting edge, high profile projects and are motivated by delivering world-class solutions on an aggressive scheduleYou have built full stack systems (preferably architected for speed and distributed computing), with demonstrated experience in software engineering.You embrace DevOps principles, including continuous delivery and ongoing support of production applicationsYou love to learn new technologies, keep abreast of the latest technologies within cloud architecture, and drive your organization to adapt to emerging best practicesIt would be awesome if you have a robust portfolio on Github and/or open source contributions you are proud to shareBachelor’s Degree or Military ExperienceAt least 2 years of experience delivering applications from architectural design to production implementationAt least 2 years of experience with one of the following programming languages: Python, Java, ScalaAt least 2 years of experience building server-side applicationsPast experience in deploying scalable, distributed systems or multi-node database paradigms.Past experience building and support batch or real-time data processesPast experience with cloud software design, microservices & distributed cachingPast experience building or managing continuous delivery pipelinesPast experience working with Machine Learning, Deep Learning or Artificial Intelligence

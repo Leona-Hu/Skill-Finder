@@ -1,0 +1,142 @@
+The Battle.net & Online Products organization is home to 300+ superpowered engineers, program managers, and designers focused on the technology that powers Blizzard Entertainment’s games. Whether you’re playing one of our titles, chatting with friends, or just shopping online, B&OP ensures that our players are immersed in engaging, exciting, and secure experiences. Blizzard Entertainment has an opening for a talented and enthusiastic Automation Engineer to join our Battle.net Game Services Group! The Game Services Group develops the software, services and infrastructure that keeps millions of players online simultaneously worldwide, 24 hours a day, 365 days a year.  When a player logs in, sends a friend request, a whisper, or a chat within one of our rich virtual worlds, Game Services powers these capabilities.  When you use voice chat, check your profile statistics, or create a new social group, we are the team that makes those things possible.  From Overwatch to Hearthstone, StarCraft 2 to Diablo 3, World of Warcraft to Heroes, regardless of the game, time zone, or scale, Game Services is ready to answer the call with effectiveness and professionalism, acting as the central pillar to supercharge all player engagement. The Battle.net & Online Products organization is home to 300+ superpowered engineers, program managers, and designers focused on the technology that powers Blizzard Entertainment’s games. Whether you’re playing one of our titles, chatting with friends, or just shopping online, B&OP ensures that our players are immersed in engaging, exciting, and secure experiences. Responsibilities  Requirements  Pluses 
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Irvine, CA Technology jobs in Irvine, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Automate the deployment and operation of game publishing servicesContinuously improve test automation and load test frameworksContribute to building and improving a heavily used CI/CD infrastructureCoordinate with embedded and external teams, create relationships and assist with shared initiativesParticipate in the ongoing effort to improve our platform infrastructure, with the goal of achieving ever increasing service availabilityA minimum of 3 years’ relevant work experienceStrong passion for automation, software testing, and high-scale stress testingStrong, proven C++ and C# skillsCuriosity & tenacity to fully diagnose why something went wrongStrong interpersonal and communications skillsProficient in at least one scripting language such as PythonExperience with cloud/virtualization/containerization technologies and infrastructureExperience supporting a live serviceLinux development experience

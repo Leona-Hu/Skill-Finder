@@ -1,0 +1,142 @@
+ROLE: ENDPOINT SYSTEMS ENGINEER TYPE: PERMANENT LOCATION: SAN FRANCISCO (Financial District), CA COMPENSATION: $100,000 - $120,000 + bonus ROLE:Our client has an opening for an Endpoint Systems Engineer specializing in desktop management and deployment. The Systems Engineer will work with other members of the Engineering team to develop and maintain our client’s endpoint computing environment. The team is responsible for all aspects of endpoint computing, including image development, operating system deployment, application packaging and deployment, security updates, firmware and driver updates, group policy maintenance, and virtual desktop infrastructure. In addition, the team must cooperate with other parts of IT in project planning, execution, and must serve as a resource to the Help Desk and local IT in problem resolution, sometimes involving after-hours work.JOB REQUIREMENTS:PRIMARY RESPONSIBILITES:OUR CLIENT/HIRING FIRM: A global law firm, with great benefits, great life/balance and solid compensation structure.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in San Francisco, CA Technology jobs in San Francisco, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+3+ years’ experience in a medium- to large-sized enterprise environment.Must be able to work well with the existing team of systems engineers, have excellent communication and documentation skills, strong troubleshooting skills, keen awareness of potential security vulnerabilities, and be able to handle multiple projects and support requests.Strongly prefer familiarity with Windows 10, security technologies such as AppLocker, BitLocker and antimalware products, Microsoft SCCM, VBScript, PowerShell, and packaging technologies.Monitoring security blogs and mail lists, as well as vendor web sites, to keep abreast of new security vulnerabilities.Packaging and deployment of Microsoft and third-party security and application updates using Microsoft SCCM, PowerShell, VBScript, and MSI packaging tools.Packaging and deployment of firmware and driver security updates.Maintaining AppLocker security policy to ensure proper behavior of packaged components.Analyzing security compliance of computers in the field using tools such as SCCM reporting and Teneble.io vulnerability scanning.Troubleshooting and repairing non-compliant computers using tools such as Event Viewer and SCCM Client Center.Working with the help desk and local IT staff to ensure full compliance of computers that cannot be repaired remotely.Secondary Responsibilities:Backup for OSD image development using Microsoft SCCMBackup for VDI image development on VMware HorizonBackup for AD group policy maintenanceAssist with application and hardware troubleshooting and ticket resolutionAssist with rollouts of new software products and major upgrades

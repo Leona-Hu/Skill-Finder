@@ -1,0 +1,142 @@
+AboutSince 2005, Crystal Management provides information technology (IT) infrastructure, systems integration, cybersecurity, facility design and transition, and professional services to customers in the defense, civilian federal agencies, homeland security, intelligence, and commercial sectors. We understand the mission demands innovative approaches, technology and people. With talented professionals deployed worldwide, Crystal Management delivers IT enterprise solutions, systems engineering, and management consulting services for the largest transformation and restationing programs in defense history. Crystal Management is a service disabled veteran owned small business.Position SummaryAs an Network Management Engineering Subject Matter Expert, you will provide services in support of the U.S. Army Network Enterprise Technology Command (NETCOM). You will provide operational and technical engineering support for the implementation, testing, integration, interoperability, and sustainment of information technologies comprising NETCOM Enterprise capabilities. You will support engineering support, testing and technical support in the implementation of the Network Operations (NetOps) capabilities. Support government efforts in continued deployment of enterprise NetOps capabilities that directly support the Army's maturing transformation and modularity concepts, doctrine, architecture, and organizations.Highlights of Responsibilities:QualificationsRequirements:Preferred Education and Experience:Physical Requirements:Crystal Management, LLC provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Sierra Vista, AZ Technology jobs in Sierra Vista, AZ Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Provide systems engineering to infuse NetMan NetOps technical capabilities into the Army's global Enterprise from the site level up, consisting of, but not limited to, NetScout, CA Spectrum and eHealth.Assist the Government in participating with all phases of the system development, planning, analysis, integration, testing and acceptance phases.Provide engineering designs, integration, testing, and sustainment to include integration with ITSM and NetOps.Research and analyze DoD and DA security standards to mitigate security vulnerabilities.Ensure NetMan servers and applications are scanned monthly to ensure Red Hat OS or application vulnerabilities are mitigated or remediated.Test various application functionality to include monitoring and managing.Support the system administration of all software in the NetMan suite of tools and coordinate efforts for system administrator-required tasks.Provide NetOps engineering support for the integration and sustainment of NetMan/NetOps tools and transitional operations associated with Network Management and Operations, and Network Performance Monitoring.Support CMDB and Industrial Test Program administration Manual (ITPAM) interface operations implemented for all RCC.Provide sustainment and CM of NetMan for multiple spirals of NetMan life cycle, i.e., one location may be in the engineering phase while another has transitioned to operations, and others are still in the planning stage.Coordinate and support remote and on-site implementations as required; coordinate activities with related capabilities and participate in cross-task teams as needed to support the overarching NetOps integration.Support physical moves of current NetMan operational infrastructure, e.g., moves from the DISA Green Space, and/or Regional Cyber Center (RCC) to potential future Army operated facilities.Support NetMan implementations, which expands NetMan to CONUS NECs.Support NetMan in a Distributed SpectroServer implementation to support NetMan.Provide Red Hat Linux OS support for the CM lab and integration of ITSM in support of O&M.Support re-engineering efforts required by integration to GNE AD, and other systems external to NetMan via approved data standards. These systems include, but are not limited to, Remedy/ITSM, SysMan, HBSS, ACAS/Tenable, and DoD Vulnerability Management System (VMS).Current Information Assurance (IA) certification (required at performance start date): IAT III (CASP CE, CCNP Security, CISA, GCIH, GCED, CISSP (or Associate) CSSLP)Current Computing Environment (CE) certification (attainable within 6 months of performance start date): Microsoft Technology Associate (MTA), Windows Operating System Fundamentals or higherClearance Required SECRET SSBIBachelor's Degree in IT 4 - 9 years practical experienceBachelor's degree with 10 years' experience or an Associate degree with 15 years of experience in the subject or area related to information technology of computer science.Sitting for long periodsAmbulate throughout an officeTravel by land or air transportation 25%

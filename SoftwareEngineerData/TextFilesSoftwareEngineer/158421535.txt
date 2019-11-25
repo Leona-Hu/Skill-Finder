@@ -1,0 +1,142 @@
+Position Title: Position Description:Job Requirements:Job Qualifications:About Protingent: Benefits Package: 
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Redmond, WA Technology jobs in Redmond, WA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Designing and developing USB related device drivers.Designing and developing unit tests on subsystems for which you are responsible.Mastering technical standards and specifications.Using JTAG, oscilloscopes and protocol analyzers for debug and validation.Read and understand electrical schematics and device datasheets.Degree in Computer Science, Computer Engineering or Electrical Engineering.3+ years C/C++ software developmentExperience with USB standards and protocols.Data structures and algorithms,Multithreaded software development,Basic OS concepts such as system calls, processes, IPC,Device drivers, both lower level and higher level,Computer architecture concepts such as memory hierarchy, DMA, SMP,Clock, power and reset trees of modern SOCs.

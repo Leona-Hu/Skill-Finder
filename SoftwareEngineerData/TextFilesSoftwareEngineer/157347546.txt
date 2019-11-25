@@ -1,0 +1,142 @@
+We are working with a leading HRIT software company to hire an additional software engineer to support their Platform as a serviceRequired Qualifications/Skills: Education/Certification/License: A degree in Computer Science, Software Engineering, IT or a related field is preferredTravel Requirement:Limited travel upon request* THIS IS A FULL TIME ROLE, not for C2C or contractors
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in San Francisco, CA Technology jobs in San Francisco, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Experience with at least one statically typed language (e.g. Java / Golang) is requiredExperience with at least one dynamically typed language (e.g. Ruby / Python) is requiredExperience using or developing Platform-as-a-Service (PaaS) applications (e.g. Cloud Foundry, Heroku, etc) is requiredExperience with configuration management tools (e.g. Bosh, Chef, Puppet, etc.)Experience with Infrastructure-as-a-Service (IaaS) applications (e.g. OpenStack, vSphere, AWS, Google Cloud, etc)Experience developing in a Software-as-a-Service (SaaS) application environment is a plusExperience with RDBMS and NoSQL database development and administration including MS SQL, MySQL, MongoDB, Hadoop, etc. is requiredExperience with distributed version control and its workflowsRelevant knowledge of OOP design and patternsExperience with agile methodologiesExperience with web technologies utilizing Microservices, SOA patterns and REST is a plusExperience in some open source projects is a plusExperience with at least one SCM technology is a plusFamiliarity with container technologies (e.g. Docker, K8's) is a plusExperience with Message queues (e.g. RabbitMQ) is a plusWillingness to learn new technologies and be passionate about it is a MUSTExperience with monitoring and alerting technologies (e.g. sensu, grafana, graphite) is a plus·We enable the vast majority of development teams within the company - having a customer first mentality is a MUST·Passionate about improving current processes is a MUST·Being a great team player is a MUST·Strong written and verbal communication skills is a MUST·Some (infrequent) on-call responsibilities will be required Education/Certification/License: A degree in Computer Science, Software Engineering, IT or a related field is preferredTravel Requirement:Limited travel upon request

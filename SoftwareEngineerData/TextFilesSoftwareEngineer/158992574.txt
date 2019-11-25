@@ -1,0 +1,142 @@
+The minions of Hell are growing stronger...We're working on Diablo 4! Are you a motivated and experienced automation engineer? Do you get excited about making sure there is a regular and reliable flow of game builds? Come work with us, and together we will build something exceptional.Our team of talented developers is growing. Our backgrounds are diverse, but we share a real passion for all things Diablo. We believe that if you’re looking for a tight-knit crew that celebrates self-expression and embraces collaboration, we might be a phenomenal fit for you.Responsibilities:Requirements: Pluses: Required Application Materials:Blizzard Entertainment is a global company committed to growing our employees along with the business. We offer generous benefits and perks with an eye on providing true work/life balance. We’ve worked hard to foster an intensely collaborative and creative environment, a diverse and inclusive employee culture, and training and opportunities for professional growth. Our people are everything. Our core values are real, and our mission has never changed. We are dedicated to creating the most epic entertainment experiences ever. Join us!
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Irvine, CA Technology jobs in Irvine, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Responsible for a rich automation infrastructure covering areas such as build generation, performance, stability, verification, etc.Work on implementing and parallelizing various build jobs for efficient operation.Help improve test coverage through the design and implementation of automated testing processes.Be heavily involved in maintaining an army of bots of various capabilities and platforms.Partner with QA to identify high-value opportunities for automation to improve the manual QA process.Work side by side feature developers, design and production to identify and mitigate risk areas.Strong, proven C++ and C# skills.Advanced knowledge of additional languages like Groovy, Python or Java.Passion for automation, building game images and software testing.Experience with Continuous Integration (CI) software, such as Jenkins.Ability to communicate with developers of all disciplines and technical skill.Experience working in a collaborative team environment and handling multiple projects simultaneouslyPassion for video gamesA degree in computer science, or a related fieldExpertise in Windows and Linux environments.Previous experience shipping game titles or other software.Experience integrating version control systemsWorked with video game console automation beforeExperience with SQL databasesResumeCover Letter which should include:Why you are interested in working at BlizzardWhat games you are currently playingWhy you are interested in working at BlizzardWhat games you are currently playing

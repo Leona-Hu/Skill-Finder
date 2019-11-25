@@ -1,0 +1,142 @@
+  
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Santa Rosa, CA Technology jobs in Santa Rosa, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Bachelor’s degree in Computer Science or equivalent work experience.5+ years of overall software development experience, with an emphasis on web applicationsExperience  in Javascript, JSX, and Node and techniques such as HTML5, CSS3, ECMAScript 2016, CSS pre-processors (SASS, Less, Stylus), JavaScript transpilers (Babel, CoffeeScript, TypeScript), and JavaScript build tools (Browserify, WebPack, Grunt, Gulp)Experience with modern JavaScript frameworks and libraries such as React, Redux, Ractive, Ember, or Angular, along with the knowledge of when to use themExperience with Node.js and the NPM package ecosystem and Git workflow

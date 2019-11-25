@@ -1,0 +1,142 @@
+See https://www.buoyhealth.com/team/ and https://www.buoyhealth.com/careers/ for the current team and official job postings.LocationBoston, MA (relocation assistance provided)Required Skills:MissionWe create technology with heart for the health of every person in the world.Company OverviewBuoy is a series-A funded health-tech company using artificial intelligence to help people find the right care at the right time. Started by a team of doctors and computer scientists working at the Harvard Innovation Laboratory in Boston MA, Buoy was developed in direct response to the downward spiral we’ve all faced when we attempt to self-diagnose our symptoms online. Buoy leverages artificial intelligence – powered by advanced machine learning and proprietary granular data - to resemble an exchange you would have with your favorite doctor – to provide consumers with a real-time, accurate analysis of their symptoms and help them easily and quickly embark on the right path to getting better. Buoy is based in Boston and was founded in 2014.Job DescriptionBuoy is taking on the multi-faceted challenge of applying Artificial Intelligence to medicine. We are developing novel interfaces, algorithms, and data pipelines to reason about the relationship between humans, symptoms, and illnesses, and we are looking for an experienced full-stack software engineer to help lead this effort. This role requires strong foundations in web application development and system design. A successful candidate will establish Buoy as a thought leader in HCI and AI for health care.In a typical week, you may:Preferred Qualifications
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Boston, MA Technology jobs in Boston, MA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+1.5+ years of professional software development experienceReact.js and PythonExtensive knowledge of software patterns and design principlesDevelop new features for our core productCollaborate with our engineering team to build and test client integrationsWork with our data science team to architect and build data models and internal toolsParticipate in agile process, code reviews, and release testingIntegrate new frameworks and contribute to team documentationDebug performance issues with our data pipelineExperience with A/B and Unit Testing methodsExperience with data visualizationExperience developing REST APIs

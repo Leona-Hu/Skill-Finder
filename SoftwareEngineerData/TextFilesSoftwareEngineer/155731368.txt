@@ -1,0 +1,142 @@
+We are seeking dependable, self-motivated candidates for Software Developer and Software Engineer positions within our growing organization. At RSI we build custom software solutions for a wide variety of clients, specializing in Microsoft technologies with an emphasis on full stack .NET development. Our clients are our mission, and our development teams learn all they can about clients’ existing solutions to update and enhance them when necessary, or develop new solutions from scratch to address critical business needs.A successful developer at RSI will be thorough, have good attention to detail, and thrive in a fast-paced environment where every day is a learning opportunity. We are growing as a company, which means you must be up for a challenge and willing to dig in with the rest of us. We expect our developers to exhibit a high level of leadership, teamwork, and collaboration skills; we are looking for someone who wants to be involved in something they feel passionate about. The right candidate will possess strong analytical skills, exhibit good judgement, and be a quick learner who is not afraid to ideate and be creative.Responsibilities:QualificationsPreferred Skills and ExperienceIf you are a detail oriented, natural problem solver, we have a job for you! Please submit your cover letter and resume for consideration. Please note: travel (primarily local) to customer locations is occasionally required.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Southington, CT Technology jobs in Southington, CT Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Design, code, test, deploy, and support solutions that meet client requirements/specificationsWork with quality assurance team to identify and rectify software bugs, defects, and anomaliesCollaborate as a member of a software development teamParticipate in design, scope of work, and estimating activities with guidance from senior team membersAnalyze requirements before beginning development; seek understanding and clarification when necessary, minimize/eliminate assumptionsKeep security in mind when developing softwareCommunicate feedback, progress, roadblocks, and any other critical information to the appropriate resources (manager, team members)Provide on-call support as necessaryKeep abreast of new technology, methodologies and techniques, and strive to improve professional skillsBachelor’s degree in Computer Science, Information Systems, Engineering, or related discipline; an equivalent amount of professional experience will be considered in lieu of degree0-5 years of professional experience in full stack .NET development (ASP C#, VB, SQL Server)Good understanding of design patterns (interfaces, abstract classes, singleton, MVC, MVVM ,etc)Previous experience with SQL; good understanding of relational databasesExcellent communication skills, both written and verbalStrong interpersonal, organizational, and customer service skillsDependable, dedicated individual with a strong work ethicPrevious experience in a consulting environment working with clientsHands on experience with one or more of the following:C++, C#, VB, HTML/JavaScriptASP.NET Core, MVC, Windows/Web Forms, Web Services (SOAP, REST, WCF)Web UI Framework (Bootstrap, AngularJS)SQL Server 2008 or higherMVC, MVVM, MV design patternsIIS 7.5 or higherAzure cloud platform/infrastructureC++, C#, VB, HTML/JavaScriptASP.NET Core, MVC, Windows/Web Forms, Web Services (SOAP, REST, WCF)Web UI Framework (Bootstrap, AngularJS)SQL Server 2008 or higherMVC, MVVM, MV design patternsIIS 7.5 or higherAzure cloud platform/infrastructurePrevious experience with Visual Studio and Team Foundation ServerFamiliarity with SDLC and Agile/Scrum methodologiesCandidates with previous exposure to Xamarin, particularly for Android are highly desirableCandidates with Microsoft certifications are highly desirable

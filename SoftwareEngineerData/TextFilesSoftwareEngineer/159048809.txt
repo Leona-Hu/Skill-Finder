@@ -1,0 +1,142 @@
+Software Engineer MassiveU is an award-winning education Platform-As-A-Service company based in Naples, FL. We serve the world's leading education companies by converting their curricula into project based, social learning experiences. As an organization focused on the delivery of digital learning experiences and education technology solutions that meet market and client needs, we're looking for an A-Player Software Engineer who has a passion for creating transformational technologies and systems, and is interested in professional development, challenge and growth.Reporting to the CIO of the company, the Software Engineer is part of the development team and participates in the development and maintenance of the company’s primary technology offerings, including new product development. Software Engineers at MassiveU take projects or individual task requirements and deliver solid, production-ready, well designed technical solutions while coordinating with other members of the team for releases. Additionally, they will also work on research and development tasks to determine feasibility of new features and products.The Software Engineer must exhibit an entrepreneurial mindset and be comfortable in an agile environment where the product is built, deployed, measured and “pivoted” in compressed time-frames. This must be all done without losing product quality attributes, such as, performance, security, availability, and accessibility.Key ResponsibilitiesQualifications and Requirements 
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Naples, FL Technology jobs in Naples, FL Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Evaluate requirements and direction to determine best approach to a new feature or change.Follow established development styles and guidelines while suggesting improvements if needed.Develop solutions that both satisfy requirements and look at long term needs.Build production-ready code, drawing from multiple perspectives when delivering a solution.Perform unit testing (integrated into the code base) and writing up test notes for QA testing.Collaborate with colleagues and act as a technical resource to non-technical personnel.Interface with all departments to help shape deliverables based on target platforms and users.Incorporate accessible best practices and guidelines to ensure inclusive use of the solutions.Meet or beat project deliverable timelines.A college degree is required; a Bachelor's degree (software engineering/technology) is preferred.5+ years experience developing Web applications (HTML5, CSS3, JavaScript/Node.js, and PHP) essential.Deep technical knowledge of Javascript frameworks (ReactJS, VueJS) an advantage.3+ years of experience developing enterprise ready applications securely at scale preferred.Cross-browser, multi-platform (and form factor) application development preferred.Strong understanding of RESTful API development an advantage.Knowledge of and experience with MySQL development and NoSQL an advantage.Knowledge of and experience with cloud services (AWS, Digital Ocean) services an advantage.A working knowledge of implementing solutions to WCAG 2.0 (AA Compliance) preferred.Strong communication skills ability to clearly communicate with non-technical personnel essential.Able to multi-task and manage multiple priorities at once.Must be authorized to work in the US.

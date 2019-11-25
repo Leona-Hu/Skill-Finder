@@ -1,0 +1,142 @@
+Sr. Backup Systems EngineerSr. Backup Engineer Summary: The Storage & Backup Engineer is responsible for daily Backup and SAN administration across a range of technologies including Pure Storage, NetApp, Commvault, Data Domain, Cohesity, EXAGRID, Netbackup, Veeam, StorageTek, and various other tape and disk targets. This position requires a detailed understanding of a wide range of enterprise SAN and Backup technologies, operating systems, applications, and business objectives. This individual participates in technical research, design, development, troubleshooting and support to innovate within the infrastructure.SAN & Backup Essential Duties and Responsibilities:Support the installation, configuration, and maintenance of various backup technology solutions. Experience with disk and tape backup targets. Able to support a wide range of technologies. Provides a deep technical subject matter expertise and leadership for analyzing hardware and software needs. Work independently and with third party vendors to design, install, support, and upgrade various applications to support business needs. Monitor the environment for performance and stability issues to meet Service Level Objectives. Maintain current system patching levels. Provides oversight and tracking of support tickets, ensuring that issues and requests are resolved in a timely manner. Pro-actively manage the environment and correct potential or present issues as identified. Consult with infrastructure operations, development personnel, and support teams to provide technical advice and to resolve problems. Provides senior technical consulting internally to teammates and externally to a variety of IT teams. Follow internal procedures for change management, incident management, and escalation. Work with peers across multiple business units. Participate in a 24/7 on-call rotation. Other responsibilities will be assigned as required. The position is also responsible for the evaluation, design, implementation, and support based on the direction of management for the following:Sr. Backup Engineer Education/Experience:Associates or Bachelor’s degree preferred, technical education or equivalent experience in the IT Industry with at least 7 years’ experience.Sr. Backup Engineer General Knowledge, Skills & Abilities:Physical Demands:Must be able to lift ~50 lbs
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Duluth, GA Technology jobs in Duluth, GA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+NetApp Storage Area Network (SAN)NetApp flash based storagePure Storage equipmentData Domain Configuring backups for Commvault Configuring Backups for CohesityConfiguring Backups for Exagrid7+ years of IT operational experience providing expertise in designing, planning, installing, configuring, maintaining and enhancing enterprise backup softwareMust have heavy Commvault experience Must have Cross platform experience Unix and WindowsMust have Database Backup experience (Oracle and SQL)5 years of experience with backup and network storage activities3-5 years of experience with NetApp storage platforms is a plus5 years of administration on a SAN platform is a plus3-4 years of Cohesity Administration for Backup 3-5 years of experience with Veeam for backup.3-5 years of Commvault experience for backupAbility to prioritize a variety of duties and work requests based on business need and SLA's Excellent time management and project management skills with the ability to follow through on projects and requests with minimal supervisionAbility to document procedures simply and accuratelyTeam work - must be capable of working well with others in a team environment and in high pressure situations.Communication - must possess excellent communication skills in both written and verbal medium to both technical and non-technical audiences.

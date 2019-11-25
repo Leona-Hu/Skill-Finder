@@ -1,0 +1,142 @@
+Alert Innovation is a growing start-up with a mission to re-invent retailing through robotics and were off to a great start. Weve partnered with worlds largest retailer to help re-invent the customers shopping experience with our Alphabot Technology at the center of a new era in retail. To succeed, we need to grow our team.We seek to hire exceptional people who love their work, want it to be meaningful and collaborative, and strive for excellence in a team-oriented culture. Alert Innovation offers a competitive salary and generous benefits package, including an equity stake in our growing company.Full Time, ExemptThe Principal Controls Software Engineer (SCSE) is responsible for contributing to the sensing, localization, motion, and actuation of the robotic platform to deliver a robust, reliable solution with high throughput. As an experienced robotics software engineer, you have demonstrated passion for robotics and have extensive experience architecting and implementing object oriented, multi-threaded applications for motion control. The position requires taking personal ownership to design, document, communicate, implement, and test software components within a complex system. The SCSE must be able to efficiently apply first order solutions while considering a long-term approach in a quick and dynamic environment. You are equally comfortable as both technical contributor and mentor in a growing multi-disciplinary team.Who you are:WHAT WILL YOU DO?WHAT ARE WE LOOKING FOR?TECHNICAL REQUIREMENTSEDUCATION/RELATIVE YEARS EXPERIENCETEAMING AND PERSONALVALUESAlert Innovation offers a highly competitive salary for each job family and level within the Boston-area market in which we are based. As part of our Power of Truth value we practice salary transparency, so you know you are being compensated fairly relative to other team members performing similar roles in our organization.Every employee is granted stock options which vest over four years. We have 31 issued or pending patents on our groundbreaking technology. A leading retail equity analyst at Jefferies recently published that we view Alert Innovations fulfillment technology as the most diverse and comprehensive. In addition, its developing the Novastore concept could be a winning long-term format.We offer full time employees a generous benefits package starting with your date of hire.PAID TIME OFFMEDICAL/DENTAL/VISIONINSURANCERETIREMENTPERSONAL/CAREER DEVELOPMENTOTHERThe above list is only a summary of some of our benefits and is not meant to be a comprehensive explanation.Alert Innovation is proud to be an Equal Employment Opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in North Billerica, MA Technology jobs in North Billerica, MA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+You are passionate about technical challenges and eager to broaden your skillsetYou are focused on making progress every day, and strive for efficient solutionsYou are humble and thoughtfulYou exude dedication and commitment to your work that makes others want you on their teamCollaborate both inter-team and cross-functionally to deploy controls solutions using C++Clearly document requirements and designProvide accurate task timelinesDesign concepts, demonstrate in simulation, implement in C++ software, and integrate on hardware running in a real-time OS and Linux environmentsActively perform root cause analysis and apply solutionsIntegrate third-party software where appropriateProvide input to electrical and mechanical teams on component selection.Work with customers, vendors, or other technical or non-technical stakeholders to assess software needs and performanceInvestigate new technologiesMentor junior engineersProficient and experienced in the application of classical control theoryUnderstand frequency domain and performance analysisComfortable with linear system modeling and identificationAbility to derive kinematic, frame transformation, and 2nd order dynamic equationsProficiency in modern C++ (11/14) with focus in object-oriented design and abstraction for real-time embedded platformUnderstanding of digital signal processing and filteringFamiliarity with sensing and actuation technologiesExperience with physical robotics hardware Ability to develop test plan, execute, and analyze resultsAbility to execute data analysis / post-processing, simulation, and concept demonstrations in MATLABAbility to understand electro-mechanical robotics platform and how components interactExperience with version control, task planning and trackingMinimum of a Masters technical degree (or the equivalent in training and experience) plus >8 years industry experience with a background in robotics, high-tech, or electro-mechanical product companies. Constructively support or lead project teams as the circumstances require or as assignment by team leadsWork successfully in a collaborative team environmentConstructively influence team decisions and product design requirementsSelf-motivating and capable of working without direction or supervision to achieve team goalsExcellent written and verbal communications skills and be able to communicate across all levels of the organizationPossess the additional skills of business acumen, basic team facilitation, assignment flexibility, independent thinking and responsibility for executionAll members of Alert Innovation practice the following values as part of their daily responsibilities and model these values as she/he leads or supports their teams.The Golden Rule: Extraordinarily powerful in its simplicity and depth: Treat others as you would want to be treatedThe Power of Person: The contribution of every single person in a company is important, and the performance of the entire company can only be maximized when every person strives to achieve his/her full potential and to contribute to the best of his/her abilityThe Power of Team: The Power of Person becomes amplified exponentially when a group of people working effectively as a team create performance synergy, whereby the capacity to perform as a team is much greater than the sum of the individual members capacitiesThe Power of Truth: We strive to see the world as it is, not as we want or imagine it to be, because only then can we make it better. This core value manifests itself through questioning, probing, testing, measuring, validating, verifying, proving, listening with an open mind, and making fact-based decisions. It also fosters transparency and honesty with others, as well as self-examination and self-honestyThe Golden Rule: Extraordinarily powerful in its simplicity and depth: Treat others as you would want to be treatedThe Power of Person: The contribution of every single person in a company is important, and the performance of the entire company can only be maximized when every person strives to achieve his/her full potential and to contribute to the best of his/her abilityThe Power of Team: The Power of Person becomes amplified exponentially when a group of people working effectively as a team create performance synergy, whereby the capacity to perform as a team is much greater than the sum of the individual members capacitiesThe Power of Truth: We strive to see the world as it is, not as we want or imagine it to be, because only then can we make it better. This core value manifests itself through questioning, probing, testing, measuring, validating, verifying, proving, listening with an open mind, and making fact-based decisions. It also fosters transparency and honesty with others, as well as self-examination and self-honestyNo fixed limits on the number of workdays that you can take off for personal reasons, including vacations. You take what you need keeping in mind the demands of your teams workload.9 Paid Holidays.Blue Cross Blue Shield HMO and PPO options.Health Reimbursement plan where Alert Innovation reimburses you for deductible related expenses ($1,000 for individuals, $2,500 for families).Dental insurance thru Delta Dental of MA.Vision Plan thru VSP.Flexible Spending Account to enable you to pay health care and dependent care costs on a pre-tax basis.Group Term Life Insurance at no cost to you, equal to three times your annual salary.Accidental Death and Dismemberment Insurance at no cost to you, equal to three times your annual salary.Short Term Disability Income Protection at no cost to you, equal to 70% of your weekly salary for up to 13 weeks.Long Term Disability Income Protection at no cost to you, equal to 66.67% of your monthly earnings.401k Plan administered by Fidelity to enable you to save using pre-tax dollars.100% of cost of training for your current or near-term work needs including conferences and technical events.50% reimbursement of tuition for programs aligned with career development goals including MBA and masters from top schools (online via Coursera).50% reimbursement of Nano Degrees (online via Udacity).Earn a Bachelors or Associates college degree from a fully accredited undergraduate program for only $5,000/year through our College For America benefit with Southern New Hampshire University.Daily catered lunch at no cost to you.Employee Assistance Program to assist with emotional health, parenting, eldercare, nutrition, legal and financial consultation needs.

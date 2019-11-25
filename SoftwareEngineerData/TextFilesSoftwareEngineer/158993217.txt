@@ -1,0 +1,142 @@
+ Blizzard Entertainment has an opening for a talented and enthusiastic software engineer to help us continue to deliver epic platform features by joining the Battle.net and Online Products Platform Accounts team. The Battle.net & Online Products organization is home to 300+ superpowered engineers, program managers, and designers focused on the technology that powers Blizzard Entertainment’s games. Whether you’re playing one of our titles, chatting with friends, or just shopping online, B&OP ensures that our players are immersed in engaging, exciting, and secure experiences. Our team develops the services and infrastructure that houses hundreds of millions of Battle.net accounts, empowering players worldwide to securely login and play across platforms. We primarily use Java, and technologies like Tomcat, Spring, RabbitMQ, RDBMSs, and more, to deliver a world-class platform for our internal game teams, support team, and web teams.  We're an internal hub at Blizzard, and are involved in some fashion on nearly every project and release within Blizzard!  We see many high load events, and work on highly scalable infrastructure to meet our project goals!The role focuses on server-side engineering and architecture, while interfacing with game teams as stakeholders. Responsibilities Requirements Pluses
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Battle.netSoftware Engineer jobs in Irvine, CA Technology jobs in Irvine, CA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Work with a small and talented team to develop scalable, highly performant platform servicesImplement new features and services to support the needs of multiple teamsCoordinate and collaborate with other teams on shared initiativesParticipate in the ongoing effort to improve our platform infrastructure, with the goal of improving throughput and scalabilityPerform research to acquire new knowledge necessary to perform assigned tasks and maintain a process of technological evolutionDevelop unit and integration tests and help coordinate stress tests to validate service reliability and capacitySolid understanding of CS fundamentals, including algorithms, data structures, and design patternsExperience with systems analysis, design, troubleshooting and debuggingSolid experience programming back-end web services in an OO language (Java/C#)Good understanding of web-related technologies (e.g. HTTP, SOAP, REST, TCPIP, Message Queuing)Advanced knowledge of data-modeling and RDBMS development experienceGood communication skillsBachelor's or Master's degree in Computer Science, Mathematics, or equivalent experiencePassion for technology and video gamesLinux experienceFamiliarity with the Spring FrameworkExperience delivering easy-to-use APIs to multiple consumersExperience with scalable services supporting high volume load

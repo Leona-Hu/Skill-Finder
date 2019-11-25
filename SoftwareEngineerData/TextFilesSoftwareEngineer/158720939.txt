@@ -1,0 +1,142 @@
+RESPONSIBILITIES:REQUIREMENTS:
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Fort Lauderdale, FL Technology jobs in Fort Lauderdale, FL Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+ Must maintain a good working relationship with management, IT personnel, as well as end users Work with other supporting team in the planning of server infrastructure strategy and continuous improvement plans Work with security, disaster recovery, and other vendors providing required services to the server infrastructure Work with the IT Application Development group and, when necessary, end users to stay abreast of changes within the production processing environment and to assist in the resolution of production processing problems Communicate with coworkers, management, staff, customers, and others in a courteous and professional manner Conform with and abide by all regulations, policies, work procedures and instructions Respond promptly when returning telephone calls and replying to correspondence and faxes Design and implements new server based hardware and software components as required Design and upgrades server based hardware and software components as required Deployment of all patches to desktops and servers Test existing, new and upgraded servers and server based hardware and software components to assure reliability of systems within the existing network infrastructure Updates and maintains documentation relevant to server based hardware and software Provides support to the end user and junior technicians in a level III support capacity as required Work with others in supporting team to continually improvement monitoring and tuning of all network infrastructure systems and related products in terms of workload, capacity planning, and system performance Bachelor's degree or equivalent experience Microsoft MCITP/MCSE (Solutions Expert) Server Infrastructure certification A minimum 8 years of experience in the IT field A minimum 5 years of Microsoft Windows (2003/2008) Server Systems engineering, administration and troubleshooting A minimum 3 years of Microsoft Windows Server solution design and implementation IT related experience Project Management skills Information security and PCI experience a plus Networking experiences a plus Advanced knowledge of Microsoft Active Directory/Group Policy (2008 Domain) Advanced knowledge of VMware v5 include HA, DRS, Storage vMotion and SRM Advanced knowledge of Dell EqualLogic SAN, EMC VNX Advanced knowledge of Microsoft Exchange 2010, SharePoint 2013, Lync 2013 Advanced knowledge of CommVault Simpana v10 backup solution Advanced knowledge of Symantec Enterprise Endpoint Protection v12 Advanced knowledge of Microsoft SQL Server 2005/2008/2012 Advanced knowledge of Cisco UCS Advanced knowledge of Server hardening Advanced knowledge of TCP/IP High level knowledge of applications troubleshooting in an enterprise environment Advanced server class hardware trouble shooting skills Capability of configuring servers from both a hardware (including advanced RAID, iSCSI and SAN configurations) and software perspective High-level project management skills Effective written/verbal communication skills are necessary in order to communicate with all levels of personnel (from end-user to senior management)

@@ -1,0 +1,142 @@
+RESPONSIBILITIES:REQUIREMENTS:
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Cambridge, MA Technology jobs in Cambridge, MA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+ Developing automated tests at various levels of the stack and across our platform to address coverage gaps Executing key responsibilities in support of our release readiness activities Helping to monitor our automation suites and resolve issues to improve stability Being a key resource for providing guidance and assistance to teams without QA resourcing Collaborate and share learnings with other quality minded individuals as a member of our Quality Community of Practice Owning, prioritizing, and driving backlog items to closure You have some experience with automation frameworks and harnesses such as Selenium, WebDriverIO, TestNG, or Java You love making broad contributions and contributing in a variety of ways in support of quality and your teams' objectives You focus on making your job more efficient through automation, simplification and communicating well with your teammates You have good familiarity with QA methodologies and best practices and working in an agile environment You love to learn and consider it to be an integral part of your job You have a strong sense of ownership for the product, from its conception through its release and adoption You are a critical thinker who can see the whole picture - that what your team is working on only one part of our product and you assess the testing needs based on that understanding We understand the impact of attracting and keeping top talent and reward excellence and a thirst for personal and professional growth We encourage our employees to continually expand their knowledge and explore a variety of learning opportunities both within our walls and externally Employees can expect a robust benefits package with a generous 401(k) match Company-wide celebrations/events through our Joy Division Company-wide hackathons Health and wellness reimbursements and office gym Opportunities to participate in charitable events and give back to the community Tuition reimbursement

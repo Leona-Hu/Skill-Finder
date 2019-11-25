@@ -1,0 +1,142 @@
+ Description:This position is in GED in the Enterprise Data and Platform (EDAP) Program Office providing acquisition and software platform support.Responsibilities: Qualifications and Experience:
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Software Engineer jobs in Chantilly, VA Technology jobs in Chantilly, VA Software Engineer jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Provide acquisition support (e.g. technical evaluations, proposal review, pre-acquisition documents [SOW, RFP language, etc.]).Support the development and fielding of automated software capabilities by eliciting, analyzing, developing and managing requirements.Interact with developers to onboard new services and software packages to a shared software platform.Perform functional analyses, develop system functional and physical designs or architectures, and generate system specification documents.Develop test and evaluation plans or procedures, execute test plans and procedures, and analyze test data and developing reports.Lead and participate in Technical Exchange Meetings (TEMs), including formal and informal design reviews.Expertise in developing efficient, highly available software capabilities in cloud native and hybrid cloud environmentsDemonstrated understanding of Systems Engineering and Acquisition processesCertification in Amazon Web ServicesExperience and/or certification in agile software development (Scrum, SAFe)Experience transitioning legacy systems to AWS/C2S optimized applicationsExperience in Dev/Ops delivery of software capabilitiesMust possess an active TS/SCI clearance with a CI polygraph
