@@ -1,0 +1,142 @@
+We seek a Senior Data Scientist to join our client, a leading data analytics provider in California.Senior Data Scientists combine their multidisciplinary skillset to provide quantifiable data that guides the development of new business solutions, products and services.Our client is an e-commerce data provider that uses cutting edge technology to provide analytical marketing data that targets the correct audience for their clients’ brands, markets and products. Using that data, they guide marketing strategy to drive ad performance and audience placement ensuring that marketing dollars are well spent. They maintain a relatively small team of top professionals that bring value and culture fit and provide a fantastic work environment with the perks and benefits that make working there a pleasure. They encourage community involvement and maintaining a rich personal life so that each team member achieves work / life balance. Their dynamic and fun environment is a great place to work and realize your potential today!The ideal candidate offers a wide range of coding capabilities that reach beyond common stack environments as well as a Masters+ in statistics, social sciences or computational biology. They have dynamic personality which works well with all personality types and thrive for challenges to design the next “best” product.This list is not inclusive of all duties associated with this role.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Data Scientist jobs in Santa Monica, CA Science jobs in Santa Monica, CA Data Scientist jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Build analytic frameworks that translate business challenges into quantifiable dataApply data operations and machine learning methods to large data setsResearch and design analytic solutionsPrototype scalable solutions to determine efficacyDesign tools to evaluate, monitor and optimize dataBuild prototypes quickly to determine and demonstrate valueImprove prototypes based on audience and testing feedbackUse Python, Java, C++ and similar to build tools for customersUse Linux, shell tools, scriptingDesign "big data" systems that are scalable linearlyScope, plan, design, implement and test new productsUse best practice engineering standardsExecute product requestsProduce functional specifications, feasibility assessments, time estimates and value assessmentsDesign solutions with scalability, availability, reliability, stability, security and performance in mind

@@ -1,0 +1,141 @@
+Role: Data ScientistLocation: Detroit, MI 48226Type: 24+ Months Contract Overview: Senior Data Scientist Job Summary:The Senior Data Scientist will be instrumental in supporting large business unit or enterprise-level analytics projects with broad responsibilities for translating business requirements into analytical constructs and providing analytical insights for effective decision making and communicating effectively to technical and non-technical stakeholders with strong domain expertise and business acumen. The role is also expected to mentor less-experienced team members to run analytical experiments in a methodical manner, evaluate alternative approaches and develop predictive models to forecast business performance metrics. Additionally, this role requires researching and recommending new technologies and best practices across industries to provide input to the organization’s analytics strategies and roadmap.Key Accountabilities:·        Supports analytics projects and collaborates with cross-functional stakeholders to complete end-to-end analyses that includes business requirements, data gathering, analysis, scale-able solutions deliverables, including visualizations and presentations·        Conducts advanced statistical analysis to determine trends and significant data relationships, and proactively recommends areas of improvement·        Develops complex data sets and predictive models to support key decisions to improve safety, employee engagement, operational and financial efficiency, product quality, and customer satisfaction ·        Prepares and delivers insightful presentations and actionable recommendations. Educates others on complex analytical findings in basic terms and with storytelling and data visualization·        Identifies and evaluates technologies and provides strategic input to advance the organization’s analytics capabilities·        Implements new, industry-leading statistical, mathematical, machine learning or other methodologies for modeling or analyses·        Responsible for discovering insights from Big Data to help shape or meet specific business needs and goals·        Utilizes business expertise to translate goals into data-based deliverables, such as predictive models, pattern detection analysis or optimization algorithms·        Champions self-service reporting capability and use of business intelligence and statistical tools to advance the analytical capabilities of the organization and use of data to make data-driven decisions·        Develops data and analytical processes based Continuous Improvement learnings and practices, including process maps, documentation, and job aidsQualificationsMinimum Education and Experience Requirements:·        Master’s degree with emphasis on coursework of a quantitative nature (e.g., Statistics, Computer Science, Engineering, Mathematics, Physics, Data Science, Industrial/Organizational Psychology and Econometrics, etc.) and 5 years of experience working in a data analytical or computer programming function·        Experience in quantitative analytics (e.g., data mining, regression analysis, hypothesis testing, A/B testing, machine learning modeling, including multivariate statistical analysis, natural language processing, unsupervised and supervised learning, deep learning, and predictive modeling, and model optimization in production)·        Intermediate- to advanced-level knowledge and skills in data modeling, data structure, and the application of complex SQL queries with data from multiple sources, including a Big Data platform (e.g., Hadoop, AWS, Azure)·        Proficient programming skills such as SQL, C/C++/C#, Java, R, Python, PHP, or SAS·        Have in-depth experience developing models in a Big Data cloud environment (Azure, AWS, GCP) and deploying and overseeing models running in production·        Adept at leveraging the Microsoft Azure platform and its AI and machine learning tools (Databricks, Data Factory, ML Studio, etc.)·        Intermediate-level skills and experience with data mining and statistical analysis using analytical packages / tools (e.g., R, SAS, SPSS, Stata, MATLAB, Minitab, etc.)·        Intermediate- to advanced-level skills and experience in articulating business questions, pulling data from relational databases (e.g., SAP Business Warehouse (BW), ORACLE, SQL SERVER) and using advanced excel and statistical tools (e.g., Minitab, Alteryx, Advanced Excel with VBA, R, SAS, SPSS, Stata, MATLAB, etc.), and determining the appropriate analytical approach to conduct in-depth analysis to support decision making ·        Adept with multiple business intelligence tools and platforms (e.g., SAP Business Objects, Microsoft Power BI.)Preferred:·        PhD degree in Data Science·        Intermediate-level or higher Continuous Improvement knowledge, skills and certifications·        SAP ISU, CRM and BW knowledge·        Strong written and oral communication skills·        Strong business acumen and utility/energy industry experienceThank you for your time.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Data Scientist jobs in Detroit, MI Science jobs in Detroit, MI Data Scientist jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+

@@ -1,0 +1,142 @@
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Data Scientist jobs in Nashville, TN Science jobs in Nashville, TN Data Scientist jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Solve key business challenges through leading edge data analytics, predictive modeling and customer insights.Deliver data and insights to business partners enabling the best decisions possible to drive revenue growth, care delivery, and patient and physician outcomes and satisfaction.Understand use cases with business stakeholders across the organization to identify opportunities for leveraging internal and external data to drive business solutions.Develop and execute predictive and prescriptive modeling projects prompted by business needs.Build unstructured data applications including NLP, pattern sensing and classification and data-mining algorithms.Prepare and present visualizations and stories that make it easy for everyone to understand, trust, and make decisions with the results.Coordinate with cross-functional teams to implement models into production and monitor outcomes.Use automation tools to validate and continually prove the effectiveness of predictive and prescriptive models.Maintain cutting edge knowledge of the Data Science field by researching new techniques and best practices within the industry.Perform other duties as assigned.Regular and reliable attendance.New and emerging data and analytics technologies (i.e. Hadoop, Spark, Elastic, AWS, etc.)Cloud platforms such as AWS, Azure, or Google CloudUnstructured data (such as text, tensors, or embedding objects)Machine learning techniques including clustering, decision tree learning, artificial neural networksBig data tools: Hadoop, Spark, Kafka, etc.Relational SQL and NoSQL databases, including Postgres and CassandrAWS cloud services: EC2, EMR, RDS, RedshiftStream-processing systems: Storm, Spark-Streaming, etc.Object-oriented/object function scripting languages: Python, Java, C++, Scala, etc.Analytic tools analytic tools such as PowerBI, Tableau, Alteryx, etc.Message queuing, stream processing, and highly scalable ‘big data’ data stores

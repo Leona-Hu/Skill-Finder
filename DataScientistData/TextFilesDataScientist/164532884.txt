@@ -1,0 +1,142 @@
+Oakridge has been engaged to identify a Senior Data Scientist with strong Jupyter experience.A solid hedge fund located downtown NYC seeking to hire a Senior Data Scientist, that will be responsible for a Jupyter document share upgrade.The Senior Data Scientist will work closely with the Front Office Technology team to move an existing Jupyter Notebook Data repository to both Jupyter Hub and/or Jupyter Lab.Ideal skillset:Please send your resume for an immediate interview.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Data Scientist jobs in New York, NY Science jobs in New York, NY Data Scientist jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+5-7 years of Data Science experience within Financial Services preferred.Demonstrated experience in Python, SQL and R; database development, maintaining & sharing code repositories (Github, Jupyter, etc.)Experience deploying data notebook and analytic environments into Jupyter (Notebook, Hub and Lab)Strong experience in documenting the data requirements, data strategy, data rules (standardization, cleanse, and validation)

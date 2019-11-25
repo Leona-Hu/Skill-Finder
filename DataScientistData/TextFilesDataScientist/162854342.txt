@@ -1,0 +1,142 @@
+TekSynap, a “Fast 50” technology company in the Washington DC area that offers technology solutions to federal, state and local government agencies. We offer our full-time employees a competitive benefits package to include health, dental, vision, 401K, life insurance, short-term and long-term disability plans, vacation time and holidays. Visit us at www.TekSynap.com.  Apply now to explore jobs with us!   We are seeking a Data Scientist to support our government contract with Defense Logistics Agency. Responsibilities:REQUIRED QUALIFICATIONSCOMPETENCIES  WORK ENVIRONMENT AND PHYSICAL DEMANDSThe work environment characteristics described here are representative of those an employee encounters while performing the essential functions of the job.  Reasonable accommodation may be made to enable individuals with disabilities to perform the essential functions.  PHYSICAL DEMANDSThe physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job.  Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. While performing the duties of this job, the employee is regularly required to use hands to finger, handle, or feel; reach with hands and arms; and talk or hear. The employee is regularly required to stand; walk; sit; climb or balance; and stoop, kneel, crouch, or crawl. The employee is regularly required to lift up to 10 pounds. The employee is frequently required to lift up to 25 pounds; and up to 50 pounds. The vision requirements include close vision, distance vision, peripheral vision, depth perception, and ability to adjust focus. WORK AUTHORIZATION/SECURITY CLEARANCESecret Clearance U.S. Citizenship OTHER DUTIESPlease note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities and activities may change at any time with or without notice. EQUAL EMPLOYMENT OPPORTUNITYIn order to provide equal employment and advancement opportunities to all individuals, employment decisions will be based on merit, qualifications, and abilities. TekSynap does not discriminate against any person because of race, color, creed, religion, sex, national origin, disability, age, genetic information or any other characteristic protected by law (referred to as “protected status”). This nondiscrimination policy extends to all terms, conditions, and privileges of employment as well as the use of all company facilities, participation in all company-sponsored activities, and all employment actions such as promotions, compensation, benefits, and termination of employment. 
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Data Scientist jobs in Richmond, VA Science jobs in Richmond, VA Data Scientist jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Provides expert support to run analysis and analytical experiments in a methodical manner, using both structured and unstructured data.  valuate alternate models via theoretical approaches.  Identify and exploit data assets, creating new patterns/business value.  Create analyses and models to improve customer and operational Key Process Indicators (KPIs), enhancing measurable value for the Agency and its customers. Build predictive models, developing advanced algorithms that extract and classify information from large datasets. Analyze data, developing robust statistical and predictive algorithms/models that drive the product outputs. Identify meaningful patterns and trends, exposing new business opportunities, and translate results into understandable and actionable output that answer real business questions. Creates and maintains a training curriculum for the “Apprentice” level for Data Science, Artificial Intelligence and Machine Learning. Facilitates appropriate training courses to the DLA staff. Provide staff-augmentation support to DLA staff for Data Science, Artificial Intelligence and Machine Learning. Ability to help the ACE team reach out to other DLA organizations to identify projects suitable for using DS/AI/ML as a way to solve their problems.Master’s Degree in Computer Science, Statistics, Applied Math or related field. Minimum Five (5) years’ relevant and practical experience with SAS, R, Python, Keras, TensorFlow or other ML engineering experience. Must possess a DOD Secret Security Clearance. Relevant certification meeting IAT - Level II. U.S. Citizen Establish Focus Change Management Oral Communication Written Communication Interpersonal Awareness Analytical Thinking Conceptual Thinking Strategic Thinking Initiative Foster Innovation Results Oriented Teamwork Customer Service Location: Richmond, VA – must be able to commute Richmond DLA site at a minimum once a week Type of environment: Office Setting and Remote Noise level: Soft - Medium Work schedule: Schedule is day shift Monday – Friday. May be requested to work evenings and weekends to meet program and contract needs. Amount of Travel: Less than 10% 

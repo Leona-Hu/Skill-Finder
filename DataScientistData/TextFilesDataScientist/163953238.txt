@@ -1,0 +1,142 @@
+Role: Senior Data Scientist - Clinical Data ScienceAssignment: Clinical Data Science, Digital Health & AnalyticsLocation: Boston, MAAssignment CapsuleDigital Health and Analytics is a new area of Humana, focused on transforming the health experience for Humana members through the use of technology and analytics. We are looking for a Senior Data Scientist who will design studies and utilize cutting edge predictive modeling techniques, to rigorously test hypotheses, and complete analyses to turn data into actionable solutions. Located in Humanas new Studio H location in Boston, the Senior Data Scientist will work cross-functionally and collaboratively with teams across Humana utilizing cutting edge machine learning techniques to implement and execute test and learn projects. The ideal candidate will have experience conducting experiments in an applied healthcare setting, demonstrated innovative and creative methods for overcoming testing constraints, as well as successfully applying machine learning techniques to address business needs.The Senior Data Scientist uses mathematics, statistics, machine learning, business analysis, and technology to transform high volumes of complex data into advanced analytic solutions. The Senior Data Scientists work assignments involve moderately complex to complex issues where the analysis of situations and data requires an in-depth evaluation of variable factors. The Senior Data Scientist uses machine learning and artificial intelligence to develop sophisticated models, using both structured and unstructured data sets for analysis.As a Senior Data Scientist, you will: Role Essentials Role Desirables Additional Information: This position is based in Boston and will require occasional travel (approximately 10%) to Humana headquarters in Louisville, KY and other Humana locations.Scheduled Weekly HoursDescriptionResponsibilitiesRole:Assignment: Location:ResponsibilitiesAssignment CapsuleDescriptionResponsibilitiesRole Essentials Role Desirables Additional Information: Scheduled Weekly HoursScheduled Weekly Hours
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Data Scientist jobs in Boston, MA Science jobs in Boston, MA Data Scientist jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Use techniques from supervised and unsupervised machine learning, statistical analysis, Or predictive modeling to deliver business insights to prospects and customersWork directly with customers to educate them on moving beyond BI and training their internal resources to execute advanced forms of analyticsCreate reusable implementations of statistical tests and models using the available technologies in the ecosystemWork with the academic and business community to develop new techniques and to contribute to research in the area of advanced analytics on large databasesGenerate new product requirements for the engineering group to enhance the analytics capabilities of the databaseAssist in customer engagement management, requirements definition, project scoping, timeline management, and results documentation to ensure professional relationship managementUse machine learning techniques to assess outcomes of interventions, clinical programs or marketing campaignsBuild smart systems that learn from health intervention outcomes over timeMasters Degree in Math, Statistics, Computer Science, Engineering or related field and 2 years of related experience3 years technical experienceExperience working with and analyzing various types of data using R, Python or similar softwareExperience in using mathematics, statistics, modeling, experimental study design, business analysis, and technology to transform high volumes of complex data into advanced analytic solutionsExperience using machine learning techniques such as neural networks, random forest, etc.History of solving problems, creating solutions and driving change within a teamNaturally curious and comfortable with ambiguityDemonstrated strategic and analytical thinkingClear and concise oral and written communication skills, with a proven ability to translate complex methodologies and analytical results to higher-level business insights and key takeawaysStrong interpersonal and consulting skillsPhD Degree in Math, Statistics, Computer Science, Engineering or a related field5+ years technical experienceExperience in Big Data environment specifically PySpark, Scala, or Microsoft AzurePreviously applied machine learning to help a firm reach objectivesWork experience in a health care and/or Insurance setting

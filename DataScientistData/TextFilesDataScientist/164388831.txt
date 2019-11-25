@@ -1,0 +1,142 @@
+We are looking for a Data Scientist to help leverage our growing user base and quickly increasing dataset to prioritize product and content development, identify optimization opportunities, and automate data flows and analyses for key decision makers. This role will be responsible for creating dashboards, designing experiments, presenting your findings through data visualizations, as well as contributing to the design of recommendation systems. In this role, you will also work to increase the reliability and trustworthiness of our data by identifying data quality issues and the sources and magnitudes of such problems. Job Responsibilities:Experience Required:Experience Desired:SDL2017
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Data Scientist jobs in San Francisco, CA Science jobs in San Francisco, CA Data Scientist jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Develop actionable reporting, analysis, and core metric dashboards to help business and technical teams discover insights and increase understanding of our products and servicesBuild & maintain data visualizations that empower decision makingScope and manage ad hoc analytics projects driven by the needs of the business such as growth projections, quality analysisReconcile data between various systems, find opportunities to innovate, and drive improvementsA minimum of one year of Data Science experience in a technology or research industryExcellent at uncovering problems, figuring out why they are happening, and seeing them through to resolutionAble to systematically break a complex problem down into a set of testable hypotheses, then test themAbility to write complex SQL/data queries and visualize them for engineering and business teamsExperience in high-level programming languages and tools for analysis (Python, R, Tableau, etc.)Excellent communicator, both written and verbalBalance the need to move quickly with diligence and attention to detailExperience collaborating with data engineering and infrastructure teams to influence systems / database choices and designBA/BS/BE in a quantitative field (Statistics, Computer Science, Ops Research etc.)Masters or PhD in Statistics/MathematicsExperience building recommendation systems Experience in a product-focused role at a social media and/or mobile technology companyAR/VR experienceExperience working at a fast-paced startup

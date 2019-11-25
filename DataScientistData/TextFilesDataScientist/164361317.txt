@@ -1,0 +1,142 @@
+Title: Operations Research (OR) ScientistDepartment: Advanced Analytics & Development (AA&D) - Engineering Required Education: Ph.D.Career Level: Experienced/non-manager Classification: Exempt Location: San Diego, CARelocation: Not available Send Resume to: viviant@deccanintl.com Driving innovation in Fire and EMS analytics, Deccan International provides comprehensive turnkey software solutions through constant innovation, domain expertise, and strength in Operations Research. Position Description:Deccan’s OR Scientist/Data Scientist will enhance current applications for public safety as well as develop new products. This hands-on job will involve close collaboration with other OR and software development staff, analysts who configure the applications for clients, and project managers who directly interact with clients to understand and communicate their needs. The products span the range from strategic logistics planning applications requiring programming, advanced data mining including predictive modeling and forecasting, optimization, and Monte Carlo simulation models, to real time applications requiring fast heuristic-based solutions. Some models need to be enhanced while others will be developed from scratch. Required Qualifications:Who should apply:  EOEDeccan International is committed to hiring and retaining a diverse workforce. We are proud to be an Equal Opportunity Employer, making decisions without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, age, veteran status, disability, or any other protected class.SDL2017
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Data Scientist jobs in San Diego, CA Science jobs in San Diego, CA Data Scientist jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Ph.D. in Operations Research, Industrial Engineering, or Computer Science with 0-2 years of experience.Ability to program in at least one of the following object-oriented programming languages: C# (preferred) C++, or Java. (Ability to program in Python, especially with scikit-learn, is desired but not required.)Substantial background in algorithm design and developing heuristicsSubstantial background in mathematical modelling.Proficiency in statistical/machine learning based analysis and modeling is preferred; including use of open source machine learning library.Those who have the desire and ability to learn and understand the dynamics and culture of public safety response operations, including how calls for emergency medical services are classified, how various emergency response apparatus are dispatched to them, and how field personnel handle emergencies and other responsibilitiesCandidates with a strong desire to understand and gain meaning from dataProactive, ambitious individuals who take pride in what they do and thrive on continuous improvementThose who have a desire to convert algorithms and models into real solutionsThorough, thoughtful innovators who think through and fully vet solutions before implementing themTeam players who are willing to go above and beyond to get the job done

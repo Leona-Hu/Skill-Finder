@@ -1,0 +1,146 @@
+Available Position: Data Scientist IThe Butovsky Laboratory – Oleg Butovsky, Ph.D. (PI)Ann Romney Center for Neurologic Diseases, Brigham and Women’s HospitalHarvard Medical SchoolDr. Butovsky’s lab is internationally recognized for redefining microglia and identifying novel therapy targets. Butovsky lab has made seminal discoveries including the identification of the TGFβ-dependent homeostatic M0-microglia and the second major neurodegenerative MGnD-microglia phenotype, which is regulated by TREM2-APOE pathway. These findings led to the establishment of national and international collaborations to develop microglial targets to treat neurodegenerative diseases. The Lab investigates: 1) environmental cues, early life stress, and genetic factors which affect microglial functions for development of AD and other neurodegenerative diseases; 2) developing a novel transgenic mouse model to specifically target/modulate neurodegenerative-microglia subset; 3) replacing microglia carrying major AD gene risk factors with functional microglia utilizing iPSCs; 4) reprogramming human blood monocytes into microglia-like cells to restore microglial functions; 5) modulating and restoring functional crosstalk between microglia-monocyte and microglia-adaptive immunity in neuroinflammation; 6) identification of immune cell-based biomarkers predictive of ALS progression.Our goal is to decipher the complex molecular interactions in microglia in neurodegenerative diseases in order to identify key regulators to modulate gene expression and functions in microglia which could provide a path to treating neurodegenerative disease including Alzheimer’s disease, Amyotrophic lateral sclerosis and Multiple sclerosis. The laboratory applies computational and bioinformatic methods to understand the role of microglia in neurodegeneration including 1) analysis of large datasets such as ssRNAseq, scNucSeq, 2) single cell-targeted proteomics (CYTOF/AURORA) datasets, 3)TMT-quantitative proteomics and phosphoproteomics, 4) mapping the transcriptional machinery and network of signaling pathways that control gene expression in microglia and myeloid cells (peripheral innate immunity). The ultimate goal is to identify drug target and the gene on which it acts, allowing us to advance new drug candidates into development.About The JobData Scientist I, the ideal candidate will have excellent analytical and troubleshooting skills and knowledge of software development methodologies and systems design to 1) solve complex and large-scale problems to make important scientific and technical contributions to medicine, 2) conduct biomarker-based outcomes analyses, examining genomic predictors of clinical outcomes, clinical utility of next-generation sequencing, and the impact of diagnostics on patient care. The Data Scientist I will team with internal and external collaborators which will provide the datasets.Key Responsibilities·       Design, execute and present data query results of large genomics, clinical and process datasets to identify correlating information. ·       Design and develop standardized data templates for reporting and visualization of validation study results. ·       Collaborate with the lab team/collaborators to evaluate transcriptomic data·       Generate reliable and reproducible data in a timely manner and present data to the team·       Read and apply relevant scientific literature·       Contribute to writing of publications, presentations, and patentsQualificationsBasic Qualifications:·       Master’s Degree in Statistics, Bioinformatics, Computer Science, Biomedical Engineering, Mathematics, or related field OR- ·       Ph.D. in Statistics, Bioinformatics, Computer Science, Biomedical Engineering, Mathematics, or related field. Preferred QualificationsFor more information about Butovsky Lab, please visit us at http://butovskylab.bwh.harvard.eduInterested candidates are invited to send:1) a brief cover letter explaining their background and motivation for applying for this post and detailing how they feel their skills can enrich the group’s activities, 2) a full CV including the contact details of three referees as a combined pdf document including your cover letter and CV, to Oleg Butovsky Ph.D., Associated Professor of Neurology, Harvard Medical School (obutovsky@rics.bwh.harvard.edu).
+
+            Location/Region: Boston, MA
+        
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Data Scientist jobs in Boston, MA Science jobs in Boston, MA Data Scientist jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+1+ year of work experience in the fields of data science, data analysis, biostatistics, or bioinformatics.Expertise in biostatistics data sources and analysis (i.e. IPA).Experience with the statistical analysis of analyzing clinical data, particularly survival and outcomes analyses.Experience with the statistical analysis oftranscriptomic analysis with preference for single cell RNA/proteomic (CYTOF/AURORA) analyses.Knowledge of Next-Generation Sequencing (NGS).In addition, the ideal applicant should have a strong programming background (e.g. Python, R, SQL, MATLAB). Ability to collaborate within cross-functional team.Excellent problem-solving skills including critical and analytical thinking.Excellent communication, leadership, and project management skills.Demonstrated scientific writing skills and strong verbal communication skillsDemonstrated ability to independently design and execute experiments, interpret data, and identify appropriate follow-up strategies.Proven track record of teamwork, adaptability, innovation, initiative, and integrity.

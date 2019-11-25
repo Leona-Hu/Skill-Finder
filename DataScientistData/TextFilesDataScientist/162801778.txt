@@ -1,0 +1,142 @@
+ Who We’re Looking For:National Debt Relief (NDR) is currently seeking an inquisitive, highly motivated, and creative Data Scientist who is passionate about helping customers get out of debt. The ideal candidate will have hands on experience transforming unique data into amazing products. At scale.At NDR you will have access to an enormous amount of high-value business activity data including unstructured and semi-structured records around the sales process as well as post sales customer activity. You will participate in the end-to-end processes of machine learning, from proof of concept to deploying models in production. You will be asked to experiment, and conduct research work geared towards new product development.Principle Duties & Responsibilities:· Work with large, complex datasets and solve difficult, non-routine analysis problems, applying advanced analytical methods as needed. Conduct end-to-end analysis that includes data gathering and requirements specification, data processing, analysis, and deployment to production.· Research and develop models to improve the quality of NDR user facing products; example application areas include lead scoring and end-user behavioral modeling.· Make business recommendations with effective presentations of findings at multiple levels of the business through visual displays of quantitative information.· Develop processes and tools to monitor and analyze model performance and accuracy· Interact cross-functionally with a wide variety of leaders and teams and work closely with Engineers and Product Managers to identify opportunities for improvement.· Be fiercely competitive and maintain a sense of urgency, creativity, and curiosity for how to continue to improve internal and customer facing processes.Qualifications:· BA/BS in a quantitative discipline (Computer Science, Statistics, Bioinformatics, Math, Physics, Engineering) or an equivalent practical skillset.· Industry experience writing code (e.g., Python, Pytorch, SQL) and taking ML models/ algorithms to production.· 3+ years of expertise using advanced machine learning algorithms and statistics: clustering, decision tree learning, ensemble methods, regression, etc. on large data sets as well as a strong understanding of their real-world advantages/drawbacks. The successful candidate will have regularly used Python and SQL to extract data, design ETL flows and derive insights.· A love for data - this is what we do. We are looking for people who are excited about different and unique data sets, and all the ways that they could be used to improve our business.· Demonstrated skill in selecting the right statistical tools given a data analysis problem.· Excellent written and verbal communication skills for coordinating across teams· Startup experience while not essential is preferred.What We Offer:We believe in a team-first culture, full of rewards and recognition for our employees. We are dedicated to our employees’ success and growth within the company, through our employee mentorship and leadership programs.Our extensive benefits package includes:About National Debt Relief:National Debt Relief is one of the country’s largest and most reputable debt settlement companies. We are made up of energetic, smart, and compassionate individuals who are passionate about helping thousands of Americans with debt relief. Most importantly, we’re all about helping our customers through a tough financial time in their lives with education and individual customer service.We are dedicated to helping individuals and families rid their lives of burdensome debt. We specialize in debt settlement and have negotiated settlements for thousands of creditor and collections accounts. We provide our clients with both our expertise and our proven results. This means helping consumers in their time of hardship to get out of debt with the least possible cost. It can also mean conducting financial consultations, educating the consumer, and recommending the appropriate solution. Our core services offer debt settlement as an alternative to bankruptcy, credit counseling, and debt consolidation. We become our clients' number one advocate to help them reestablish financial stability as quickly as possible.National Debt Relief is a certified Great Place to Work®!National Debt Relief is an equal opportunity employer and makes employment decisions without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability status, or any other status protected by law.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Data Scientist jobs in New York, NY Science jobs in New York, NY Data Scientist jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Generous Medical, Dental, and Vision Benefits401(k) with Company MatchPaid Holidays, Volunteer Time Off, Sick Days, and Vacation10 weeks Paid Parental LeavePre-tax Transit BenefitsDiscounted Gym MembershipCiti Bike Annual Membership DiscountsNo-Cost Life Insurance BenefitsVoluntary Benefits OptionsASPCA Pet Health Insurance Discount

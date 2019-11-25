@@ -1,0 +1,142 @@
+Tiger Analytics is an advanced analytics consulting firm. We are the trusted analytics partner for several Fortune 100 companies, enabling them to generate business value from data. Our consultants bring deep expertise in Data Science, Machine Learning and AI. Our business value and leadership has been recognized by various market research firms, including Forrester and Gartner.We are looking for top-notch talent as we continue to build the best analytics global consulting team in the world. For the current requirement, we are looking for a Data Scientist - Optimization to support, maintain, and enhance the optimization models developed for R&D and supply of products using IBM-Decision Optimization Center (DOC).Responsibilities:RequirementsBenefitsSignificant career development opportunities exist as the company grows. The position offers a unique opportunity to be part of a small, challenging, and entrepreneurial environment, with a high degree of individual responsibility.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Data Scientist jobs in Saint Louis, MO Science jobs in Saint Louis, MO Data Scientist jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Responsible for successful scenario creation and complete input/output analysis for various simulation models across clients R&D and supply organizationsWork with client stakeholders to understand key business problems, determine solution requirements, build statistical / ML / predictive models, and fine-tune for accuracySuccessful compilation of results from various what-if scenarios using clients data science platforms; support clients Decision Science team to deliver the simulation solutions to the business teams were performedEnsure models are deployed and deliver projected business valueWork as part of a global team to solve problems in a computationally efficient mannerModel documentation providing details where enhancements, bug fixes, or other modification3-5 yrs experience in delivering data science solutions / servicesProficient with developing large scale optimization models and heuristics using IBM CPLEX and/or IBM Decision Optimization Center (using CPLEX)Validation of large scale optimization models using unit test cases and/or other applicable testingMaintaining and supporting optimization models developed by other data scientistsRendering the solutions of the optimization models using appropriate visualizationsCreation of delta analysis for various what-if scenariosExperience on Python/R/Matlab preferredAbility to engage with the client stakeholders to understand business problems, ideate &converge on solution approach and develop analytical solutionsAbility to work with global teams and communicate effectivelyGraduate degree in Operational Research, Data Science or Data Analytics or a related quantitative fieldPreferred location is St Louis, MO. Other US locations can be considered on case-by-case basis for outstanding candidates.

@@ -1,0 +1,142 @@
+Join a world-class software development team and help build GENESIS, our cloud platform that is proving IoT/AI/ML can successfully take manufacturing operations to the next level. GENESIS is now deployed at multiple manufacturing plants. It processes plant data in real time to increase operating uptime while also reducing maintenance costs. Its cognitive diagnostics engines enable junior technicians to do the work of senior techs. Underlying GENESIS technology is based on Georgia Tech research. We are located adjacent to the Georgia Tech campus in Tech Square, the epicenter of Atlanta's technology boom.Job DescriptionDecisionIQ is looking for an experienced Data Scientist to join our world to maintain, monitor, and improve a real time, fully scalable, cloud-based, comprehensive data processing and prediction platform utilizing a suite of proprietary optimization and machine learning algorithms. You will participate and/or be responsible for the following:RequirementsStrong experience in many of the following disciplines:Other RequirementsBenefitsWe are a fast growing company and there is great opportunity for advancement. We will tend to promote from within because the expertise you will acquire around AI/ML will make you uniquely qualified!
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Data Scientist jobs in Atlanta, GA Science jobs in Atlanta, GA Data Scientist jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Maintain, update, and improve existing algorithmsDevelop software to automate custom data unification and data processing solutionsResearch and implement cutting edge machine learning and statistics algorithms of your own conceptionDevise new methodologies for solving unique data science problemsTranslating theoretical mathematics and statistics from our PhD research team into functioning, deployable modelsCoordinate with our data engineering team for onboarding customer dataA variety of machine learning paradigms including Supervised Learning, Unsupervised Learning, Reinforcement LearningTime Series AnalysisAnomaly DetectionNeural Networks (Keras, Tensorflow, Theano, PyTorch, etc.)Scikit-Learn, Scipy, Numpy, PandasSignal or Image ProcessingOptimizationPython DevelopmentProduction quality software developmentMinimum 3 years of coding experienceDegree in STEM field OR work portfolio demonstrating outstanding data science expertise Fluent in EnglishUS citizen, or visa in place that permits you to work in USWork in Atlanta, or willing to relocateCompetitive base salaryCompany bonus based on performanceStock optionsFlexible paid ten vacation days, five personal days and five holidaysMedical insurance, United Health Care Platinum PlanDental, vision insuranceParking paidHigh growth organization, rapid advancement opportunities, merit basedHighly collaborative, positive work culture

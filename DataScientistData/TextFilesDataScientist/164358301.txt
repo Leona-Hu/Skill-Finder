@@ -1,0 +1,142 @@
+JOB SUMMARY: Material Handling Systems (MHS) has a direct hire for a Reliability Data Scientist opportunity available at our Atlanta, GA office. MHS is known throughout the material handling industry and well-recognized as the preferred integrator of intelligent material handling conveyor systems. MHS provides comprehensive turnkey design, build, and deployment services for a complete range of custom-engineered and designed handling systems for distribution, manufacturing, assembly, and courier applications.As a Reliability Data Scientist, you will be responsible for the analysis of complex data sets including but not limited to timeseries, static classifications, and failure events. Your analysis would include the design of novel algorithms and approaches to drawing important insights out of our varied data sources. Your work will require inputs from subject matter experts, direct customer experience, and product development leadership. The output of your analysis will be embedded into an industry leading product for predicting failure and optimizing maintenance for industrial assets.You will be working with a dynamic and collaborative team that integrates a wide array of technologies into a cohesive software product and leaves a foot-print in the smart IoT products industry.ESSENTIAL FUNCTIONS:QUALIFICATIONS:SKILLS/ABILITIES: This job description describes the general nature and level of work expected of a person assigned to this position. All job requirements listed indicate the minimum level of knowledge, skills and/or ability deemed necessary to perform the job proficiently. Employees may be required to perform any other job-related duties as requested by their supervisor.It is the policy of Material Handling Systems, Inc (MHS) and its affiliated companies to provide equal employment opportunity (EEO) to all persons regardless of age, color, national origin, physical or mental disability, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, genetic information, marital status, pregnancy or pregnancy-related condition, status with regard to public assistance, veteran status, citizenship status (if authorized to work in the U.S.), or any other characteristic protected by federal, state or local law. In addition, MHS will provide reasonable accommodations for qualified individuals with disabilities.SDL2017
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Data Scientist jobs in Atlanta, GA Science jobs in Atlanta, GA Data Scientist jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Cleaning, preprocessing, and verifying data from our various sourcesDevelopment of novel algorithms taking inputs from numerous data sources using skills in feature selection and statistical analysis for both regressions and classification systemsInterfacing with subject matter experts to account for their experiential understanding of the industryBuilding high quality models to be integrated into our end productAutomation of model maintenance and performance trackingEnsuring that implementation team understands the high level approaches by creating comprehensive documentation4+ years experience as a data scientist implementing models into production systemsFormal education or coursework in Mathematics, Computational Engineering, or Data Science (PhD or Masters Level)Deep understanding of statistics and machine learning techniques / algorithms for regressions, forecasting, and classificationsExperience querying from SQL DatabasesExperience with common data science tools and packages (Python [numpy, pandas, sklearn], Matlab, R)Experience with Python is a huge plus for integrating with product teamExperience with data visualization tools for presenting out finding (d3.js, Tableau, Excel)Experience in Agile/Scrum work environments with associated tools (Jira, Confluence)Domain knowledge in material handling, industrial mfg., or logistics is ideal

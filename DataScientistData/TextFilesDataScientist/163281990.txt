@@ -1,0 +1,142 @@
+C2FO is seeking a senior data scientist to help analyze, innovate, and optimize our capital markets.  The scale of the problem (and opportunity) is enormous, as we have delivered more than $15 billion in working capital and over 100 million days of accelerated payment across the globe.   This year, more than a dozen global companies representing more than $400 billion in revenue have joined the market.  This position represents a high visibility, high impact opportunity that will directly influence how decisions are made around some of our thorniest problems.  Primary Responsibilities  Requirements  Big Pluses  A few more things to know: You’ll be working with a world class data science team and will be encouraged to keep up with relevant academic research and promising open source projects. We’re huge proponents of ongoing education and personal development so we make it a point to budget for conferences and are always proud to support your speaking/publishing/patenting interests.  We are a driven team with big ambitions to change the world. We are seeking individuals who are truly passionate about their work.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Data Scientist jobs in Kansas City, MO Science jobs in Kansas City, MO Data Scientist jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Partner closely with the product and engineering teams to define problems and implement scalable solutions. Develop and experiment with new algorithms and models seeking to optimize network growth and long-term value. Learn about various aspects of the business identify opportunities for improvement. Analyze the story behind the numbers and articulate to present solutions. Seek out new and interesting datasets to complement and enrich our existing data. Inform, influence, support, and execute the company’s product roadmap. 3 years’ experience Master’s degree in statistics, mathematics, finance, physics, computer science, or a related field Expertise in statistics, probability theory, and machine learning Fluency in a statistical programming language such as Python, R, or Julia Versed in experimental design (A/B testing, multi-armed bandits) Proficiency working with relational databases (PostgreSQL, MySQL) Understanding how to deploy, monitor, refine, and retire models over time Scrappiness and can thrive in a semi-autonomous environment. Be an advocate for data-driven decision making Strong communication skills Highly skilled with data visualization (Matplotlib, ggplot2, D3, Plotly) Familiarity with non-relational data stores (Redshift, Neo4J, Parquet) Expert in time series analysis and various forecasting techniques Knowledge of casual impact modeling Experience with deep learning frameworks (TensorFlow, Keras, Caffe) 

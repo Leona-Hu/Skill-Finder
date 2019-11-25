@@ -1,0 +1,142 @@
+AWM Smart Shelf is reinventing retail and looking for smart, talented people to help build on our current and future data and analytics platforms and pipelines. Our solutions encompass a wide range of data like:The ideal candidate will have the ability to use modern techniques to:Job Duties:Required Skills:Skills Which Are A Plus But Not Required:What We Offer
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Data Scientist jobs in Aliso Viejo, CA Science jobs in Aliso Viejo, CA Data Scientist jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Real-time computer vision and deep learning that enables an understanding of what shoppers and workers are doing (such as movement, actions, and product selection)AWM Frictionless™ Shopping (cashierless checkout)Demographic data captured via anonymous facial analysisAds / video playback and effectivenessProduct placement and pricingUnderstand and interpret data, reaching meaningful conclusionsPredict optimizations both in real time and via big data processingHandle large and rapidly growing data setsManual Validation of AI models and data pipelinesPerforming Ad-hoc analysis on proprietary datasets for internal and external stakeholdersPerforming exploratory analysis on data to find trendsAnnotating proprietary datasetsTraining and evaluating various machine learning modelsContributing to the development and maintenance of data pipelines (in SQL, Python, and others)PythonSQLMachine learning (Supervised and Unsupervised)Deep learning frameworks (e.g. Keras, Tensorflow, PyTorch, etc.)Statistics (solid understanding)Experience cleaning datasetsGit, or other version control frameworkStrong problem-solving skillsUndergraduate or higher degree in data science, statistics, computer science, or other relevant areasUnderstanding of time series / sequence analysisPowerBI, Tableau, or other dashboarding softwareUnderstanding of, or experience with, retail data and environmentsExperience distilling and communicating insights to people that aren’t data scientists in a way that can be readily understoodHadoop / Spark or another mainstream big data platformUnderstanding of scrum / agile development processesPaid vacation and sick timeHealth benefitsA dynamic environment where you can make an impact using latest technologiesOpportunity for growth401k planPotential for employee stock option plan participation

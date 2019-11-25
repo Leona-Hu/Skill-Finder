@@ -1,0 +1,142 @@
+Responsibilities:Ideal Candidate will have:Requirements:Sense Corp powers insight-driven organizations.We accelerate the entire transformation life cycle, from strategy through implementation. We Deliver outcomes by transforming data into insights. We unlock value in your most critical interactions with digital transformation.Our people, culture, and how we engage with our clients are differentiators. Brilliant, Creative, Human, and Fun exemplify who we are. We are regularly recognized as a Best Place to Work by Austin, Dallas, and St. Louis Business Journals. With operations in Austin, Atlanta, Columbus, Dallas, Houston, San Antonio, and St. Louis we serve mid-market to Fortune 50 companies.The Sense Corp CompassWe may be the only management consulting firm in the country where being brilliant isn’t enough to land you a job. Sense Corp people must be brilliant, creative, human, and fun all at once. In other words, we hire terrific, well-rounded people. It’s one reason clients love working with us. And it’s why we enjoy working with each other. We may not sound like typical consultants but that’s OK. We don’t think like them either.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Data Scientist jobs in Saint Louis, MO Science jobs in Saint Louis, MO Data Scientist jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Leverage existing team’s knowledge to:Develop relevant use casesProve, document and present insights / recommendations to key stakeholdersDevelop relevant use casesProve, document and present insights / recommendations to key stakeholdersSleuth through large amounts of data to uncover patterns, correlations, and insights.Build solutions / framework to support use cases.Think creatively to find optimal solutions to our complex, typically unstructured problems.Knowledge of customer-centric business models preferred.5+ years of experience working as a Data Scientist.3+ years of experience working with truly large-scale data.Advanced SQL skills.Comfort and agility in communicating complex statistical descriptions and interpretations to a non-expert audienceExpert-level abilities building and deploying models on large-scale customer / subscriber data.Expertise in R or Python (including importing/exporting data, data wrangling/transformations, model building, and data visualization)Experience building and deploying production-grade models.Experience with MPP databases, such as Snowflake, Redshift.Work with structured dataset and build a GLM or MARS or XGBoost model to show the significance and relative strengths of drivers and controls.A degree of comfort at the command line. That means a thorough understanding of basic file-system commands, as well as the ability to connect to  remote machines and perform data manipulation and analysis.Deep understanding of and strong ability to interpret model outputsBachelor's Degree

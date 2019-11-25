@@ -1,0 +1,142 @@
+17204 IDE Tools Developer  Our client is worldwide leader in information technologies with products that include electronic, automotive, systems, and services. They have a requirement for an IDE Tools Developer. This 6+ months contract role located in Santa Clara, CA.  Responsibilities: Qualifications Logistics:  Interested in Applying? Please click apply with your most current resume and anything else you d like us to know about you. You should also feel free to email Nina Schindler at (408-400-2299)SDL2017
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Data Scientist jobs in Santa Clara, CA Science jobs in Santa Clara, CA Data Scientist jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Developing tools and utilities for data scientists to speed up creation of IoT solutions for customers. Tools development for analytics Developing plug-ins Developing source code management and AI/analytics packages management system using/enhancing OSS framework. Developing Continuous Integration/Continuous Deployment application and enhancing existing OSS DevOps framework. Developing development environment tools using/enhancing existing OSS IDE. Programming Languages to be used on our project: Kotlin, Python, Javascript Frameworks/Tools to be used on our project: Git/Gitlab, PyCharm/IntelliJ, Docker, Kubernetes 5 years of software development experience with local environment applications. strong Python and Javascript coding skills Strong Kotlin (* BIG PLUS) Very familiar with working with IDEs and building plug-ins to IDEs like IntelliJ, Spyder, PyCharm ( especially IntelliJ) Local candidates-in-person is required Term: 6+ months contract 

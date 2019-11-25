@@ -1,0 +1,142 @@
+We are seeking for a Data Scientist with good Data Mining and Data Validation experience. Client is looking for candidates with expert knowledge in SAS,  Modeling and analysis.  For Modeling they wants somebody with full cycle development and implementation experience. Experience with the telecom industry is a huge plus. ESSENTIAL DUTIES AND KEY RESPONSIBILITIES: EXPERIENCE AND EDUCATIONAL REQUIREMENTS: 
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Data Scientist jobs in Chicago, IL Science jobs in Chicago, IL Data Scientist jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Data Mining Models – Prediction of customer behaviour i.e. voluntary churn, likelihood of payment, response to an outbound campaign, fraudulent behaviour.Segmentation Models – Customer/ Geographic Segmentation Identification i.e. Target Segments, Store/Market Segments.Forecasts – Prediction of enterprise metrics i.e. Defects, Gross Ads, Customer Base, Calls to Care, Device Sales and Bad Debt Expense.Other analytical techniques – Performance of scenario-based outcomes and predications i.e. Device Price Elasticity, Predicted Impact of a Credit Deposit Change, Predicted Impact of Device Price Change.Responsible for creating and Operationalizing Models and other Advanced Analytics.Executes and provides technical best practices and mentorship to drive the entire modelling process (Requirements, Design, Delivery and Measurement (Accuracy Rate and ROI)) of Predicted Models, Forecasts and other Statistical Techniques, these outputs can be leveraged in a variety of ways.Bachelors and 7+ yrs. relevant experience required in Statistics, Math, Finance or other quantitative field orMaster’s degree and 5+ years of post-degree experience in Statistics, Math, Finance or other quantitative field (preferred).Advanced modelling (SAS) and data manipulation skills.Advanced knowledge of the entire modelling process (design, develop, test, implement, measure).Proficient leveraging financial techniques i.e. ROI, NPV and Cashflow to measurement the effectiveness of the teams output. 

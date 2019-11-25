@@ -1,0 +1,141 @@
+A New York-based fixed income market maker is looking for a Statistical Data Analyst with advanced data mining and data scrubbing skills to support the firm’s systematic filtering systems and predictive models that can be used to analyze investment grade and high yield credits and to perform quantitative analysis that will provide valuable insights for the firm’s market-making strategies. This role works closely with and supports the firm's fundamental credit analysts and corporate bond trading desk. This data analyst role requires a combination of strong math, statistical and technical skills.  Responsibilities: · Big Data Credit Research- Build and develop systematic filtering systems to monitor US High Yield and Investment Grade Corporate bond credits and spreads. · Apply statistical analysis to mine structured and unstructured credit data to identify trading anomalies, relative value opportunities, and rich/cheap analysis. · Data scrubbing of structured and unstructured corporate credit data · Apply normal distribution analysis to predictive models for pricing corporate bonds · Apply time series modeling to find a new way to measure momentum for pricing corporate bonds  Requirements: · Quantitative Degree Computer Science, Stats, Math, Finance from a top university · Must have Fixed Income Experience · Must have a Strong Statistical Background and Machine Learning experience · 4+ years of statistical data analytic experience · Strong Data Mining/Data Scrubbing and Data Manipulation skills · Must have -Proficiency in analysis (R) packages, programming languages (e.g. Java, Python,) as well as the ability to implement, maintain, and troubleshoot big data infrastructure · Strong SQL and Oracle PL experience and skills · Experience in time series analysis, sequential data, and predictive modeling Keywords: R, Credit Data, Statistical Data Mining, Data Scrubbing, Corporate Bond Data, Pricing Data, Data Science, Machine Learning, Business Intelligence, Text Mining, Python, Scripting, Data Analyst, Python, SQL  SDL2017
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Data Scientist jobs in New York, NY Science jobs in New York, NY Data Scientist jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+

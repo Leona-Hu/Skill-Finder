@@ -1,0 +1,142 @@
+Job Summary:The Data Scientist researches and implements approaches to model complex physiological, tabular, and/or imaging data and discover insights through the use of statistical, algorithmic, mining, and visualization techniques under the direction of the Director/Principal Researcher. Works with other Data Scientists, Analysts and Engineers to improve existing models, workflows, and databases using quantitative methods.Primary Responsibilities:Core Competencies/Skills: Broad knowledge of software applications; Ability to contribute to a team effort; Self-starter with a positive attitude, intellectual curiosity, and a passion for analytics; Logical approach to problem solving; Excellent communication skills; Attention to detailWork Environment: This job operates in a professional office environment and uses standard office equipment. Low to moderate noise level.Physical Demands: Ability to sit for long periods of time; manual dexterity to operate computer; vision requirements include ability to adjust focus, depth perception, peripheral vision, distance vision and close vision. Ability to hear, speak, read, answer the telephone, reach, bend, stand, walk and stoop. Ability to lift 30 lbs. Travel up to 5% of the time both domestic and international. Occasionally hours may be long, early, late or include the weekend.RequirementsMinimum Qualifications:Preferred Qualifications:Security Clearance: The start of the security clearance process is up to the discretion of the company and may begin no later than the successful completion of the first 90 days of employment, and commensurate with job requirements and the needs of the business. Successful completion of the security clearance process may not be required for every position but all candidates must be willing to submit to the process if requested by their manager according to the requirements of the position and business needs.CliniComp, Intl. is an equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status. We comply with the Americans with Disabilities Act and consider reasonable accommodation measures that may be necessary for eligible applicants/employees to perform essential functions. EEO/AA/M/F/Veteran/Disabled
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Data Scientist jobs in San Diego, CA Science jobs in San Diego, CA Data Scientist jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Research and develop AI/Deep Learning algorithms for electronic health care applications.Clearly communicate the design and operation of implemented algorithms (short reports, diagrams). Work expertly with intermediate data structures (e.g., SQL databases, flat files, NoSQL databases)Implement neural network models (e.g. CNNs, RNNs), machine learning algorithms, and statistical analyses in Python using PyTorch, TensorFlow, scipy, sklearn, etc.Maintain breadth of knowledge in latest developments in AI/machine learning and industry best practices. Optimize algorithm parameters, and work with data engineers to ensure the usage of high quality data and correct application of statistical methods and assumptions.Improve the CCI internal C/C++ libraries and integrate the library with AI frameworks.Contribute to and maintain documentation on the use of developed tools, machine learning cluster infrastructure, software, and algorithms. Use internal ticketing system tools (Softzilla and Service Direct) to report and document work according to CCI standards and protocols. Work in collaboration with other departments for the deployment of software releases and updates.Contribute to administering our R&D infrastructure, including recommendations for hardware.Support, improve, and optimize analytical software as needed.Masters degree or PhD in a quantitative field such as data science/machine learning, mathematics, physics, statistics, engineering, computational neuroscience/biology or computer science. Deep understanding of AI/Machine Learning theory, algorithms, and techniques as evidenced by completion of foundational Deep Learning and other relevant coursework (linear algebra, advanced calculus, mathematical optimization, advanced statistics, signal processing, information theory, AI/Machine Learning classes, etc) Substantial experience designing and implementing neural networks in Python using PyTorch or TensorflowExperience working with a range of real-world data types at all stages of the data science/ Machine Learning pipeline (data fetching, pre-processing, visualization, modeling, interpretation, etc.)Ability to distill complex ideas/results to their core essence and communicate clearly to non-specialistsMasters or Ph.D., in Computer Science or related field. 2-5 years of relevant quantitative and qualitative research and analytics experience. Presentations at Top-tier AI, Deep/Machine Learning conferences and/ or Publications in AI, Machine/Deep Learning peer-reviewed journals. Enthusiasm for AI/Deep learning demonstrated by Kaggle contributions, github commits, and other relevant community activitiesWorking knowledge of high performance distributed computing or code-optimization through parallelization (GPU, clusters); Git, or other method of version control.Proficient in C/C++Solid understanding of SQL query development (MySQL, SQLite, and/or Postgres).Knowledge of the streaming technique (apache kafka).U.S. Citizenship with the ability to obtain DoD ADP and VA High Risk Background clearance.

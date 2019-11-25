@@ -1,0 +1,142 @@
+Jump start your Data Scientists career with the leading plastic pipe manufacturing company in the US.Data Scientists interpret and apply data in analyses, and explain findings to business audiences typically, to improve products and processes. Projects support business decision making for multiple business functions. Designs, creates, implements and manages predictive analytics that leverage large and varied data sets, using a wide range of analytical tools, methods and platforms.SUMMARYThe Data Scientist implements machine learning algorithms, collects and analyzes information from multiple sources, identifies unique opportunities to locate and collect new data, and communicates data findings to both business and IT leaders.ESSENTIAL DUTIES AND RESPONSIBILITIES SUPERVISORY RESPONSIBILITIESThis position has no supervisory responsibilities.QUALIFICATIONSTo perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.EDUCATION and/or EXPERIENCEBachelor’s degree in Computer Science, Statistics, Applied Math or related field and 5 years practical related experience in machine learning and statistical modeling. Equivalent work experience may be considered in lieu of a degree. Master’s degree preferred.Experience implementing real-time machine learning and data mining algorithms in large scale environments, and collecting data from/exposing data to various data sources and services (API, XML, JSON, etc.) required.COMPUTER SKILLSPossess expertise in Python, developing cloud solutions on AWS, knowledge of GitHub and capable of pull and merge requests. Ability to use MS Word, Excel, PowerPoint and Outlook.LANGUAGE SKILLSAbility to read and interpret documents such as design drawings and schematics. Ability to write general correspondence and technical reports. Ability to speak effectively in meetings.MATHEMATICAL SKILLSAbility to calculate figures and amounts such as percentages. Ability to apply concepts of basic algebra, geometry and trigonometry.The noise level in the work environment is usually quiet.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Data Scientist jobs in Los Angeles, CA Science jobs in Los Angeles, CA Data Scientist jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Use existing machine learning tools or develop customized algorithms to solve analytical problems with incomplete data sets and deploy automated processes into production.Conduct scalable data research on manufacturing and sales data.Create new software designed to access and handle data more efficiently.Train the data management team on new or updated procedures.Formulate business problems into concrete mathematical framework, and translating analytic results into actionable business recommendations.May write and implement procedures.May train data management team on new or updated procedures.Assist with projects and other job-related duties as assigned.

@@ -1,0 +1,142 @@
+Senior DataScientist WHO WE ARE: We are daring, we challenge each other to beinnovative, and we take pride in the work that we do.Launched in New York City in 2014,  building operations software for the modern restaurant, using technology to redefinehospitality. We work with restaurants in 160 markets around the U.S. The bestrestaurants in the country use  to connect with their customers.The company is co-founded by Ben Leventhal,co-founder of Eater.com; Michael Montero, co-founder and former CTO ofCrowdTwist and current Techstars mentor; and Gary Vaynerchuk, noted socialmedia expert, entrepreneur and investor. Other company leaders have deepexperience in restaurants and hospitality, too.ABOUT THE ROLE: We are looking for a Senior Data Scientistwith strong mathematical backgrounds to work alongside our engineering teams tobuild the next generation of  hospitality technology.  The idealcandidate is one with several years of experience researching, building andmaintaining data science models at scale. The ideal candidate will have thebackground and experience to work hands on to build our data science practicethen transition to hiring and mentoring a team.WHAT YOU'LL DO:WHO YOU ARE:WHAT WE OFFER:WHO WE ARE: ABOUT THE ROLE: WHAT YOU'LL DO:WHO YOU ARE:WHAT WE OFFER:
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Data Scientist jobs in New York, NY Science jobs in New York, NY Data Scientist jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Identify new opportunities to leverage our data assetPropose and drive technical initiativesPropose infrastructure to accelerate the pace of model exploration and improve model serving and maintenanceIdentify appropriate models/algorithms to solve product requirementsMeticulous experimentation to evaluate and compare modelsWrite internal and external facing documentation describing models and approachesDeploy models to production and maintain themPhD or MS in Computer Science, Electrical Engineering, Applied Math, Statistics or other relevant quantitative disciplines, or equivalent industry experienceRelevant coursework and experience in the fields of Machine Learning, Statistics, OptimizationDeep understanding of statistical/probabilistic analysis and linear algebra3+ years of relevant industry experience, including internshipsAbility to write production-ready codeExperience with Natural Language Processing, Deep Learning, Reinforcement Learning, and/or OptimizationExperience with ML at scaleExperience with scale computing: Hadoop/Scala/Spark/CassandraExperience with SQLCompetitive salaryFull benefits (Medical, Dental, Vision, FSA, LTD, 401(k), Commuter Benefit, Life Insurance)Equity in the companyUnlimited Paid Time OffPaid Parental LeaveProfessional Growth Opportunity BudgetEquinox gym discountBeautiful dog-friendly Soho office with fully stocked kitchen and caféCompany-sponsored social events, including Friday family mealNo shortage of good restaurant recommendations

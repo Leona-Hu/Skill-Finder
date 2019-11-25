@@ -1,0 +1,142 @@
+A Data Scientist combines a coding skill set with knowledge of mathematical optimization and statistics to extract descriptive, predictive, and prescriptive signal from data.  Below are the skills and experiences that typify a Cloudframe Data Scientist:Currently we're looking for candidates with an active SECRET clearance and/or an active US CBP Suitability.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Data Scientist jobs in Springfield, VA Science jobs in Springfield, VA Data Scientist jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Understanding the underlying mathematics of popular machine learning algorithms; including how they optimize and when one particular algorithm is useful over others.Using a common open source data science framework (e.g. Anaconda) to create production quality models.Conducting Exploratory Data Analysis (EDA) and creating compelling visualizations in order to form data-driven hypotheses.Conditioning, enriching, and reducing feature spaces (e.g. PCA) in preparation for model training.Combining multiple data types and sources into a single model training data set to address a particular problem.Accessing data in database systems (e.g. Redshift or ElasticSearch) using common programming tools (e.g. SQL).Using cloud resources (e.g. EC2) and/or managed services (e.g. SageMaker) to train and deploy models or decision support systems.Using managed cloud services (e.g. Comprehend) as part of a decision support application pipeline.Deploying data preparation workloads and models as part of containerized services using Docker or similar.

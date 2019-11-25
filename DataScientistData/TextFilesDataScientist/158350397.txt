@@ -1,0 +1,152 @@
+At PathAI, we are using machine learning to diagnose disease accurately and to match patients with effective therapies. We develop and apply computational methods to integrate data across biological scales (population, patient, tissue, cellular, molecular and genomic) to define disease states and to predict therapeutic response.  Data Science and biostatistics play central roles in this effort. We are looking for a Data Scientist to lead these efforts at PathAI.Responsibilities QualificationsBenefitsFor the right candidate, we'll offer a competitive salary plus equity. Your compensation is rounded out by a strong benefits package:Most importantly, you'll be doing important work with a team of people you'll genuinely enjoy spending the day with. Apply through our website: 
+https://grnh.se/e83488922
+PathAI is an equal opportunity employer, dedicated to creating a workplace that is free of harassment and discrimination. We base our employment decisions on business needs, job requirements, and qualifications — that's all. We do not discriminate based on race, gender, religion, health, personal beliefs, age, family or parental status, or any other status. We don't tolerate any kind of discrimination or bias, and we are looking for teammates who feel the same way. PathAI does not accept unsolicited submissions from third-parties. 
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+
+Please log in.
+
+Upload from Cloud
+
+Apply Without Resume
+
+Log in
+Terms of ServicePrivacy PolicyData Scientist jobs in Boston, MA Science jobs in Boston, MA Data Scientist jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Lead biostatistics efforts in a team setting of fellow scientists and machine learning engineersCross-functional collaboration with other teams to integrate large-scale datasets and use bioinformatics to define the factors associated with drug response and resistanceDevelop computational methods and build tools to enable data-driven patient stratification and inform the development of clinical decision support productsIdentify scientifically relevant findings within datasets spanning multiple modalitiesDevelop scalable computational solutions to further clinical data analysis automation across projectsCommunicate findings both internally and externally and recommend follow up actionsPh.D. in bioinformatics, engineering, statistics, biostatistics, biomedical engineering, cancer biology, immunology, genetics, or similar with 3+ years of industry experience or strong academic record.Demonstrated ability of contributing to multi-disciplinary team projects.Expertise with programming language such as R AND Python for complex data analysis and reproducible research practices.Mastery in integrating and analyzing diverse high-dimensional data sets relevant to oncology, immunology, and other areas of clinical relevance.Capability to conduct systematic analyses to evaluate multiple hypotheses and prioritize clinically-relevant questions.Scientific curiosity with an ability to identify questions that computational approaches can address, and the skills to develop solutions both independently and collaboratively.Excellent problem-solving and collaboration skills.Strong communication, data presentation, and visualization skills.Strong publication record.Background in clinical data/oncology/immuno-oncology and/or experience working with clinical trial data is a plus.Flexible work hours, with work-from-home options available Three weeks of paid leave per year, an additional two weeks of sick time, plus extended holidays and team-approved leaveTen days of 100% subsidized childcare per yearHealthcare, vision, and dental insurance plans (HMO or PPO), with voluntary add-ons available for dependent care, life, and accident coverageCommuter benefit available for public transit or parkingWeekly in-office yoga classesFree in-office lunch on Tuesdays and Fridays

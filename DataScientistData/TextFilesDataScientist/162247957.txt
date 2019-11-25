@@ -1,0 +1,142 @@
+Data ScientistAbout the RoleThis team has an incredible engineering challenge: integrate a variety of very large datasets that outline intricate details about consumer’s credit profile. This expansive dataset is the foundation for our AI and machine learning processes that will power everything from prospecting, to operations, to servicing of our clients. Innovations here tie directly to the extensibility of our infrastructure, the capabilities of our machine learning, and success in our mission.What You’ll DoWork with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions.Mine and analyze data from company databases to drive optimization and improvement of product development, marketing techniques and business strategies.Assess the effectiveness and accuracy of new data sources and data gathering techniques.Develop custom data models and algorithms to apply to data sets.Use predictive modeling and machine learning to increase and optimize customer experiences, revenue generation, and underwriting, as well as other business outcomes.Develop company A/B testing framework and test model quality.Coordinate with different functional teams to implement models and monitor outcomes.Develop processes and tools to monitor and analyze model performance and data accuracy.What We Look ForWe’re looking for someone with 5-7 years of experience manipulating data sets and building statistical models, and has a Master’s or PHD in Statistics, Mathematics, Computer Science or another quantitative field.Strong problem solving skills with an emphasis on product development.Experience using TensorFlow (a big plus) or Python to manipulate data and draw insights from large data sets.Experience in a variety of machine learning techniques – clustering, trees, deep learning (especially GAN), etc. – and their real-world advantages/drawbacks.Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications.Experience using web services: Redshift, S3, GCP (a plus).Experience with distributed data/computing tools: Map/Reduce, Hadoop, Hive, Spark, Gurobi, MemSQL, etc.Experience visualizing/presenting data for stakeholders using: Periscope, Business Objects, D3, ggplot, etc.A successful history of manipulating, processing and extracting value from large disconnected datasets.Excellent written and verbal communication skills for coordinating across teams.Ability to thrive in a fast-paced growing company.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Data Scientist jobs in San Francisco, CA Science jobs in San Francisco, CA Data Scientist jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions.Mine and analyze data from company databases to drive optimization and improvement of product development, marketing techniques and business strategies.Assess the effectiveness and accuracy of new data sources and data gathering techniques.Develop custom data models and algorithms to apply to data sets.Use predictive modeling and machine learning to increase and optimize customer experiences, revenue generation, and underwriting, as well as other business outcomes.Develop company A/B testing framework and test model quality.Coordinate with different functional teams to implement models and monitor outcomes.Develop processes and tools to monitor and analyze model performance and data accuracy.We’re looking for someone with 5-7 years of experience manipulating data sets and building statistical models, and has a Master’s or PHD in Statistics, Mathematics, Computer Science or another quantitative field.Strong problem solving skills with an emphasis on product development.Experience using TensorFlow (a big plus) or Python to manipulate data and draw insights from large data sets.Experience in a variety of machine learning techniques – clustering, trees, deep learning (especially GAN), etc. – and their real-world advantages/drawbacks.Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications.Experience using web services: Redshift, S3, GCP (a plus).Experience with distributed data/computing tools: Map/Reduce, Hadoop, Hive, Spark, Gurobi, MemSQL, etc.Experience visualizing/presenting data for stakeholders using: Periscope, Business Objects, D3, ggplot, etc.A successful history of manipulating, processing and extracting value from large disconnected datasets.Excellent written and verbal communication skills for coordinating across teams.Ability to thrive in a fast-paced growing company.

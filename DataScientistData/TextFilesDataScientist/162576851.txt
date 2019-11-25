@@ -1,0 +1,142 @@
+Lead AI Scientist - Supply Chain SimulationApply NowJob ID:R0000031167schedule:Full timeLocation:100 Mathilda Pl, Sunnyvale, California, United States, 94086;Description:Join the Simulation Platform team at Target where we develop discrete event simulations of the supply chain. Our mission is to leverage simulation in order to generate forecasts and insightful scenarios that help Target make intelligent supply chain business decisions. This involves writing high-performant, scalable code, as well as designing analytical solutions that extracting insights from the generated data.You will work in an environment that provides the freedom and agility of a startup, with the security and vast resources of a large established company. Our team aims to be smart, humble, highly-motivated and collaborative.In this role at Target as a Lead AI Scientist, you willWork closely with partner team data scientists to review and iterate on optimization and machine learning algorithms, and develop state of the art mathematical models.Work with engineers to design, deploy and productize simulations at scale. Our simulations run many times a day for millions of combinations of stock keeping units and distribution networks.Work with business partners to learn about the retail business and processes in play.Think about and resolve tradeoffs between simulation granularity and features on the one hand, and performance on the other.Improve the general performance, reliability and usability of our codebase. Improve engineering standards, tooling and processes.Mentor other data scientists and engineers and deeply review code.What we're looking for:You have a real passion and the technical skills for helping Target make data-informed decisions.You love rock-solid, well-structured and efficient code.You possess strong computer science fundamentals: data structures, algorithms, programming languages, and information retrieval.You are a strong communicator. Explaining complex technical concepts to the business and other data scientists/engineers is no problem for you.You write understandable, testable code with an eye towards maintainability.You understand that simplicity is hard but key to achieving maintainability and being able to continually deliver value to the business.You have usability and convenience for business users in mind.Requirements3+ years of experience in developing and deploying code for production that has business impact, or equivalent school experience.Highly proficient in one or more of Rust, Haskell, Scala, C++, or equivalent programming languages.Expertise in linear algebra, statistics, information theory or related mathematical domains, deep understanding of statistical applications (experimentation, regression, etc.)Excellent written and verbal communication skills.PreferredRequirements3+ years of experience writing modular and highly performant Rust code.Proficient in application/software architecture (definition, business process modeling, etc.)M.S/Ph.D. in Mathematics, Statistics, Operations Research, Economics, Physics, Computer Science, or in a related Mathematical or Computational Engineering major (or equivalent experience).Experience writing production datasets in SQL/Hive or building internal/production data tools for research or experimentation in a scripting language like Python.Why work with us at Target?We are using great tools. Not only are we using programming languages like Haskell, Rust, Scala, and Python, but we are also using modern tooling and infrastructure like Nix, Kubernetes, and Kafka.We love open source! Many of our team members contribute to open source communities and get to do it during work time. We try to contribute back to our communities where we can and are grateful to be able to open source some of our own projects!We value diversity. We believe that diversity and inclusion is of core importance when trying to create positive in-store experiences for our guests, and we think it is also critically important when building our teams.Read more about our commitment to Diversity + Inclusion here.We value our team members. We treat out team members like people, not like cogs in a machine. We value our team members for who they are, not just what they can get done. We are parents, hobbyists, enthusiasts, family members, and community members, and can offer flexibility to our team members' schedules and work arrangements so that they can flourish both inside and outside of work.Americans with Disabilities Act (ADA)Target will provide reasonable accommodations (such as a qualified sign language interpreter or other personal assistance) with the application process upon your request as required to comply with applicable laws. If you have a disability and require assistance in this application process, please visit your nearest Target store or Distribution Center or reach out to Guest Services at 1-800-440-0680 for additional information.Target will consider for employment qualified applicants with criminal histories in a manner consistent with the San Francisco and Los Angeles Fair Chance Ordinances.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Data Scientist jobs in Sunnyvale, CA Science jobs in Sunnyvale, CA Data Scientist jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Work closely with partner team data scientists to review and iterate on optimization and machine learning algorithms, and develop state of the art mathematical models.Work with engineers to design, deploy and productize simulations at scale. Our simulations run many times a day for millions of combinations of stock keeping units and distribution networks.Work with business partners to learn about the retail business and processes in play.Think about and resolve tradeoffs between simulation granularity and features on the one hand, and performance on the other.Improve the general performance, reliability and usability of our codebase. Improve engineering standards, tooling and processes.Mentor other data scientists and engineers and deeply review code.You have a real passion and the technical skills for helping Target make data-informed decisions.You love rock-solid, well-structured and efficient code.You possess strong computer science fundamentals: data structures, algorithms, programming languages, and information retrieval.You are a strong communicator. Explaining complex technical concepts to the business and other data scientists/engineers is no problem for you.You write understandable, testable code with an eye towards maintainability.You understand that simplicity is hard but key to achieving maintainability and being able to continually deliver value to the business.You have usability and convenience for business users in mind.3+ years of experience in developing and deploying code for production that has business impact, or equivalent school experience.Highly proficient in one or more of Rust, Haskell, Scala, C++, or equivalent programming languages.Expertise in linear algebra, statistics, information theory or related mathematical domains, deep understanding of statistical applications (experimentation, regression, etc.)Excellent written and verbal communication skills.3+ years of experience writing modular and highly performant Rust code.Proficient in application/software architecture (definition, business process modeling, etc.)M.S/Ph.D. in Mathematics, Statistics, Operations Research, Economics, Physics, Computer Science, or in a related Mathematical or Computational Engineering major (or equivalent experience).Experience writing production datasets in SQL/Hive or building internal/production data tools for research or experimentation in a scripting language like Python.We are using great tools. Not only are we using programming languages like Haskell, Rust, Scala, and Python, but we are also using modern tooling and infrastructure like Nix, Kubernetes, and Kafka.We love open source! Many of our team members contribute to open source communities and get to do it during work time. We try to contribute back to our communities where we can and are grateful to be able to open source some of our own projects!We value diversity. We believe that diversity and inclusion is of core importance when trying to create positive in-store experiences for our guests, and we think it is also critically important when building our teams.Read more about our commitment to Diversity + Inclusion here.We value our team members. We treat out team members like people, not like cogs in a machine. We value our team members for who they are, not just what they can get done. We are parents, hobbyists, enthusiasts, family members, and community members, and can offer flexibility to our team members' schedules and work arrangements so that they can flourish both inside and outside of work.

@@ -1,0 +1,142 @@
+Secure our Nation, Ignite your FutureEntering ManTechs 50th year, we hold the distinct honor of being named a Top 100 Global Technology Company by Thomson Reuters. We have earned this and many other accolades over the years for our dedication to serving the missions of our nations most important customers: U.S. Intelligence, Defense and Federal Civilian agencies. All know us as a trusted partner offering best-in-class solutions in cyber, data collection & analytics, enterprise IT, and systems and software engineering tailored to meet their specific requirements.Become an integral part of a diverse team in the Mission, Cyber and Intelligence Solutions (MCIS) Group. Currently, ManTech is seeking a motivated, mission oriented  Data Scientist Engineer  in the  Herndon, Virginia  area, with strong Customer relationships. At ManTech, you will help protect our national security while working on innovative projects that offer opportunities for advancement.The NIS Division provides mission solutions to a wide range of Defense and Intelligence Community customers. This division consists of a team of technical leaders that deliver advanced technical solutions to government organizations. Our customers have high standards, are technically adept, and use our products daily to support their mission of protecting national security. Our contributions to our customers success is driving our growth.Responsibilities include, but are not limited to:Designing, building, and maintaining big data solutionsDesigning, building, and running an enterprise-wide, high visibility, resilient and available data platformSolving relational and non-relational data problemsSynthesizing data sets and identifying correlations to make new, usable informationMaintaining code and related documentation in appropriate configuration management repositoriesBriefing projects and designs as required (engineering review boards, management meetings, etc.)Skills / Knowledge / Abilities:Bachelor degree in computer science, computer engineering, or equivalent experience plus minimum 10 years of experience is requiredMust be fluent in JavaExperience automating everything: data ingest, monitoring, system updates, and code releases is a mustExperience operating in Agile or Kanban environments a mustExperience with developing data models/specifications ats and managing their lifecycles is a mustExperience with NoSQL and Databases a is requiredPrior development experience on Linux platforms a mustUnderstands RESTful API best practices and implementation and can either build or interact with RESTful web servicesExcellent problem solving skills a mustExcellent verbal and written skills a mustExperience with data science (e.g., trending, anomaly/pattern detection, learned validation) is highly desiredAbility to present data in a UI is highly desired.Ability to handle stress and work well under pressure,Ability to use MS Office,Ability to use PC,Analytical and Critical Thinking Skills,Interpersonal and People Skills,Listening Skills,MultiTasking Ability,Oral and Written Communication Skills,Switchboard or Computer Operating SkillsSecurity Requirements:TS/SCI with Poly#LI-DU1ManTech International Corporation, as well as its subsidiaries proactively fulfills its role as an equal opportunity employer. We do not discriminate against any employee or applicant for employment because of race, color, sex, religion, age, sexual orientation, gender identity and expression, national origin, marital status, physical or mental disability, status as a Disabled Veteran, Recently Separated Veteran, Active Duty Wartime or Campaign Badge Veteran, Armed Forces Services Medal, or any other characteristic protected by law.If you require a reasonable accommodation to apply for a position with ManTech through its online applicant system, please contact ManTech's Corporate EEO Department at (703) 218-6000. ManTech is an affirmative action/equal opportunity employer - minorities, females, disabled and protected veterans are urged to apply. ManTech's utilization of any external recruitment or job placement agency is predicated upon its full compliance with our equal opportunity/affirmative action policies. ManTech does not accept resumes from unsolicited recruiting firms. We pay no fees for unsolicited services.If you are a qualified individual with a disability or a disabled veteran, you have the right to request an accommodation if you are unable or limited in your ability to use or access http://www.mantech.com/careers/Pages/careers.aspx as a result of your disability. To request an accommodation please click careers@mantech.com and provide your name and contact information.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Data Scientist jobs in Herndon, VA Science jobs in Herndon, VA Data Scientist jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Designing, building, and maintaining big data solutionsDesigning, building, and running an enterprise-wide, high visibility, resilient and available data platformSolving relational and non-relational data problemsSynthesizing data sets and identifying correlations to make new, usable informationMaintaining code and related documentation in appropriate configuration management repositoriesBriefing projects and designs as required (engineering review boards, management meetings, etc.)Bachelor degree in computer science, computer engineering, or equivalent experience plus minimum 10 years of experience is requiredMust be fluent in JavaExperience automating everything: data ingest, monitoring, system updates, and code releases is a mustExperience operating in Agile or Kanban environments a mustExperience with developing data models/specifications ats and managing their lifecycles is a mustExperience with NoSQL and Databases a is requiredPrior development experience on Linux platforms a mustUnderstands RESTful API best practices and implementation and can either build or interact with RESTful web servicesExcellent problem solving skills a mustExcellent verbal and written skills a mustExperience with data science (e.g., trending, anomaly/pattern detection, learned validation) is highly desiredAbility to present data in a UI is highly desired.Ability to handle stress and work well under pressure,Ability to use MS Office,Ability to use PC,Analytical and Critical Thinking Skills,Interpersonal and People Skills,Listening Skills,MultiTasking Ability,Oral and Written Communication Skills,Switchboard or Computer Operating Skills

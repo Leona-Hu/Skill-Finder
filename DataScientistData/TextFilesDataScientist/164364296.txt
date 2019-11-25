@@ -1,0 +1,142 @@
+Flexera Support Engineering is a critical member of the Flexera customer and employee experience. Our goal is to get the right information, to the right person at the right time. As the Support Engineering Data Scientist, you will play a critical and leadership role in shaping our ability to deliver on that goal. The ideal candidate will independently run analytical data models to evaluate Support process and delivery across a broad range of daily Support Engineering activities. The Support Engineer Data Scientist will be responsible for providing improvement opportunities in case deflection and time to resolution by developing analytical solutions to support problems using a variety of mathematical modeling and programming techniques. Projects that impact Support performance may include:Working closely with Support Leadership, specific tasks include:Required skills:SDL2017
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Data Scientist jobs in Itasca, IL Science jobs in Itasca, IL Data Scientist jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Knowledge management – analyze knowledge base use, gaps, and search terms to properly position content for consumptionContent management – use data to build a content management strategy that will make content accessibleProcess analysis – analyze current processes and practices for improvement opportunitiesProduct Supportability – analysis of support case data to determine the most impactful product improvementsCustomer experience & journey – provide insight into customer experience, what works well, what doesn’tSelf-help – determine how to improve self-help opportunities including within productCase Management – ‘right-size’ case management data Tool efficiency – improve use of the current toolsUser Community – leverage data insights to improve community engagement, self-help and time to resolutionIdentifying the data-analytics problems that offer the greatest opportunities to the organization Determining the correct data sets and variables to use from multiple data sourcesCollecting large sets of structured and unstructured data from disparate sourcesCleaning and validating the data to ensure accuracy, completeness, and uniformityDevising and applying models and algorithms for our unique data sourcesAnalyzing the data to identify patterns and trendsInterpreting the data to discover solutions and opportunitiesCommunicating findings to stakeholders using visualization and other meansCollaborate with teams throughout the organization to identify analysis opportunities A degree in mathematics, statistics, or computer sciencePrevious work experience is desiredEnjoy individualized work and problem solvingCommunicate well both verbally and visuallyTaking on challenges and finding resolutionsAn understanding of Salesforce, MS SQL Server and Snowflake are desirableArtificial intelligence modelsProgramming languages like R, Python and SQL

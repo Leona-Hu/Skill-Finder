@@ -1,0 +1,142 @@
+Sema4 is a patient-centered health intelligence company founded on the idea that more information, deeper analysis, and increased engagement will improve the diagnosis, treatment, and prevention of disease. Sema4 is dedicated to transforming healthcare by building dynamic models of human health and defining optimal, individualized health trajectories, starting in the areas of reproductive health and oncology. Centrellis™, our innovative health intelligence platform, is enabling us to generate a more complete understanding of disease and wellness and to provide science-driven solutions to the most pressing medical needs. Sema4 believes that patients should be treated as partners, and that data should be shared for the benefit of all. Sema4 is searching for a talented Data Scientist to join our Disease Discovery team in Stamford, CT. The candidate will work in a multi-disciplinary team in Sema4 and contribute significantly to our efforts to systematically study complex human diseases through the integration of genomic, genetic, epigenetic, proteomic, literature and clinical phenotypic data into network models or other machine learning models. The goal of this research is to identify and model mechanisms underlying human diseases using computational models such machine learning, deep learning, or other artificial intelligence techniques. Such models will be used to guide drug target discovery and prioritization, to develop combination therapies, to reposition existing drugs, to match individual patients to the best therapies, and more. Responsibilities Requirements:
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Data Scientist jobs in Stamford, CT Science jobs in Stamford, CT Data Scientist jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Development of novel computational models for integrating diverse types of data into molecular network models for diseases.Develop novel platforms and pipelines to identify novel therapeutic targets, and to discover biomarkers for drug response, patient stratification.Development of novel statistic models for comparing diverse datasets or network models.Analyze preclinical and clinical genomic data including whole genome, whole exome, RNA-Seq (single cell and bulk), and epigenetic data.Expertise in statistical methodologies such as predictive modeling and inference, machine learning methods, mixed effects models, multivariate analysis, etc.Expertise in integration of genetic, genomic and proteomics data analysis, metabalomic and microbiome including raw data processing and modeling of processed/normalized data, and familiarity with state of the art pipelines.Computational models for predicting disease risk or drug responses which integrate EHR and genetic data.Development of computational models for rational drug combination designAdvanced hands-on knowledge of R and/or Python.Execute RWD analysis using EMR data, registry data and publicly available data sources.Integrative analysis of structured and unstructured EMR data to develop predictive models for treatment response and clinical outcome.Ph.D in quantitative sciences – Computer Science, Electronic Engineering, Physics, Mathematics, Statistics, Computational Biology or Bioinformatics2+ years in analyzing large scale genetic and genomic data2+ years in Computational Analysis of EMR data4+ years in R, Python and Perl4+ years SQLStrong track record in methods developmentExperience in machine learning preferredA track record of leading clinical/translational research projects using rigorous statistical and computational approachesOutstanding programming skills in R, Python, and/or perl, extensive experience in SQLStrong knowledge of Unix shell scriptingPrior experience in analyzing genomic and genetic data preferredBroad knowledge of cancer biology, immunology, cancer drug discovery preferredStrong ability to collaborate with teams of research scientists, bioinformaticians, software developers, and external collaborators

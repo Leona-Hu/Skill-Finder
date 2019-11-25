@@ -1,0 +1,142 @@
+About the JobPhylagen is seeking a Data Scientist with industry experience and deep expertise in computational analyses of the microbiome. Reporting to the VP of Data Science, you will develop and perform analysis of environmental microbiome datasets for a variety of commercial applications. Working closely with the wet lab and commercial teams, this person will take technical ownership of microbiome analysis pipelines and provide strategic leadership in commercializing the technology.About PhylagenPhylagen, Inc. is a data analytics company leveraging machine learning to harness the vast, unseen world of microbiomes. The microbiome consists of trillions of interacting bacteria, fungi, and pollen collectively present in dust that inhabit every inch of the world. They not only influence our health and well-being, they also provide information about the origin of objects and raw materials.Phylagen is building a data platform by digitizing the DNA of microbiomes found in places and on objects and creating a unique, identifiable fingerprint. This fingerprint is then applied to a variety of solutions in global supply chains for customers ranging from farmers to retail brands to governments. Phylagen’s mission is to turn dust into data thereby promoting a new level of global supply chain transparency using the environmental microbiome as a data platform.ResponsibilitiesMinimum QualificationsPreferred QualificationsSDL2017
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Data Scientist jobs in San Francisco, CA Science jobs in San Francisco, CA Data Scientist jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Take technical ownership of microbiome analysis from R&D through the commercial release of microbiome solutionsCollaborate cross-functionally with data science, wet lab, and commercial teams to design, analyze, and interpret experiments and customer pilotsPerform microbiome analysis of internal and external datasets and develop robust bioinformatic pipelines to scale analytics for productionPresent project proposals, results, and interpretation at internal research team meetings and to non-technical stakeholdersPh.D. in bioinformatics, computational biology, statistics or a related field2+ years of industry experience and 5+ years total experience (including graduate and postdoc training) in experimental design, analysis, and interpretation of next generation sequencing microbiome dataExcellent written and oral communication skills and experience presenting complex technical conceptsStrong experience programming in Python (strongly preferred) and/or R; proficient with AWS and version controlHigh-quality track record of publications in microbiome researchStrong organizational skills and experience developing robust, reproducible analysesStrong data visualization skills with an emphasis on clarity and graphic designExperience with wet lab biology and/or microbiology; appreciation for the challenges and biases these methods bring to NGS data analysisExperience developing software in an Agile/Scrum framework; familiarity with Jira and Confluence tools

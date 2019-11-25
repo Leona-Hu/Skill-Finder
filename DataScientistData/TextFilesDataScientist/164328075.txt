@@ -1,0 +1,142 @@
+ Job Summary  :  Responsibilities:  Qualifications:  Key Competencies: 
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Data Scientist jobs in Davidson, NC Science jobs in Davidson, NC Data Scientist jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+ Data science projects:  Design experiments and run simulations to generate new data in support of analytic studies to help us make decisions with confidence  Retrieve and combine data from databases, data historians, and our data hub with a strong emphasis on programming, particularly using scripting languages  Perform exploratory data analysis for quality control and improved data understanding  Build, analyze, and compare statistical and machine learning models  Synthesize and present findings to stakeholders, including strategic implications and recommended actions to optimize business performance  Deploy data products to end-users and document results in technical reports  Scale insights to maximize the impact of recommended actions through centralized reporting and new or enhanced business processes  Add content to the data hub that serves the needs of the team's current reporting and analytics requirements while supporting future expansion with new data sources  Develop strong partnerships with cross-functional teams, including marketing, sales, product management, customer experience, finance, and operations  5+ years of work experience in one or more related fields including: big data, statistics, analytics, machine learning, programming, databases (SQL), and data integration  Demonstrated coding proficiency with Python, R, and SQL  Expert with at least one advanced data visualization tool such as Tableau, Spotfire, or PowerBI  Visualize data and communicate findings in a way that captures the attention of the audience and compels them to take action  Advocate and model for writing clean, maintainable code and technical documentation  Experience with supporting data governance and data quality initiatives, including developing and implementing data standards, policies, practices, and procedures to improve data integrity  Bachelor's or master's degree in Information Systems, Computer Science, Mathematics or other related field  "Gets" data, loves cool algorithms and impactful visualizations  Thinks critically, demonstrating the ability to see the "big picture" while also diving into the details where necessary  Eagerly blends math, programming, and an understanding of business and human behavior to find compelling answers to meaningful questions in data  Passion for using data to solve problems that improve business outcomes  Enjoys keeping up-to-date with the latest technologies  Summarizes abstract ideas clearly and independently 

@@ -1,0 +1,142 @@
+Geospatial Institute at Saint Louis University (http://www.slu.edu/geoslu) is seeking applicants for Director of Business Development, Geospatial Data Scientist, and 4 postdoctoral positions.Director of Busines DevelopmentThe director of Business Development and Outreach (BDO) directs internal and external communication and engagement efforts, helps to grow GeoSLU research by creating opportunities for faculty, and supports GeoSLU’s mission through research development, fund raising, and building sponsor relationships.Geospatial Data ScientistThis is a full -time data scientist position to provide geospatial data collection, mapping, analytics support to SLU faculty. The individual performing this role will have a graduate degree, use their knowledge of geographic information systems (GIS) technology to configure WebGIS/ GIS Server solutions, implement workflows, create and provision data content, collect data using GPS, UAVs, and other modern technologies, and provide GIS support to SLU faculty. This role can require participation in larger project teams providing support in the conception, construction, implementation and testing of GIS databases, applications, and production systems. Desired skills include GIS server design and implementation, imagery analysis, python programming, cloud computing (Amazon SageMaker, GEE, Microsoft Azure), machine learning, and GPS/UAV data collection. Salary is commensurate with the experience and market standard.4 Postdoc positionsWe are hiring 4 postdocs in Geospatial Science starting July 1, 2020. Thematic areas of interest:Please contact for further information.
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Data Scientist jobs in Saint Louis, MO Science jobs in Saint Louis, MO Data Scientist jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Remote sensing, computer vision, artificial intelligence and machine learningPlant phenotyping, imagery analysis, and data scienceGIS and Spatial StatisticsGIS applications in spatial health and epidemiology

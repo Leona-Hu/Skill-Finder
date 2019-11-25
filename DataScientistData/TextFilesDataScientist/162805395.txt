@@ -1,0 +1,142 @@
+Pilytix brings Explainable Artificial Intelligence (XAI) to sales teams so they can be more effective and close more deals, faster. We use best-in-class tools to quickly deliver data-driven insights to all of our clients. Data Scientists will assist in model building and apply their machine learning and statistical knowledge to generate insights from our client's data.Responsibilities:RequirementsJob is based in Austin TX, but extraordinarily qualified remote candidates (willing to travel to Austin semi-regularly) may apply.Benefits
+
+
+
+Jobs
+
+
+
+
+
+
+Search Jobs
+
+
+
+
+
+
+Job Matches
+
+
+
+
+
+Sign up
+
+
+
+
+
+Log in
+
+
+
+Job Seekers
+
+Employers
+
+
+
+For Employers
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+
+
+
+
+Jobs
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Matches
+
+
+
+Log in
+
+Sign up
+
+Log in
+
+Post a job
+Forgot Your Password?
+
+
+
+Email this job
+Data Scientist jobs in Austin, TX Science jobs in Austin, TX Data Scientist jobs All Jobs HomeAboutSupportEmployersJob SeekersTerms & Conditions  Privacy PolicyFAQBrowse Jobs
+
+Job Seekers
+
+
+
+Employers
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+
+
+Job Seekers
+
+
+
+Log in
+
+
+
+Sign up
+
+
+
+Employers
+
+
+
+Log in
+
+
+
+Post a job
+
+Analyze, explore and wrangle client datasets using R, Python and SQLTrain, evaluate and deploy customized Bayesian models in RBuild and maintain internal tools to automate data science workflowWork collaboratively with development team to add new data-driven features to our software-as-a-service productWork with clients to ensure our product delivers value to their usersParticipate in agile / Kanban processes on a daily basisComply with change management policies and code reviews to ensure data integrity and system stabilityBS/MS in a STEM field and 1+ years of industry experience working with dataExceptional quantitative analytical skills and understanding of data science / machine learning methodologies2+ years experience with R (Tidyverse preferred)1+ years experience with SQL (PostgreSQL preferred)1+ years experience with Python (Python 3 preferred)Exceptional ability to understand and discuss highly quantitative subjectsExperience using Git or other DVCSKnowledge of agile / Kanban processesEntrepreneurial spirit and highly self-motivatedCompetitive base salary with ability to earn bonusesProfessional development and entrepreneurial opportunitiesPaid time off401(k)Medical and dental plans
