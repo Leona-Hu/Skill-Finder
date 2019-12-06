@@ -28,5 +28,8 @@ Refer: https://www.kaggle.com/PromptCloudHQ/us-technology-jobs-on-dicecom
 - Seaborn
 
 ## How to Run the Code:
-- Run parse_data.py to parse the raw dataset.  
-- Run Skill_Finder_Analysis.ipynb to plot the graphs.
+- Parse the raw dataset. 
+```
+python3 parse_data.py
+```
+- Open Skill_Finder_Analysis.ipynb and run all cells to plot the graphs.
