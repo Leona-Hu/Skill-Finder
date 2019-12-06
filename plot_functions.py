@@ -4,6 +4,12 @@ import matplotlib as mpl
 import matplotlib.pyplot as plt
 
 def plot_job_dis_by_state(df):
+    '''
+    :param df: dataframe that stores the dataset
+    :type df: pd.DataFrame
+    '''
+    assert isinstance(df, pd.DataFrame)
+    
     import plotly.graph_objects as go
     state_dict = dict()
     for state_value in df['state']:
@@ -31,6 +37,12 @@ def plot_job_dis_by_state(df):
     fig.show()
     
 def plot_top_ca_cities(df):
+    '''
+    :param df: dataframe that stores the dataset
+    :type df: pd.DataFrame
+    '''
+    assert isinstance(df, pd.DataFrame)
+    
     ca_cnt = df[df['state'] == 'CA']
     ca_data = ca_cnt['city'].value_counts()[:10]
     ca_labels = ca_cnt['city'].value_counts().index.tolist()[:10]
@@ -43,6 +55,12 @@ def plot_top_ca_cities(df):
     plt.show()
 
 def plot_top_cities_usa(df):
+    '''
+    :param df: dataframe that stores the dataset
+    :type df: pd.DataFrame
+    '''
+    assert isinstance(df, pd.DataFrame)
+    
     data = df['joblocation_address'].value_counts()[0:15]
     labels = df['joblocation_address'].value_counts().index.tolist()[0:15]
     
@@ -55,6 +73,12 @@ def plot_top_cities_usa(df):
     plt.show()
 
 def top_companies(df):
+    '''
+    :param df: dataframe that stores the dataset
+    :type df: pd.DataFrame
+    '''
+    assert isinstance(df, pd.DataFrame)
+    
     data = df['company'].value_counts()[0:11]
     labels = df['company'].value_counts().index.tolist()[0:11]
     rht_id = labels.index('Robert Half Technology')
@@ -71,6 +95,17 @@ def top_companies(df):
     plt.show()
     
 def count_skill(df, skills):
+    '''
+    :param df: dataframe that stores the dataset
+    :type df: pd.DataFrame
+    
+    :param skills: a list of skills that we want to consider
+    :type skills: list
+    '''
+    assert isinstance(df, pd.DataFrame)
+    assert isinstance(skills, list)
+    assert len(skills) > 0
+    
     dic = {}
     for col in df.columns[5:][:-2]: 
         cnt = df[col].value_counts().get(1)
@@ -85,6 +120,12 @@ def count_skill(df, skills):
     return label, cnt
 
 def plot_yoe_graph(df):
+    '''
+    :param df: dataframe that stores the dataset
+    :type df: pd.DataFrame
+    '''
+    assert isinstance(df, pd.DataFrame)
+    
     yoe_cnt_dict = {}
     for key in df['YOE'].value_counts().index:
         yoe_cnt_dict[key] = df['YOE'].value_counts()[key]
@@ -99,6 +140,12 @@ def plot_yoe_graph(df):
     plt.show()
     
 def plot_edu_job(df):
+    '''
+    :param df: dataframe that stores the dataset
+    :type df: pd.DataFrame
+    '''
+    assert isinstance(df, pd.DataFrame)
+    
     ass_yoe_data = df[df['Min Ed Level'] == 'associate']
     ass_yoe_data = ass_yoe_data['YOE'].dropna()
     ass_avg_yoe = len(ass_yoe_data)
@@ -117,6 +164,12 @@ def plot_edu_job(df):
     plt.show()
     
 def plot_level_job(df):
+    '''
+    :param df: dataframe that stores the dataset
+    :type df: pd.DataFrame
+    '''
+    assert isinstance(df, pd.DataFrame)
+    
     new_grad_data = df[df['YOE'] == 1.0]['YOE'].value_counts()
     junior_data = df[(df['YOE'] == 4.0) | (df['YOE'] == 3.0) | (df['YOE'] == 2.0)]['YOE'].value_counts()
     senior_data = df[df['YOE'] >= 5.0]['YOE'].value_counts()
@@ -137,6 +190,12 @@ def plot_level_job(df):
     plt.show()
     
 def plot_compliment(original_df):
+    '''
+    :param original_df: dataframe that stores the dataset
+    :type original_df: pd.DataFrame
+    '''
+    assert isinstance(original_df, pd.DataFrame)
+    
     original_df['aws'] += original_df['amazon web services']
     original_df['golang'] += original_df['go lang']
     del original_df['amazon web services']

@@ -1,6 +1,12 @@
 import pandas as pd
 
 def pre_clean(original):
+    '''
+    :param original: dataframe that stores the raw data
+    :type original: pd.DataFrame
+    '''
+    assert isinstance(original, pd.DataFrame)
+    
     df = original.drop(columns=['employmenttype_jobstatus', 'jobid', 'shift', 'site_name']).drop('Sum').set_index('uniq_id')
     ids = df.index
     state_list = list()
