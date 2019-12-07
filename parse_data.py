@@ -4,14 +4,14 @@ import re
 import numpy as np
     
 def read_data():
-    data_folder = 'C:\\Users\\kevin\\Desktop\\ECE 143\\Project\\TextFiles2'
-    descritopnList = {}
+    data_folder = 'C:\\Users\\kevin\\Desktop\\ECE 143\\Project\\DataScientistData\\TextFilesDataScientist'
+    descritopnDict = {}
     for filename in os.listdir(data_folder):
-        with open('C:\\Users\\kevin\\Desktop\\ECE 143\\Project\\TextFiles\\'+filename, errors = 'ignore') as f:
+        with open(data_folder+'\\'+filename, errors = 'ignore') as f:
             text = f.read()
             filename = filename[:-4]
-            descritopnList[filename] = text.lower()
-    return descritopnList
+            descritopnDict[filename] = text.lower()
+    return descritopnDict
     
 
 def create_df(text):
@@ -22,11 +22,20 @@ def create_df(text):
     for i in skillsLower['Skills']:
         df[i] = df['description'].apply(skill_required, args= (i,))
     locations = find_locations()
+    df = df.loc[~df.index.duplicated(keep='first')]
     new = pd.concat([df,locations], axis=1, join='inner')
     new.loc['Sum'] = df.sum()
     new['YOE'] = new['description'].apply(find_years_of_experience)
     new['Min Ed Level'] = new['description'].apply(find_education_level)
     return new
+
+def make_NaN(x):
+    try:
+        x/1
+        return x
+    except:
+        print(x)
+        return np.NaN
 
 
 def make_int(x):
@@ -89,9 +98,9 @@ def find_years_of_experience(string):
             return np.NaN
 
 def find_locations():
-    links_file = 'C:\\Users\\kevin\\Desktop\\ECE 143\\Project\\links2.txt'
+    links_file = 'C:\\Users\\kevin\\Desktop\\ECE 143\\Project\\DataScientistData\\linksDataScientist.txt'
     chunk = 'https://jobs.thejobnetwork.com/job/'
-    chunk2 = 'software-engineer-job-in-'
+    chunk2 = 'data-scientist-job-in-'
     with open(links_file, errors='ignore') as f:
         df = pd.read_csv(f)
     df['links'] = df['links'].apply(lambda i:i[len(chunk):])
@@ -108,6 +117,7 @@ def find_locations():
     df['city'] = df['nozip'].apply(lambda i:i[:-1])
     df['city'] = df['city'].apply(lambda i: ' '.join(i))
     del df['location'], df['split'], df['nozip']
+    df = df.loc[~df.index.duplicated(keep='first')]
     return df
 
 def pop_zip(l):
@@ -135,8 +145,51 @@ def RepresentsInt(s):
         return False
 
 def skill_required(string, skill):
+    string = str(string)
     if skill in string:
         return 1
     else:
         return 0
    
+def make_lower(x):
+    try:
+        return x.lower()
+    except:
+        return x
+
+def make2to1(x):
+    if x:
+        return 1
+    else:
+        return 0
+
+def parse_kaggle():
+    """
+    This Function parses the data found in the Kaggle Dataset and returns a
+    pandas Dataframe with the extracted data 
+    """
+    skill_file = 'C:\\Users\\kevin\\Desktop\\ECE 143\\Project\\Keywords.xlsx'
+    skills = pd.read_excel(skill_file)
+    skillsLower = skills.apply(lambda i: i.str.lower())
+    kaggle_data = pd.read_csv('C:\\Users\\kevin\\Desktop\\ECE 143\\Project\\KaggleData.csv')
+    kaggle_data['jobdescription'] = kaggle_data['jobdescription'].apply(lambda i:i.lower())
+    kaggle_data['skills'] = kaggle_data['skills'].apply(lambda i:make_lower(i))
+    for i in skillsLower['Skills']:
+        kaggle_data[i] = kaggle_data['jobdescription'].apply(skill_required, args= (i,))
+    for i in skillsLower['Skills']:
+        kaggle_data[i+'|'] = kaggle_data['skills'].apply(skill_required, args= (i,))
+    for i in skillsLower['Skills']:
+        kaggle_data[i] = kaggle_data[i] + kaggle_data[i+'|']
+    for i in skillsLower['Skills']:
+        kaggle_data[i] = kaggle_data[i].apply(lambda i:make2to1(i))
+    for i in kaggle_data.columns.to_list():
+        if i[-1] == '|':
+            del kaggle_data[i]
+    kaggle_data['YOE'] = kaggle_data['jobdescription'].apply(find_years_of_experience)
+    kaggle_data['Min Ed Level'] = kaggle_data['jobdescription'].apply(find_education_level)
+    del kaggle_data['jobdescription']
+    del kaggle_data['skills']
+    del kaggle_data['postdate']
+    del kaggle_data['advertiserurl']
+    kaggle_data.loc['Sum'] = kaggle_data.sum()
+    kaggle_data.to_excel('C:\\Users\\kevin\\Desktop\\ECE 143\\Project\\outputKaggle.xlsx')
