@@ -2,6 +2,7 @@ import pandas as pd
 
 def pre_clean(original):
     '''
+    This function parse the location column and combine similar columns in the dataframe.
     :param original: dataframe that stores the raw data
     :type original: pd.DataFrame
     '''

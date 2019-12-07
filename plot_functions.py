@@ -5,6 +5,8 @@ import matplotlib.pyplot as plt
 
 def plot_job_dis_by_state(df):
     '''
+    This function plots the job position distribution heat map 
+    among all the states in US.
     :param df: dataframe that stores the dataset
     :type df: pd.DataFrame
     '''
@@ -38,6 +40,8 @@ def plot_job_dis_by_state(df):
     
 def plot_top_ca_cities(df):
     '''
+    This function plots the bar plot for the top 10 cities 
+    in California with most technology positions available.
     :param df: dataframe that stores the dataset
     :type df: pd.DataFrame
     '''
@@ -56,6 +60,8 @@ def plot_top_ca_cities(df):
 
 def plot_top_cities_usa(df):
     '''
+    This function plots the bar plot for the top 15 cities 
+    among all cities in US with most technology positions available.
     :param df: dataframe that stores the dataset
     :type df: pd.DataFrame
     '''
@@ -74,6 +80,8 @@ def plot_top_cities_usa(df):
 
 def top_companies(df):
     '''
+    This function plots the bar plot for the top 10 companies that 
+    post most technology positions.
     :param df: dataframe that stores the dataset
     :type df: pd.DataFrame
     '''
@@ -96,6 +104,7 @@ def top_companies(df):
     
 def count_skill(df, skills):
     '''
+    This function count the occurrence of each skill in the skills list.
     :param df: dataframe that stores the dataset
     :type df: pd.DataFrame
     
@@ -121,6 +130,7 @@ def count_skill(df, skills):
 
 def plot_yoe_graph(df):
     '''
+    This function plots the number of positions posted for different YoE.
     :param df: dataframe that stores the dataset
     :type df: pd.DataFrame
     '''
@@ -141,6 +151,7 @@ def plot_yoe_graph(df):
     
 def plot_edu_job(df):
     '''
+    This function plots the number of positions posted for different education levels.
     :param df: dataframe that stores the dataset
     :type df: pd.DataFrame
     '''
@@ -165,6 +176,10 @@ def plot_edu_job(df):
     
 def plot_level_job(df):
     '''
+    This function plots the number of positions posted for different experience level
+    - new grad with 1 year of experience
+    - junior with 2-4 years of experience
+    - senior with more than 5 years of experience
     :param df: dataframe that stores the dataset
     :type df: pd.DataFrame
     '''
@@ -191,6 +206,9 @@ def plot_level_job(df):
     
 def plot_compliment(original_df):
     '''
+    This function plots the correlation between skills.
+    Given you are proficient in one skill, what else can you learn to better 
+    help you prepared for job finding.
     :param original_df: dataframe that stores the dataset
     :type original_df: pd.DataFrame
     '''
