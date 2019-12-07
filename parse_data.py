@@ -193,3 +193,5 @@ def parse_kaggle():
     del kaggle_data['advertiserurl']
     kaggle_data.loc['Sum'] = kaggle_data.sum()
     kaggle_data.to_excel('C:\\Users\\kevin\\Desktop\\ECE 143\\Project\\outputKaggle.xlsx')
+
+parse_kaggle()
