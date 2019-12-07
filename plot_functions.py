@@ -27,7 +27,7 @@ def plot_job_dis_by_state(df):
         z = state_df['num_of_jobs'].astype(int), # Data to be color-coded
         locationmode = 'USA-states', # set of locations match entries in `locations`
         colorscale = 'Reds',
-        colorbar_title = "",
+        colorbar_title = "# of positions",
     ))
 
     fig.update_layout(
