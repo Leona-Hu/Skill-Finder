@@ -4,6 +4,9 @@ import re
 import numpy as np
     
 def read_data():
+    """
+    reads the text files containing the job descriptions into a dictionary
+    """
     data_folder = 'C:\\Users\\kevin\\Desktop\\ECE 143\\Project\\DataScientistData\\TextFilesDataScientist'
     descritopnDict = {}
     for filename in os.listdir(data_folder):
@@ -15,6 +18,11 @@ def read_data():
     
 
 def create_df(text):
+    """
+    creates a dataframe that has the skills, location, years of experience, 
+    and minimum level of education required 
+    """
+    assert isinstance(text, str)
     skill_file = 'C:\\Users\\kevin\\Desktop\\ECE 143\\Project\\Keywords.xlsx'
     df  = pd.DataFrame(text.values(), columns=['description'], index = text.keys())
     skills = pd.read_excel(skill_file)
@@ -30,6 +38,9 @@ def create_df(text):
     return new
 
 def make_NaN(x):
+    """
+    makes a non numbers into a np.NaN
+    """
     try:
         x/1
         return x
@@ -39,10 +50,18 @@ def make_NaN(x):
 
 
 def make_int(x):
+    """
+    makes a numpy,float64 into an integer
+    """
     if x is numpy.float64:
         x = int(x)
+    return x
 
 def find_education_level(string):
+    """
+    Extracts the minimum eduction level required in a job description
+    """
+    assert isinstance(string, str)
     indeces = []
     for m in re.finditer('degree', string):
         indeces.append(m.start())
@@ -65,6 +84,10 @@ def find_education_level(string):
         return np.NaN
 
 def find_years_of_experience(string):
+    """
+    Extracts the minimum number of years of experience required in a job description
+    """
+    assert(string, str)
     numbers = {'one':1, 'two':2, 'three':3, 'four':4, 'five':5, 'six':6, 'seven':7, 'eight':8, 'nine':9, 'ten':10,'1':1, '2':2, '3':3, '4':4,  
 '5':5, '6':6, '7':7, '8':8, '9':9, '10':10}
     indeces = []
@@ -98,6 +121,9 @@ def find_years_of_experience(string):
             return np.NaN
 
 def find_locations():
+    """
+    finds the locations of a given job if it is included
+    """
     links_file = 'C:\\Users\\kevin\\Desktop\\ECE 143\\Project\\DataScientistData\\linksDataScientist.txt'
     chunk = 'https://jobs.thejobnetwork.com/job/'
     chunk2 = 'data-scientist-job-in-'
@@ -121,6 +147,10 @@ def find_locations():
     return df
 
 def pop_zip(l):
+    """
+    Gets rid of zip if it is there
+    """
+    assert isinstance(l, str)
     try:
         if RepresentsInt(l[-1]):
             l.pop(-1)
@@ -129,6 +159,10 @@ def pop_zip(l):
         pass
 
 def is_zip(l):
+    """
+    Checks if the last part of the location is a Zip code
+    """
+    assert isinstance(l, str)
     try:
         if RepresentsInt(l[-1]):
             return l[-1]
@@ -138,6 +172,10 @@ def is_zip(l):
         pass
 
 def RepresentsInt(s):
+    """
+    Checks if s represents an integer
+    """
+    assert isinstance(s, int)
     try:
         int(s)
         return True
@@ -145,6 +183,11 @@ def RepresentsInt(s):
         return False
 
 def skill_required(string, skill):
+    """
+    Checks if the skill is required for a given job
+    """
+    assert isinstance(string, str)
+    assert isinstance(skill, str)
     string = str(string)
     if skill in string:
         return 1
@@ -152,12 +195,20 @@ def skill_required(string, skill):
         return 0
    
 def make_lower(x):
+    """
+    make string into lower case
+    """
+    assert isinstance(x, str)
     try:
         return x.lower()
     except:
         return x
 
 def make2to1(x):
+    """
+    make any double occurances into 1
+    """
+    assert isinstance(x, int)
     if x:
         return 1
     else:
